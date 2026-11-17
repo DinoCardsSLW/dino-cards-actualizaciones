@@ -1,5 +1,9 @@
 # Novedades de Dino Cards
 
+## 1.12.5 · 2026-11-17
+
+- **Código no registrado:** si el escáner lee un código que ningún producto tiene, la app te pregunta si quieres agregar el producto nuevo (con el código ya puesto) o ponérselo a uno que ya existe. En los dos casos entra directo a la venta.
+
 ## 1.12.4 · 2026-11-17
 
 - **Corte del día sin contar dos veces:** si el último vendedor ya cerró su turno y no hubo movimientos después, el corte del día toma ese conteo. Solo revisas y guardas.
