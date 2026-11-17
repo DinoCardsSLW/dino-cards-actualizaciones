@@ -1,5 +1,10 @@
 # Novedades de Dino Cards
 
+## 1.12.2 · 2026-11-16
+
+- **Prueba de actualización automática.**
+- Ahora la versión del programa se ve abajo del menú, junto a "Guardado en esta PC".
+
 ## 1.12.1 · 2026-11-16
 
 - **Actualizaciones automáticas**: el programa busca versiones nuevas solo y las instala con un clic (o al cerrar el programa). Cada versión viene firmada.
