@@ -1,5 +1,9 @@
 # Novedades de Dino Cards
 
+## 1.12.3 · 2026-11-16
+
+- Se quitó el botón **Luego** del aviso de versión nueva: ahora solo están **Actualizar ahora** y **Al cerrar el programa**.
+
 ## 1.12.2 · 2026-11-16
 
 - **Prueba de actualización automática.**

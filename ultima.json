@@ -1,7 +1,7 @@
 {
-  "version": "1.12.2",
-  "fecha": "2026-11-17T05:21:02+00:00",
-  "notas": "- **Prueba de actualización automática.**\n- Ahora la versión del programa se ve abajo del menú, junto a \"Guardado en esta PC\".",
-  "instalador": "versiones/Instalar-DinoCards-1.12.2.exe",
-  "firma": "versiones/Instalar-DinoCards-1.12.2.exe.sig"
+  "version": "1.12.3",
+  "fecha": "2026-11-17T05:25:20+00:00",
+  "notas": "- Se quitó el botón **Luego** del aviso de versión nueva: ahora solo están **Actualizar ahora** y **Al cerrar el programa**.",
+  "instalador": "versiones/Instalar-DinoCards-1.12.3.exe",
+  "firma": "versiones/Instalar-DinoCards-1.12.3.exe.sig"
 }
