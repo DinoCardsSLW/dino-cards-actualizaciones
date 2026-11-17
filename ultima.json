@@ -1,0 +1,7 @@
+{
+  "version": "1.12.1",
+  "fecha": "2026-11-17T05:13:54+00:00",
+  "notas": "- **Actualizaciones automáticas**: el programa busca versiones nuevas solo y las instala con un clic (o al cerrar el programa). Cada versión viene firmada.\n- **Resumen diario por correo** con ventas, caja, turnos, movimientos de control e inventario.\n- **Conteo rotativo** de cada día y pestaña de **Mermas** en Conteo físico.\n- **SKU automático** para todos los productos.\n- **Revisión del inventario** y opción para **unir productos duplicados**.\n- **Descuentos sugeridos** según tiempo sin venderse, inventario y meta de la remisión.",
+  "instalador": "versiones/Instalar-DinoCards-1.12.1.exe",
+  "firma": "versiones/Instalar-DinoCards-1.12.1.exe.sig"
+}
