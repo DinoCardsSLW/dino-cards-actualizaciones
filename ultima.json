@@ -1,7 +1,7 @@
 {
-  "version": "1.12.3",
-  "fecha": "2026-11-17T05:25:20+00:00",
-  "notas": "- Se quitó el botón **Luego** del aviso de versión nueva: ahora solo están **Actualizar ahora** y **Al cerrar el programa**.",
-  "instalador": "versiones/Instalar-DinoCards-1.12.3.exe",
-  "firma": "versiones/Instalar-DinoCards-1.12.3.exe.sig"
+  "version": "1.12.4",
+  "fecha": "2026-11-17T06:00:08+00:00",
+  "notas": "- **Corte del día sin contar dos veces:** si el último vendedor ya cerró su turno y no hubo movimientos después, el corte del día toma ese conteo. Solo revisas y guardas.\n- **Revisión del inventario:** las existencias raras ahora se mandan a contar con el botón \"Contar estos productos\" (conteo a ciegas). Solo dueño y encargado pueden escribir la cantidad directo.\n- **Artículo libre:** ya no tiene la categoría \"Envío\". Si escribes un envío, la app te lleva al botón de Envío para que quede por empacar.",
+  "instalador": "versiones/Instalar-DinoCards-1.12.4.exe",
+  "firma": "versiones/Instalar-DinoCards-1.12.4.exe.sig"
 }

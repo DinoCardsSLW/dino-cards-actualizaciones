@@ -1,5 +1,11 @@
 # Novedades de Dino Cards
 
+## 1.12.4 · 2026-11-17
+
+- **Corte del día sin contar dos veces:** si el último vendedor ya cerró su turno y no hubo movimientos después, el corte del día toma ese conteo. Solo revisas y guardas.
+- **Revisión del inventario:** las existencias raras ahora se mandan a contar con el botón "Contar estos productos" (conteo a ciegas). Solo dueño y encargado pueden escribir la cantidad directo.
+- **Artículo libre:** ya no tiene la categoría "Envío". Si escribes un envío, la app te lleva al botón de Envío para que quede por empacar.
+
 ## 1.12.3 · 2026-11-16
 
 - Se quitó el botón **Luego** del aviso de versión nueva: ahora solo están **Actualizar ahora** y **Al cerrar el programa**.
