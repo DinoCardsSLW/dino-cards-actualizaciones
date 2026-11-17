@@ -1,5 +1,10 @@
 # Novedades de Dino Cards
 
+## 1.12.6 · 2026-11-17
+
+- **Remisiones:** si cancelas un producto nuevo dentro de una remisión, regresas a ella sin perder lo capturado.
+- **Minimizar remisión:** nuevo botón "— Minimizar" para dejarla abajo a la derecha, revisar otra cosa y terminarla después con "Continuar". Un clic fuera o Esc también la minimizan, y "Cerrar" pide confirmar si ya tenía datos.
+
 ## 1.12.5 · 2026-11-17
 
 - **Código no registrado:** si el escáner lee un código que ningún producto tiene, la app te pregunta si quieres agregar el producto nuevo (con el código ya puesto) o ponérselo a uno que ya existe. En los dos casos entra directo a la venta.
