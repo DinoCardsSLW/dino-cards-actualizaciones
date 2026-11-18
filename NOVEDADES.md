@@ -1,5 +1,10 @@
 # Novedades de Dino Cards
 
+## 1.13.1 · 2026-11-17
+
+- **El servidor se actualiza solo:** revisa cada 15 minutos si hay versión nueva y la instala cuando no hay ventas en curso (o de madrugada). Solo instala versiones firmadas por Dino Cards y, si algo falla, regresa a la anterior.
+- En Ajustes → Respaldos e importar → Servidor se ve la versión del servidor, y en Equipos con acceso las computadoras aparecen como "Programa de Windows".
+
 ## 1.13.0 · 2026-11-17
 
 - **Servidor de la tienda:** nuevo apartado en Ajustes → Respaldos e importar → Servidor para conectar esta computadora al servidor de Dino Cards. Todas las computadoras y tu celular trabajan con los mismos datos. Al conectar la primera computadora se suben sus datos, fotos y conexiones (Mercado Pago, Skydropx, Gmail).
