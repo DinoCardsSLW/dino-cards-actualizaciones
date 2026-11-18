@@ -1,5 +1,10 @@
 # Novedades de Dino Cards
 
+## 1.13.6 · 2026-11-17
+
+- **TikTok Shop:** en Ajustes → Precios y compras configuras lo que cobra TikTok (comisión, cargo por artículo, envío, promoción) y cada producto tiene su **precio TikTok** calculado solo, o fijo si lo prefieres. Lista exportable para subir a TikTok.
+- **Pedido de TikTok** en Venta (botón de la nota musical): registra el pedido con precios TikTok, descuenta existencias y guarda lo que cobró TikTok para ver la ganancia real en el corte y en Reportes.
+
 ## 1.13.5 · 2026-11-17
 
 - **Pedidos de preventa liquidados:** ya no aparecen como "por entregar" mientras la preventa no llega (hasta su fecha de llegada estimada o hasta marcarla recibida). En la lista salen como "Liquidado · por llegar".
