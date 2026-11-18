@@ -1,5 +1,9 @@
 # Novedades de Dino Cards
 
+## 1.13.7 · 2026-11-17
+
+- **Copiar para TikTok:** en cada producto, un botón que muestra título, descripción, precio TikTok, SKU, código de barras y existencias listos para copiar y pegar en TikTok Shop, y descarga la foto.
+
 ## 1.13.6 · 2026-11-17
 
 - **TikTok Shop:** en Ajustes → Precios y compras configuras lo que cobra TikTok (comisión, cargo por artículo, envío, promoción) y cada producto tiene su **precio TikTok** calculado solo, o fijo si lo prefieres. Lista exportable para subir a TikTok.

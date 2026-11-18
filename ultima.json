@@ -1,7 +1,7 @@
 {
-  "version": "1.13.6",
-  "fecha": "2026-11-18T03:43:24+00:00",
-  "notas": "- **TikTok Shop:** en Ajustes → Precios y compras configuras lo que cobra TikTok (comisión, cargo por artículo, envío, promoción) y cada producto tiene su **precio TikTok** calculado solo, o fijo si lo prefieres. Lista exportable para subir a TikTok.\n- **Pedido de TikTok** en Venta (botón de la nota musical): registra el pedido con precios TikTok, descuenta existencias y guarda lo que cobró TikTok para ver la ganancia real en el corte y en Reportes.",
-  "instalador": "versiones/Instalar-DinoCards-1.13.6.exe",
-  "firma": "versiones/Instalar-DinoCards-1.13.6.exe.sig"
+  "version": "1.13.7",
+  "fecha": "2026-11-18T04:30:26+00:00",
+  "notas": "- **Copiar para TikTok:** en cada producto, un botón que muestra título, descripción, precio TikTok, SKU, código de barras y existencias listos para copiar y pegar en TikTok Shop, y descarga la foto.",
+  "instalador": "versiones/Instalar-DinoCards-1.13.7.exe",
+  "firma": "versiones/Instalar-DinoCards-1.13.7.exe.sig"
 }
