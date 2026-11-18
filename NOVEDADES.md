@@ -1,5 +1,9 @@
 # Novedades de Dino Cards
 
+## 1.13.3 · 2026-11-17
+
+- **Computadora nueva:** en la pantalla de bienvenida hay un botón para conectarla al servidor de la tienda sin crear un usuario temporal.
+
 ## 1.13.2 · 2026-11-17
 
 - **Qué pedir (Inventario):** lista del sellado que conviene volver a pedir y cuánto, según lo que se vende, lo que tienes, lo que viene en camino y el stock mínimo. Respeta la meta de inversión de las remisiones (pone en espera lo que aún no la alcanza). Agrupado por proveedor, con mensaje listo para WhatsApp y botón para crear la remisión.
