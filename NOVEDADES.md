@@ -1,5 +1,12 @@
 # Novedades de Dino Cards
 
+## 1.13.0 · 2026-11-17
+
+- **Servidor de la tienda:** nuevo apartado en Ajustes → Respaldos e importar → Servidor para conectar esta computadora al servidor de Dino Cards. Todas las computadoras y tu celular trabajan con los mismos datos. Al conectar la primera computadora se suben sus datos, fotos y conexiones (Mercado Pago, Skydropx, Gmail).
+- **Equipos con acceso:** lista de computadoras y celulares conectados, con botón para quitarles el acceso.
+- **Ventas al mismo tiempo:** si dos computadoras venden el mismo producto a la vez, las existencias ya no se descuadran.
+- Mientras no conectes el servidor, todo sigue funcionando igual que antes, con los datos en esta computadora.
+
 ## 1.12.6 · 2026-11-17
 
 - **Remisiones:** si cancelas un producto nuevo dentro de una remisión, regresas a ella sin perder lo capturado.

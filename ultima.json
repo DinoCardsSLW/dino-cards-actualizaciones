@@ -1,7 +1,7 @@
 {
-  "version": "1.12.6",
-  "fecha": "2026-11-17T06:31:12+00:00",
-  "notas": "- **Remisiones:** si cancelas un producto nuevo dentro de una remisión, regresas a ella sin perder lo capturado.\n- **Minimizar remisión:** nuevo botón \"— Minimizar\" para dejarla abajo a la derecha, revisar otra cosa y terminarla después con \"Continuar\". Un clic fuera o Esc también la minimizan, y \"Cerrar\" pide confirmar si ya tenía datos.",
-  "instalador": "versiones/Instalar-DinoCards-1.12.6.exe",
-  "firma": "versiones/Instalar-DinoCards-1.12.6.exe.sig"
+  "version": "1.13.0",
+  "fecha": "2026-11-18T00:28:12+00:00",
+  "notas": "- **Servidor de la tienda:** nuevo apartado en Ajustes → Respaldos e importar → Servidor para conectar esta computadora al servidor de Dino Cards. Todas las computadoras y tu celular trabajan con los mismos datos. Al conectar la primera computadora se suben sus datos, fotos y conexiones (Mercado Pago, Skydropx, Gmail).\n- **Equipos con acceso:** lista de computadoras y celulares conectados, con botón para quitarles el acceso.\n- **Ventas al mismo tiempo:** si dos computadoras venden el mismo producto a la vez, las existencias ya no se descuadran.\n- Mientras no conectes el servidor, todo sigue funcionando igual que antes, con los datos en esta computadora.",
+  "instalador": "versiones/Instalar-DinoCards-1.13.0.exe",
+  "firma": "versiones/Instalar-DinoCards-1.13.0.exe.sig"
 }
