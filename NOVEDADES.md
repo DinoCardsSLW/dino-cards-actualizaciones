@@ -1,5 +1,9 @@
 # Novedades de Dino Cards
 
+## 1.13.4 · 2026-11-17
+
+- **Actualizar todos los equipos:** en Ajustes → Respaldos e importar → Servidor ves qué versión tiene cada computadora y, con un botón, les pides que se actualicen. Cada una se actualiza sola en cuanto no tenga una venta en curso.
+
 ## 1.13.3 · 2026-11-17
 
 - **Computadora nueva:** en la pantalla de bienvenida hay un botón para conectarla al servidor de la tienda sin crear un usuario temporal.

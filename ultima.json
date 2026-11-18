@@ -1,7 +1,7 @@
 {
-  "version": "1.13.3",
-  "fecha": "2026-11-18T03:06:38+00:00",
-  "notas": "- **Computadora nueva:** en la pantalla de bienvenida hay un botón para conectarla al servidor de la tienda sin crear un usuario temporal.",
-  "instalador": "versiones/Instalar-DinoCards-1.13.3.exe",
-  "firma": "versiones/Instalar-DinoCards-1.13.3.exe.sig"
+  "version": "1.13.4",
+  "fecha": "2026-11-18T03:12:20+00:00",
+  "notas": "- **Actualizar todos los equipos:** en Ajustes → Respaldos e importar → Servidor ves qué versión tiene cada computadora y, con un botón, les pides que se actualicen. Cada una se actualiza sola en cuanto no tenga una venta en curso.",
+  "instalador": "versiones/Instalar-DinoCards-1.13.4.exe",
+  "firma": "versiones/Instalar-DinoCards-1.13.4.exe.sig"
 }
