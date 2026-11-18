@@ -1,5 +1,10 @@
 # Novedades de Dino Cards
 
+## 1.13.2 · 2026-11-17
+
+- **Qué pedir (Inventario):** lista del sellado que conviene volver a pedir y cuánto, según lo que se vende, lo que tienes, lo que viene en camino y el stock mínimo. Respeta la meta de inversión de las remisiones (pone en espera lo que aún no la alcanza). Agrupado por proveedor, con mensaje listo para WhatsApp y botón para crear la remisión.
+- Los productos tienen un campo **Proveedor**, y se puede asignar desde Qué pedir.
+
 ## 1.13.1 · 2026-11-17
 
 - **El servidor se actualiza solo:** revisa cada 15 minutos si hay versión nueva y la instala cuando no hay ventas en curso (o de madrugada). Solo instala versiones firmadas por Dino Cards y, si algo falla, regresa a la anterior.
