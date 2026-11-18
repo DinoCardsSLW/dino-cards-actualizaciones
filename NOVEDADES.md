@@ -1,5 +1,9 @@
 # Novedades de Dino Cards
 
+## 1.13.5 · 2026-11-17
+
+- **Pedidos de preventa liquidados:** ya no aparecen como "por entregar" mientras la preventa no llega (hasta su fecha de llegada estimada o hasta marcarla recibida). En la lista salen como "Liquidado · por llegar".
+
 ## 1.13.4 · 2026-11-17
 
 - **Actualizar todos los equipos:** en Ajustes → Respaldos e importar → Servidor ves qué versión tiene cada computadora y, con un botón, les pides que se actualicen. Cada una se actualiza sola en cuanto no tenga una venta en curso.
