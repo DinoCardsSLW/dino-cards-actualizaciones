@@ -1,5 +1,9 @@
 # Novedades de Dino Cards
 
+## 1.13.8 · 2026-11-17
+
+- Las funciones de **TikTok Shop** quedan marcadas como **beta** (en prueba) mientras confirmamos los números con tus estados de cuenta.
+
 ## 1.13.7 · 2026-11-17
 
 - **Copiar para TikTok:** en cada producto, un botón que muestra título, descripción, precio TikTok, SKU, código de barras y existencias listos para copiar y pegar en TikTok Shop, y descarga la foto.

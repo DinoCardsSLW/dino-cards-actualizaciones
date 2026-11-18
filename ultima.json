@@ -1,7 +1,7 @@
 {
-  "version": "1.13.7",
-  "fecha": "2026-11-18T04:30:26+00:00",
-  "notas": "- **Copiar para TikTok:** en cada producto, un botón que muestra título, descripción, precio TikTok, SKU, código de barras y existencias listos para copiar y pegar en TikTok Shop, y descarga la foto.",
-  "instalador": "versiones/Instalar-DinoCards-1.13.7.exe",
-  "firma": "versiones/Instalar-DinoCards-1.13.7.exe.sig"
+  "version": "1.13.8",
+  "fecha": "2026-11-18T05:24:30+00:00",
+  "notas": "- Las funciones de **TikTok Shop** quedan marcadas como **beta** (en prueba) mientras confirmamos los números con tus estados de cuenta.",
+  "instalador": "versiones/Instalar-DinoCards-1.13.8.exe",
+  "firma": "versiones/Instalar-DinoCards-1.13.8.exe.sig"
 }
