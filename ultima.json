@@ -1,7 +1,7 @@
 {
-  "version": "1.15.2",
-  "fecha": "2026-11-19T04:49:44+00:00",
-  "notas": "- Dino Puntos: los sellos del ticket ahora llevan el logo de Dino Cards.",
-  "instalador": "versiones/Instalar-DinoCards-1.15.2.exe",
-  "firma": "versiones/Instalar-DinoCards-1.15.2.exe.sig"
+  "version": "1.16.0",
+  "fecha": "2026-11-19T05:12:32+00:00",
+  "notas": "- Nuevo: tarjeta digital Dino Puntos para cada cliente, con su código de barras. Se genera desde Clientes → Tarjeta (o \"Tarjeta\" junto al cliente en Venta) y se manda por WhatsApp.\n- En Venta, escanear la tarjeta del cliente lo elige al instante y muestra sus puntos.",
+  "instalador": "versiones/Instalar-DinoCards-1.16.0.exe",
+  "firma": "versiones/Instalar-DinoCards-1.16.0.exe.sig"
 }

@@ -1,5 +1,10 @@
 # Novedades de Dino Cards
 
+## 1.16.0 · 2026-11-18
+
+- Nuevo: tarjeta digital Dino Puntos para cada cliente, con su código de barras. Se genera desde Clientes → Tarjeta (o "Tarjeta" junto al cliente en Venta) y se manda por WhatsApp.
+- En Venta, escanear la tarjeta del cliente lo elige al instante y muestra sus puntos.
+
 ## 1.15.2 · 2026-11-18
 
 - Dino Puntos: los sellos del ticket ahora llevan el logo de Dino Cards.
