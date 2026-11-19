@@ -1,7 +1,7 @@
 {
-  "version": "1.18.0",
-  "fecha": "2026-11-19T05:53:59+00:00",
-  "notas": "Nuevo: página de Inicio en la tienda en línea (anuncios, lo nuevo, preventas, próximos torneos, ofertas y Dino Puntos). El catálogo ahora está en /tienda/catalogo.\nNuevo en el punto de venta: Ajustes → Página web, para publicar y programar anuncios en la página.",
-  "instalador": "versiones/Instalar-DinoCards-1.18.0.exe",
-  "firma": "versiones/Instalar-DinoCards-1.18.0.exe.sig"
+  "version": "1.18.1",
+  "fecha": "2026-11-19T06:04:25+00:00",
+  "notas": "Las preventas ahora piden imagen (obligatoria si se muestran en la página web) y se ve una miniatura en la lista de preventas.",
+  "instalador": "versiones/Instalar-DinoCards-1.18.1.exe",
+  "firma": "versiones/Instalar-DinoCards-1.18.1.exe.sig"
 }

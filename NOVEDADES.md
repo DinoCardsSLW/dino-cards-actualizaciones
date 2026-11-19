@@ -1,5 +1,9 @@
 # Novedades de Dino Cards
 
+## 1.18.1 · 2026-11-19
+
+Las preventas ahora piden imagen (obligatoria si se muestran en la página web) y se ve una miniatura en la lista de preventas.
+
 ## 1.18.0 · 2026-11-18
 
 Nuevo: página de Inicio en la tienda en línea (anuncios, lo nuevo, preventas, próximos torneos, ofertas y Dino Puntos). El catálogo ahora está en /tienda/catalogo.
