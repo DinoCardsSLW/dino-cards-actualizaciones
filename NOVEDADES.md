@@ -1,5 +1,10 @@
 # Novedades de Dino Cards
 
+## 1.14.2 · 2026-11-18
+
+- Cartas sueltas: al agregar otra rareza o versión de una carta que ya tienes (otro producto de TCGplayer), ahora se crea un producto aparte en lugar de sumarse al existente.
+- Revisión: "Posibles duplicados" ya no marca como duplicado dos rarezas distintas de la misma carta.
+
 ## 1.14.1 · 2026-11-18
 
 - **Catálogo PDF:** antes de generarlo eliges entre 4 diseños (Cuadrícula compacta, Vitrina, Lista con miniatura y Lista de precios). Encabezado más delgado, pie propio con número de página y sin la fecha ni la dirección del navegador.
