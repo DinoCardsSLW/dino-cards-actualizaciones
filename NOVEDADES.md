@@ -1,5 +1,9 @@
 # Novedades de Dino Cards
 
+## 1.15.2 · 2026-11-18
+
+- Dino Puntos: los sellos del ticket ahora llevan el logo de Dino Cards.
+
 ## 1.15.1 · 2026-11-18
 
 - Dino Puntos: la compra en la que el cliente usa su 10% de descuento ya no suma puntos; su tarjeta nueva empieza en 0.

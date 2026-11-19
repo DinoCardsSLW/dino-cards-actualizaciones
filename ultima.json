@@ -1,7 +1,7 @@
 {
-  "version": "1.15.1",
-  "fecha": "2026-11-19T04:47:04+00:00",
-  "notas": "- Dino Puntos: la compra en la que el cliente usa su 10% de descuento ya no suma puntos; su tarjeta nueva empieza en 0.",
-  "instalador": "versiones/Instalar-DinoCards-1.15.1.exe",
-  "firma": "versiones/Instalar-DinoCards-1.15.1.exe.sig"
+  "version": "1.15.2",
+  "fecha": "2026-11-19T04:49:44+00:00",
+  "notas": "- Dino Puntos: los sellos del ticket ahora llevan el logo de Dino Cards.",
+  "instalador": "versiones/Instalar-DinoCards-1.15.2.exe",
+  "firma": "versiones/Instalar-DinoCards-1.15.2.exe.sig"
 }
