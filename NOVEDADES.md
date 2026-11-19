@@ -1,5 +1,9 @@
 # Novedades de Dino Cards
 
+## 1.15.1 · 2026-11-18
+
+- Dino Puntos: la compra en la que el cliente usa su 10% de descuento ya no suma puntos; su tarjeta nueva empieza en 0.
+
 ## 1.15.0 · 2026-11-18
 
 - Nuevo: Dino Puntos, la tarjeta de lealtad digital. 1 punto por cada $100 (máximo 10 por compra); con 10 puntos el cliente tiene 10% de descuento en su siguiente compra. Se activa en Ajustes → Dino Puntos.
