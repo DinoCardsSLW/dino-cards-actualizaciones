@@ -1,5 +1,11 @@
 # Novedades de Dino Cards
 
+## 1.15.0 · 2026-11-18
+
+- Nuevo: Dino Puntos, la tarjeta de lealtad digital. 1 punto por cada $100 (máximo 10 por compra); con 10 puntos el cliente tiene 10% de descuento en su siguiente compra. Se activa en Ajustes → Dino Puntos.
+- El 10% no aplica en preventas, artículos en oferta o con precio rebajado, ni novedades (sellado y accesorios con 3 semanas o menos desde su primera llegada). Las novedades se marcan en Venta e Inventario.
+- La tarjeta se ve en el ticket y en Clientes; se puede corregir con motivo (queda en la Bitácora).
+
 ## 1.14.2 · 2026-11-18
 
 - Cartas sueltas: al agregar otra rareza o versión de una carta que ya tienes (otro producto de TCGplayer), ahora se crea un producto aparte en lugar de sumarse al existente.
