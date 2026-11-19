@@ -1,5 +1,9 @@
 # Novedades de Dino Cards
 
+## 1.20.1 · 2026-11-19
+
+Corrección: al subir una foto sin fondo (PNG con transparencia) a un producto, preventa o anuncio, ahora se conserva lo transparente en lugar de rellenarlo de blanco.
+
 ## 1.20.0 · 2026-11-19
 
 Nuevo: Ajustes → Página web → Fotos sin fondo. Quita el fondo a las fotos del sellado y los accesorios; revisas cada una antes de cambiarla y la original se puede regresar desde el producto.

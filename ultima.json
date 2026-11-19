@@ -1,7 +1,7 @@
 {
-  "version": "1.20.0",
-  "fecha": "2026-11-19T06:40:06+00:00",
-  "notas": "Nuevo: Ajustes → Página web → Fotos sin fondo. Quita el fondo a las fotos del sellado y los accesorios; revisas cada una antes de cambiarla y la original se puede regresar desde el producto.",
-  "instalador": "versiones/Instalar-DinoCards-1.20.0.exe",
-  "firma": "versiones/Instalar-DinoCards-1.20.0.exe.sig"
+  "version": "1.20.1",
+  "fecha": "2026-11-19T07:13:12+00:00",
+  "notas": "Corrección: al subir una foto sin fondo (PNG con transparencia) a un producto, preventa o anuncio, ahora se conserva lo transparente en lugar de rellenarlo de blanco.",
+  "instalador": "versiones/Instalar-DinoCards-1.20.1.exe",
+  "firma": "versiones/Instalar-DinoCards-1.20.1.exe.sig"
 }
