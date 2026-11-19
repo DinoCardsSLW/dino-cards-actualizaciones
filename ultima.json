@@ -1,7 +1,7 @@
 {
-  "version": "1.13.9",
-  "fecha": "2026-11-19T01:31:23+00:00",
-  "notas": "- **Inventario:** nuevo \"Ordenar por\" (precio, existencias, valor en inventario, margen, agregados o vendidos recientemente, sin venderse hace más tiempo, set y número…), encabezados de la tabla que ordenan con un clic y casilla \"Solo con existencias\".",
-  "instalador": "versiones/Instalar-DinoCards-1.13.9.exe",
-  "firma": "versiones/Instalar-DinoCards-1.13.9.exe.sig"
+  "version": "1.14.0",
+  "fecha": "2026-11-19T01:40:21+00:00",
+  "notas": "- **Una sola sesión por usuario:** si alguien entra con su usuario en otro equipo, su sesión anterior se cierra sola (el dueño queda libre, salvo que lo actives también para él).\n- **Sesiones abiertas:** en Ajustes → Usuarios y permisos ves quién está conectado, en qué equipo y desde cuándo, y puedes **cerrar su sesión a distancia**.",
+  "instalador": "versiones/Instalar-DinoCards-1.14.0.exe",
+  "firma": "versiones/Instalar-DinoCards-1.14.0.exe.sig"
 }

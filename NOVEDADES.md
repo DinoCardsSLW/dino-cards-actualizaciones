@@ -1,5 +1,10 @@
 # Novedades de Dino Cards
 
+## 1.14.0 · 2026-11-18
+
+- **Una sola sesión por usuario:** si alguien entra con su usuario en otro equipo, su sesión anterior se cierra sola (el dueño queda libre, salvo que lo actives también para él).
+- **Sesiones abiertas:** en Ajustes → Usuarios y permisos ves quién está conectado, en qué equipo y desde cuándo, y puedes **cerrar su sesión a distancia**.
+
 ## 1.13.9 · 2026-11-18
 
 - **Inventario:** nuevo "Ordenar por" (precio, existencias, valor en inventario, margen, agregados o vendidos recientemente, sin venderse hace más tiempo, set y número…), encabezados de la tabla que ordenan con un clic y casilla "Solo con existencias".
