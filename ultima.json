@@ -1,7 +1,7 @@
 {
-  "version": "1.18.1",
-  "fecha": "2026-11-19T06:04:25+00:00",
-  "notas": "Las preventas ahora piden imagen (obligatoria si se muestran en la página web) y se ve una miniatura en la lista de preventas.",
-  "instalador": "versiones/Instalar-DinoCards-1.18.1.exe",
-  "firma": "versiones/Instalar-DinoCards-1.18.1.exe.sig"
+  "version": "1.19.0",
+  "fecha": "2026-11-19T06:25:00+00:00",
+  "notas": "Página web: \"Compra por juego\" ahora muestra el logo y la foto del producto más nuevo de cada juego principal. En Ajustes → Página web eliges los juegos principales, su orden y puedes cambiar los logos.",
+  "instalador": "versiones/Instalar-DinoCards-1.19.0.exe",
+  "firma": "versiones/Instalar-DinoCards-1.19.0.exe.sig"
 }

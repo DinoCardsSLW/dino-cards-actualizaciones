@@ -1,5 +1,9 @@
 # Novedades de Dino Cards
 
+## 1.19.0 · 2026-11-19
+
+Página web: "Compra por juego" ahora muestra el logo y la foto del producto más nuevo de cada juego principal. En Ajustes → Página web eliges los juegos principales, su orden y puedes cambiar los logos.
+
 ## 1.18.1 · 2026-11-19
 
 Las preventas ahora piden imagen (obligatoria si se muestran en la página web) y se ve una miniatura en la lista de preventas.
