@@ -1,5 +1,9 @@
 # Novedades de Dino Cards
 
+## 1.20.0 · 2026-11-19
+
+Nuevo: Ajustes → Página web → Fotos sin fondo. Quita el fondo a las fotos del sellado y los accesorios; revisas cada una antes de cambiarla y la original se puede regresar desde el producto.
+
 ## 1.19.0 · 2026-11-19
 
 Página web: "Compra por juego" ahora muestra el logo y la foto del producto más nuevo de cada juego principal. En Ajustes → Página web eliges los juegos principales, su orden y puedes cambiar los logos.
