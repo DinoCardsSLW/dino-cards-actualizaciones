@@ -1,5 +1,10 @@
 # Novedades de Dino Cards
 
+## 1.17.0 · 2026-11-18
+
+- Nuevo (servidor): primera versión de la tienda en línea, en pruebas. Muestra el catálogo con los productos marcados "Mostrar en la página web" y sus existencias en vivo. Por ahora los clientes apartan por WhatsApp; el pago en línea viene después.
+- El punto de venta no cambia.
+
 ## 1.16.0 · 2026-11-18
 
 - Nuevo: tarjeta digital Dino Puntos para cada cliente, con su código de barras. Se genera desde Clientes → Tarjeta (o "Tarjeta" junto al cliente en Venta) y se manda por WhatsApp.
