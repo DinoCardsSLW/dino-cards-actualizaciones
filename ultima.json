@@ -1,7 +1,7 @@
 {
-  "version": "1.13.8",
-  "fecha": "2026-11-18T05:24:30+00:00",
-  "notas": "- Las funciones de **TikTok Shop** quedan marcadas como **beta** (en prueba) mientras confirmamos los números con tus estados de cuenta.",
-  "instalador": "versiones/Instalar-DinoCards-1.13.8.exe",
-  "firma": "versiones/Instalar-DinoCards-1.13.8.exe.sig"
+  "version": "1.13.9",
+  "fecha": "2026-11-19T01:31:23+00:00",
+  "notas": "- **Inventario:** nuevo \"Ordenar por\" (precio, existencias, valor en inventario, margen, agregados o vendidos recientemente, sin venderse hace más tiempo, set y número…), encabezados de la tabla que ordenan con un clic y casilla \"Solo con existencias\".",
+  "instalador": "versiones/Instalar-DinoCards-1.13.9.exe",
+  "firma": "versiones/Instalar-DinoCards-1.13.9.exe.sig"
 }

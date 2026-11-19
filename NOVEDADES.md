@@ -1,5 +1,9 @@
 # Novedades de Dino Cards
 
+## 1.13.9 · 2026-11-18
+
+- **Inventario:** nuevo "Ordenar por" (precio, existencias, valor en inventario, margen, agregados o vendidos recientemente, sin venderse hace más tiempo, set y número…), encabezados de la tabla que ordenan con un clic y casilla "Solo con existencias".
+
 ## 1.13.8 · 2026-11-17
 
 - Las funciones de **TikTok Shop** quedan marcadas como **beta** (en prueba) mientras confirmamos los números con tus estados de cuenta.
