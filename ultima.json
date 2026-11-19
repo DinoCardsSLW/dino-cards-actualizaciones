@@ -1,7 +1,7 @@
 {
-  "version": "1.20.2",
-  "fecha": "2026-11-19T07:20:19+00:00",
-  "notas": "Página web: botón de modo oscuro (luna) en Inicio y Catálogo.",
-  "instalador": "versiones/Instalar-DinoCards-1.20.2.exe",
-  "firma": "versiones/Instalar-DinoCards-1.20.2.exe.sig"
+  "version": "1.21.0",
+  "fecha": "2026-11-19T22:55:29+00:00",
+  "notas": "Nuevo: Niveles de clientes (Bronce, Plata y Oro) por temporadas de 3 meses, según torneos y compras. Se configura y activa en Ajustes → Niveles de clientes. Con el programa activo, el nivel se ve en Venta, Clientes, el ticket y la tarjeta, y se aplican los beneficios en inscripciones, compra de cartas y preventas.",
+  "instalador": "versiones/Instalar-DinoCards-1.21.0.exe",
+  "firma": "versiones/Instalar-DinoCards-1.21.0.exe.sig"
 }

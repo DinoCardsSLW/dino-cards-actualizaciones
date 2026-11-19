@@ -1,5 +1,9 @@
 # Novedades de Dino Cards
 
+## 1.21.0 · 2026-11-19
+
+Nuevo: Niveles de clientes (Bronce, Plata y Oro) por temporadas de 3 meses, según torneos y compras. Se configura y activa en Ajustes → Niveles de clientes. Con el programa activo, el nivel se ve en Venta, Clientes, el ticket y la tarjeta, y se aplican los beneficios en inscripciones, compra de cartas y preventas.
+
 ## 1.20.2 · 2026-11-19
 
 Página web: botón de modo oscuro (luna) en Inicio y Catálogo.
