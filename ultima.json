@@ -1,7 +1,7 @@
 {
-  "version": "1.17.0",
-  "fecha": "2026-11-19T05:36:31+00:00",
-  "notas": "- Nuevo (servidor): primera versión de la tienda en línea, en pruebas. Muestra el catálogo con los productos marcados \"Mostrar en la página web\" y sus existencias en vivo. Por ahora los clientes apartan por WhatsApp; el pago en línea viene después.\n- El punto de venta no cambia.",
-  "instalador": "versiones/Instalar-DinoCards-1.17.0.exe",
-  "firma": "versiones/Instalar-DinoCards-1.17.0.exe.sig"
+  "version": "1.18.0",
+  "fecha": "2026-11-19T05:53:59+00:00",
+  "notas": "Nuevo: página de Inicio en la tienda en línea (anuncios, lo nuevo, preventas, próximos torneos, ofertas y Dino Puntos). El catálogo ahora está en /tienda/catalogo.\nNuevo en el punto de venta: Ajustes → Página web, para publicar y programar anuncios en la página.",
+  "instalador": "versiones/Instalar-DinoCards-1.18.0.exe",
+  "firma": "versiones/Instalar-DinoCards-1.18.0.exe.sig"
 }

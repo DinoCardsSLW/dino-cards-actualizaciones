@@ -1,5 +1,15 @@
 # Novedades de Dino Cards
 
+## 1.18.0 · 2026-11-18
+
+Nuevo: página de Inicio en la tienda en línea (anuncios, lo nuevo, preventas, próximos torneos, ofertas y Dino Puntos). El catálogo ahora está en /tienda/catalogo.
+Nuevo en el punto de venta: Ajustes → Página web, para publicar y programar anuncios en la página.
+
+## 1.18.0 · 2026-11-18
+
+Nuevo: página de Inicio en la tienda en línea (anuncios, lo nuevo, preventas, próximos torneos, ofertas y Dino Puntos). El catálogo ahora está en /tienda/catalogo.
+Nuevo en el punto de venta: Ajustes → Página web, para publicar y programar anuncios en la página.
+
 ## 1.17.0 · 2026-11-18
 
 - Nuevo (servidor): primera versión de la tienda en línea, en pruebas. Muestra el catálogo con los productos marcados "Mostrar en la página web" y sus existencias en vivo. Por ahora los clientes apartan por WhatsApp; el pago en línea viene después.
