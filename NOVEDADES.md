@@ -1,5 +1,9 @@
 # Novedades de Dino Cards
 
+## 1.14.1 · 2026-11-18
+
+- **Catálogo PDF:** antes de generarlo eliges entre 4 diseños (Cuadrícula compacta, Vitrina, Lista con miniatura y Lista de precios). Encabezado más delgado, pie propio con número de página y sin la fecha ni la dirección del navegador.
+
 ## 1.14.0 · 2026-11-18
 
 - **Una sola sesión por usuario:** si alguien entra con su usuario en otro equipo, su sesión anterior se cierra sola (el dueño queda libre, salvo que lo actives también para él).
