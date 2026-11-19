@@ -1,7 +1,7 @@
 {
-  "version": "1.20.1",
-  "fecha": "2026-11-19T07:13:12+00:00",
-  "notas": "Corrección: al subir una foto sin fondo (PNG con transparencia) a un producto, preventa o anuncio, ahora se conserva lo transparente en lugar de rellenarlo de blanco.",
-  "instalador": "versiones/Instalar-DinoCards-1.20.1.exe",
-  "firma": "versiones/Instalar-DinoCards-1.20.1.exe.sig"
+  "version": "1.20.2",
+  "fecha": "2026-11-19T07:20:19+00:00",
+  "notas": "Página web: botón de modo oscuro (luna) en Inicio y Catálogo.",
+  "instalador": "versiones/Instalar-DinoCards-1.20.2.exe",
+  "firma": "versiones/Instalar-DinoCards-1.20.2.exe.sig"
 }

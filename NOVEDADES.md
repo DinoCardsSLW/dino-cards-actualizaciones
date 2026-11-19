@@ -1,5 +1,9 @@
 # Novedades de Dino Cards
 
+## 1.20.2 · 2026-11-19
+
+Página web: botón de modo oscuro (luna) en Inicio y Catálogo.
+
 ## 1.20.1 · 2026-11-19
 
 Corrección: al subir una foto sin fondo (PNG con transparencia) a un producto, preventa o anuncio, ahora se conserva lo transparente en lugar de rellenarlo de blanco.
