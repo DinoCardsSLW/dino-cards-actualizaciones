@@ -1,7 +1,7 @@
 {
-  "version": "1.23.0",
-  "fecha": "2026-11-20T00:27:43+00:00",
-  "notas": "Menú lateral más compacto: ahora tiene 7 opciones.\n- Pedidos: ventas y pedidos, tienda en línea, preventas y envíos.\n- Clientes: clientes, torneos y correo.\n- Dinero: corte de caja, gastos, pagos de tarjeta y reportes.\n- Los avisos de pedidos en línea y correos sin leer se ven junto al grupo.\n- Si prefieres el menú de antes: Ajustes → Tienda → Menú lateral → \"Menú completo (como antes)\". Se guarda en cada computadora.",
-  "instalador": "versiones/Instalar-DinoCards-1.23.0.exe",
-  "firma": "versiones/Instalar-DinoCards-1.23.0.exe.sig"
+  "version": "1.24.0",
+  "fecha": "2026-11-20T00:42:40+00:00",
+  "notas": "Envíos de la tienda en línea más exactos:\n- El paquete ahora depende de lo que lleva el carrito: suma el peso de los productos y elige la caja más chica de Ajustes → Envíos donde quepan (si no caben en una, cotiza varias cajas).\n- Margen para embalaje: un monto fijo por envío y/o un porcentaje encima de lo que cobra la paquetería (Ajustes → Página web → Tienda en línea).\n- Peso y medidas por tipo de producto (carta suelta, sobre, booster box, ETB…) editables, y cada producto de sellado puede tener las suyas en su ficha.\n- En cada pedido ves cuánto cotizó la paquetería, tu margen y qué caja usar; las notas del envío dicen el paquete.",
+  "instalador": "versiones/Instalar-DinoCards-1.24.0.exe",
+  "firma": "versiones/Instalar-DinoCards-1.24.0.exe.sig"
 }

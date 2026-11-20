@@ -1,5 +1,13 @@
 # Novedades de Dino Cards
 
+## 1.24.0 · 2026-11-19
+
+Envíos de la tienda en línea más exactos:
+- El paquete ahora depende de lo que lleva el carrito: suma el peso de los productos y elige la caja más chica de Ajustes → Envíos donde quepan (si no caben en una, cotiza varias cajas).
+- Margen para embalaje: un monto fijo por envío y/o un porcentaje encima de lo que cobra la paquetería (Ajustes → Página web → Tienda en línea).
+- Peso y medidas por tipo de producto (carta suelta, sobre, booster box, ETB…) editables, y cada producto de sellado puede tener las suyas en su ficha.
+- En cada pedido ves cuánto cotizó la paquetería, tu margen y qué caja usar; las notas del envío dicen el paquete.
+
 ## 1.23.0 · 2026-11-19
 
 Menú lateral más compacto: ahora tiene 7 opciones.
