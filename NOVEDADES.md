@@ -1,5 +1,11 @@
 # Novedades de Dino Cards
 
+## 1.25.2 · 2026-11-19
+
+Correos por la API de Gmail:
+- El servidor (DigitalOcean) bloquea el envío por contraseña de aplicación. Ahora se puede conectar Gmail con la API (Ajustes → Correo → "Autorizar con Google"), que sí funciona desde el servidor.
+- Con eso vuelven a salir los códigos de Mi cuenta, el resumen diario y el aviso de llegada de preventas.
+
 ## 1.25.1 · 2026-11-19
 
 Se quitó la sección "Correo" (bandeja de correos de proveedores) del menú, su contador y su aviso en Inicio.
