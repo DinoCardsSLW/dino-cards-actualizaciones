@@ -1,7 +1,7 @@
 {
-  "version": "1.26.2",
-  "fecha": "2026-11-20T06:19:30+00:00",
-  "notas": "Preventas en la página: botón \"Cambiar método de pago\".\n- Si el cliente apartó para pagar el anticipo con Mercado Pago y no pudo, desde Mi cuenta puede cambiar a pagarlo en la tienda (2 días). Se puede cambiar una vez.\n- En el punto de venta el apartado aparece con la etiqueta \"Anticipo en tienda\".",
-  "instalador": "versiones/Instalar-DinoCards-1.26.2.exe",
-  "firma": "versiones/Instalar-DinoCards-1.26.2.exe.sig"
+  "version": "1.26.3",
+  "fecha": "2026-11-20T06:24:38+00:00",
+  "notas": "Preventas en la página:\n- \"Cambiar método de pago\" sale en todos los apartados con anticipo pendiente: de Mercado Pago a tienda, o de tienda a pagar en línea.\n- Corregido: al pagar en línea un anticipo menor a $100 pedía mínimo $100; ahora el mínimo es lo que falta del anticipo.",
+  "instalador": "versiones/Instalar-DinoCards-1.26.3.exe",
+  "firma": "versiones/Instalar-DinoCards-1.26.3.exe.sig"
 }

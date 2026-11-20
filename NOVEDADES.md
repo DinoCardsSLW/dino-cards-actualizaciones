@@ -1,5 +1,11 @@
 # Novedades de Dino Cards
 
+## 1.26.3 · 2026-11-20
+
+Preventas en la página:
+- "Cambiar método de pago" sale en todos los apartados con anticipo pendiente: de Mercado Pago a tienda, o de tienda a pagar en línea.
+- Corregido: al pagar en línea un anticipo menor a $100 pedía mínimo $100; ahora el mínimo es lo que falta del anticipo.
+
 ## 1.26.2 · 2026-11-20
 
 Preventas en la página: botón "Cambiar método de pago".
