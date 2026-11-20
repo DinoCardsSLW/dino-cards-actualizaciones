@@ -1,5 +1,11 @@
 # Novedades de Dino Cards
 
+## 1.33.1 · 2026-11-20
+
+## Novedades 1.33.1
+
+- Los **Términos y condiciones** ahora dicen la regla de las preventas: si no liquidas antes de la fecha límite, pierdes tu apartado y lo abonado (igual que en la página de Preventas y en el comprobante).
+
 ## 1.33.0 · 2026-11-20
 
 ## Novedades 1.33.0 (página web)

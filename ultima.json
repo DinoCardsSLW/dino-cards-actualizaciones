@@ -1,7 +1,7 @@
 {
-  "version": "1.33.0",
-  "fecha": "2026-11-20T22:54:38+00:00",
-  "notas": "## Novedades 1.33.0 (página web)\n\n- **Página de cada producto** (`/tienda/producto/…`): foto grande, precio y oferta, existencias, cantidad, **Agregar al carrito** y **Comprar ahora**, Dino Puntos que gana, descripción, compartir por WhatsApp y \"También te puede gustar\".\n  - Al compartir la liga por WhatsApp o Facebook se ve la foto, el nombre y el precio; Google también recibe el precio y si hay existencias.\n  - Las tarjetas de Inicio llevan a esta página y el catálogo tiene la liga \"Ver la página del producto\".\n- **Página de Preventas** (`/tienda/preventas`) con pestaña en el menú: todas las preventas abiertas con precio, anticipo, fecha límite, llegada estimada, filtro por juego, botón **Apartar** y las reglas de los apartados.",
-  "instalador": "versiones/Instalar-DinoCards-1.33.0.exe",
-  "firma": "versiones/Instalar-DinoCards-1.33.0.exe.sig"
+  "version": "1.33.1",
+  "fecha": "2026-11-20T22:55:14+00:00",
+  "notas": "## Novedades 1.33.1\n\n- Los **Términos y condiciones** ahora dicen la regla de las preventas: si no liquidas antes de la fecha límite, pierdes tu apartado y lo abonado (igual que en la página de Preventas y en el comprobante).",
+  "instalador": "versiones/Instalar-DinoCards-1.33.1.exe",
+  "firma": "versiones/Instalar-DinoCards-1.33.1.exe.sig"
 }
