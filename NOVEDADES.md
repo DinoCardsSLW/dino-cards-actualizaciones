@@ -1,5 +1,16 @@
 # Novedades de Dino Cards
 
+## 1.32.0 · 2026-11-20
+
+## Novedades 1.32.0
+
+- **Avisar ofertas a clientes:** en **Inventario → Descuentos sugeridos → En oferta**, botón **📣 Avisar a clientes**.
+  - Eliges el juego y las ofertas a anunciar.
+  - Se avisa a los clientes que compraron ese juego en los últimos meses o lo tienen de juego favorito.
+  - **Solo a quienes aceptaron recibir promociones** en su ficha (correo o WhatsApp).
+  - Correo automático con el Gmail de la tienda y botón de WhatsApp por cliente, con el mensaje listo y editable.
+  - No se repite el correo a quien ya se avisó de ese juego en los últimos 7 días.
+
 ## 1.31.0 · 2026-11-20
 
 ## Novedades 1.31.0

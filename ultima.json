@@ -1,7 +1,7 @@
 {
-  "version": "1.31.0",
-  "fecha": "2026-11-20T22:35:09+00:00",
-  "notas": "## Novedades 1.31.0\n\n- **Liga de torneos:** en Torneos, botón **🏆 Liga**.\n  - Creas temporadas con las fechas que quieras (por ejemplo, lo que dura un set).\n  - Cada torneo terminado suma puntos por asistir y puntos extra por lugar (1.º +5, 2.º +3, 3.º +2, 4.º +1; se pueden cambiar).\n  - Una tabla por juego, con botón para copiarla y mandarla por WhatsApp.\n  - La tabla también aparece en la página de **Torneos**, con nombre e inicial del apellido.\n  - Cada torneo tiene la casilla **Cuenta para la liga**.\n- **Autorizaciones:** cuando un vendedor cancela una venta, hace una devolución, da un descuento mayor al % que elijas (10% por omisión) o saca efectivo de la caja, se pide la contraseña del dueño o de un encargado.\n  - Queda anotado quién autorizó, en la venta o el movimiento y en la bitácora.\n  - Se configura en **Ajustes → Usuarios y permisos → Autorizaciones**.",
-  "instalador": "versiones/Instalar-DinoCards-1.31.0.exe",
-  "firma": "versiones/Instalar-DinoCards-1.31.0.exe.sig"
+  "version": "1.32.0",
+  "fecha": "2026-11-20T22:47:40+00:00",
+  "notas": "## Novedades 1.32.0\n\n- **Avisar ofertas a clientes:** en **Inventario → Descuentos sugeridos → En oferta**, botón **📣 Avisar a clientes**.\n  - Eliges el juego y las ofertas a anunciar.\n  - Se avisa a los clientes que compraron ese juego en los últimos meses o lo tienen de juego favorito.\n  - **Solo a quienes aceptaron recibir promociones** en su ficha (correo o WhatsApp).\n  - Correo automático con el Gmail de la tienda y botón de WhatsApp por cliente, con el mensaje listo y editable.\n  - No se repite el correo a quien ya se avisó de ese juego en los últimos 7 días.",
+  "instalador": "versiones/Instalar-DinoCards-1.32.0.exe",
+  "firma": "versiones/Instalar-DinoCards-1.32.0.exe.sig"
 }
