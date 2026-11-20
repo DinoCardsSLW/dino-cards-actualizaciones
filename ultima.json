@@ -1,7 +1,7 @@
 {
-  "version": "1.25.2",
-  "fecha": "2026-11-20T05:07:52+00:00",
-  "notas": "Correos por la API de Gmail:\n- El servidor (DigitalOcean) bloquea el envío por contraseña de aplicación. Ahora se puede conectar Gmail con la API (Ajustes → Correo → \"Autorizar con Google\"), que sí funciona desde el servidor.\n- Con eso vuelven a salir los códigos de Mi cuenta, el resumen diario y el aviso de llegada de preventas.",
-  "instalador": "versiones/Instalar-DinoCards-1.25.2.exe",
-  "firma": "versiones/Instalar-DinoCards-1.25.2.exe.sig"
+  "version": "1.25.3",
+  "fecha": "2026-11-20T05:42:20+00:00",
+  "notas": "Ajustes a Mi cuenta:\n- Si el cliente aún no tiene código de tarjeta (DC#####), se le asigna al entrar a Mi cuenta y su tarjeta ya muestra el código de barras.\n- El botón \"Mi cuenta\" se ve bien en modo oscuro.\n- Al autorizar Gmail, si no se marcó la casilla de enviar correo, el programa lo avisa.",
+  "instalador": "versiones/Instalar-DinoCards-1.25.3.exe",
+  "firma": "versiones/Instalar-DinoCards-1.25.3.exe.sig"
 }

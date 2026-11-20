@@ -1,5 +1,12 @@
 # Novedades de Dino Cards
 
+## 1.25.3 · 2026-11-19
+
+Ajustes a Mi cuenta:
+- Si el cliente aún no tiene código de tarjeta (DC#####), se le asigna al entrar a Mi cuenta y su tarjeta ya muestra el código de barras.
+- El botón "Mi cuenta" se ve bien en modo oscuro.
+- Al autorizar Gmail, si no se marcó la casilla de enviar correo, el programa lo avisa.
+
 ## 1.25.2 · 2026-11-19
 
 Correos por la API de Gmail:
