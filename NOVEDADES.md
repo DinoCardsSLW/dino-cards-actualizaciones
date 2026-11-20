@@ -1,5 +1,17 @@
 # Novedades de Dino Cards
 
+## 1.29.0 · 2026-11-20
+
+## Novedades 1.29.0
+
+- **Dino Puntos: eliges el premio.** En Ajustes → Dino Puntos ahora escoges qué recibe el cliente al llenar su tarjeta:
+  - **% de descuento** en su siguiente compra (como hasta ahora), o
+  - **Crédito en tienda**: al llenar la tarjeta se le abona el monto que pongas a su crédito en ese momento y empieza una tarjeta nueva.
+- Con crédito, si se cancela o se devuelve la compra que llenó la tarjeta, se le quita ese crédito (lo que le quede) y regresan sus puntos. Queda anotado en el historial de crédito y en la bitácora.
+- Si cambias a crédito, los clientes que ya tenían la tarjeta llena con el descuento reciben el crédito en su siguiente compra.
+- La página web, Mi cuenta, la tarjeta del cliente y el ticket muestran el premio que elijas.
+- Corrección: al devolver parte de una compra, los Dino Puntos de esa venta ahora se guardan bien.
+
 ## 1.28.1 · 2026-11-20
 
 ## Novedades 1.28.1
