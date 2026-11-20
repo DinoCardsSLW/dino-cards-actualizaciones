@@ -1,7 +1,7 @@
 {
-  "version": "1.34.0",
-  "fecha": "2026-11-20T23:31:51+00:00",
-  "notas": "**Subastas**\n\n- Nueva sección **Pedidos → Subastas** en el punto de venta: publica una pieza con precio inicial, incremento mínimo y hora de cierre. La pieza sale del inventario mientras está en subasta.\n- Nueva página **Subastas** en la tienda en línea. Solo pujan clientes con Mi cuenta; a quien superan le llega un correo.\n- Cada subasta cierra exactamente a su hora. El ganador recibe un correo y tiene 48 horas para pagar en línea (Mercado Pago, se registra solo) o en la tienda (**Cobrar en tienda**).\n- Si el ganador no paga, la pieza se le ofrece al siguiente lugar y ese cliente ya no puede pujar (el dueño puede desbloquearlo desde la ficha del cliente).\n- Si nadie puja, nadie paga o la cancelas, la pieza regresa al inventario.\n- Los términos y condiciones incluyen ahora la sección de subastas.",
-  "instalador": "versiones/Instalar-DinoCards-1.34.0.exe",
-  "firma": "versiones/Instalar-DinoCards-1.34.0.exe.sig"
+  "version": "1.35.0",
+  "fecha": "2026-11-20T23:51:35+00:00",
+  "notas": "**Pile of loot**\n\n- Los clientes con Mi cuenta pueden guardar en su **pile** las cartas sueltas que compran en la página (\"Guardar en mi pile\" en el carrito, se pagan en línea) y las subastas que ganan y pagan en línea.\n- Desde **Mi cuenta → Tu pile** piden el envío de todo junto. Se cotiza como el carrito y es gratis si el pile alcanza el monto de envío gratis. También pueden avisar que pasan a recogerlo.\n- El plazo para guardar se configura en **Ajustes → Página web → Tienda en línea** (días desde la pieza más antigua y aviso por correo antes de vencer). Al vencer, las piezas quedan para recoger en tienda y el cliente todavía puede pagar su envío.\n- Nueva sección **Pedidos → Piles de clientes**: quién está guardando, quién debe recoger y los envíos en curso; desde ahí se entregan las piezas en tienda.\n- Los pedidos de la página que van al pile aparecen como \"Pagado · guardar en su pile\" hasta que marques \"Ya lo guardé en su pile\".\n- Al cobrar una subasta en tienda puedes marcar \"Guardar en su pile\".\n- Los términos y condiciones incluyen el pile en la sección de envíos.",
+  "instalador": "versiones/Instalar-DinoCards-1.35.0.exe",
+  "firma": "versiones/Instalar-DinoCards-1.35.0.exe.sig"
 }

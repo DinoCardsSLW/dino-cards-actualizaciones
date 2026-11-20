@@ -1,5 +1,17 @@
 # Novedades de Dino Cards
 
+## 1.35.0 · 2026-11-20
+
+**Pile of loot**
+
+- Los clientes con Mi cuenta pueden guardar en su **pile** las cartas sueltas que compran en la página ("Guardar en mi pile" en el carrito, se pagan en línea) y las subastas que ganan y pagan en línea.
+- Desde **Mi cuenta → Tu pile** piden el envío de todo junto. Se cotiza como el carrito y es gratis si el pile alcanza el monto de envío gratis. También pueden avisar que pasan a recogerlo.
+- El plazo para guardar se configura en **Ajustes → Página web → Tienda en línea** (días desde la pieza más antigua y aviso por correo antes de vencer). Al vencer, las piezas quedan para recoger en tienda y el cliente todavía puede pagar su envío.
+- Nueva sección **Pedidos → Piles de clientes**: quién está guardando, quién debe recoger y los envíos en curso; desde ahí se entregan las piezas en tienda.
+- Los pedidos de la página que van al pile aparecen como "Pagado · guardar en su pile" hasta que marques "Ya lo guardé en su pile".
+- Al cobrar una subasta en tienda puedes marcar "Guardar en su pile".
+- Los términos y condiciones incluyen el pile en la sección de envíos.
+
 ## 1.34.0 · 2026-11-20
 
 **Subastas**
