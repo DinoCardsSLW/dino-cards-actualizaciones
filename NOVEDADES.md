@@ -1,5 +1,13 @@
 # Novedades de Dino Cards
 
+## 1.28.1 · 2026-11-20
+
+## Novedades 1.28.1
+
+- **Premiación de los torneos:** en cada torneo (y en la *Semana de torneos*, botón *Artículos y premios*) ahora puedes poner lo que se reparte en premios: una cantidad fija, por jugador o "1 por cada N jugadores".
+- **Lo que incluye la inscripción** también se pone desde la *Semana de torneos* y se guarda en la plantilla.
+- **Ganancia estimada:** con el costo de los artículos y de la premiación, el torneo muestra cuánto queda con los jugadores esperados y desde cuántos jugadores sale a mano.
+
 ## 1.28.0 · 2026-11-20
 
 ## Novedades 1.28.0

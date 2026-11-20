@@ -1,7 +1,7 @@
 {
-  "version": "1.28.0",
-  "fecha": "2026-11-20T06:48:32+00:00",
-  "notas": "## Novedades 1.28.0\n\n- **Página \"Torneos y eventos\"** en la tienda en línea (pestaña *Torneos*): la semana completa de lunes a domingo, con los torneos de cada día, los que ya pasaron marcados, inscripción en línea y flechas para ver otras semanas.\n- **Semana de torneos** en el punto de venta (Torneos → *Semana de torneos*): una plantilla con tus torneos fijos para crear los de toda una semana de un jalón, sin repetir los que ya existen. Ahí mismo eliges qué dice la página los días sin torneo (Cerrado, Juego libre…).",
-  "instalador": "versiones/Instalar-DinoCards-1.28.0.exe",
-  "firma": "versiones/Instalar-DinoCards-1.28.0.exe.sig"
+  "version": "1.28.1",
+  "fecha": "2026-11-20T06:59:18+00:00",
+  "notas": "## Novedades 1.28.1\n\n- **Premiación de los torneos:** en cada torneo (y en la *Semana de torneos*, botón *Artículos y premios*) ahora puedes poner lo que se reparte en premios: una cantidad fija, por jugador o \"1 por cada N jugadores\".\n- **Lo que incluye la inscripción** también se pone desde la *Semana de torneos* y se guarda en la plantilla.\n- **Ganancia estimada:** con el costo de los artículos y de la premiación, el torneo muestra cuánto queda con los jugadores esperados y desde cuántos jugadores sale a mano.",
+  "instalador": "versiones/Instalar-DinoCards-1.28.1.exe",
+  "firma": "versiones/Instalar-DinoCards-1.28.1.exe.sig"
 }
