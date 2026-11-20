@@ -1,5 +1,19 @@
 # Novedades de Dino Cards
 
+## 1.31.0 · 2026-11-20
+
+## Novedades 1.31.0
+
+- **Liga de torneos:** en Torneos, botón **🏆 Liga**.
+  - Creas temporadas con las fechas que quieras (por ejemplo, lo que dura un set).
+  - Cada torneo terminado suma puntos por asistir y puntos extra por lugar (1.º +5, 2.º +3, 3.º +2, 4.º +1; se pueden cambiar).
+  - Una tabla por juego, con botón para copiarla y mandarla por WhatsApp.
+  - La tabla también aparece en la página de **Torneos**, con nombre e inicial del apellido.
+  - Cada torneo tiene la casilla **Cuenta para la liga**.
+- **Autorizaciones:** cuando un vendedor cancela una venta, hace una devolución, da un descuento mayor al % que elijas (10% por omisión) o saca efectivo de la caja, se pide la contraseña del dueño o de un encargado.
+  - Queda anotado quién autorizó, en la venta o el movimiento y en la bitácora.
+  - Se configura en **Ajustes → Usuarios y permisos → Autorizaciones**.
+
 ## 1.30.0 · 2026-11-20
 
 ## Novedades 1.30.0
