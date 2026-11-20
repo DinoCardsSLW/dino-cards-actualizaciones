@@ -1,5 +1,13 @@
 # Novedades de Dino Cards
 
+## 1.29.1 · 2026-11-20
+
+## Novedades 1.29.1
+
+- **Ajustar Dino Puntos a mano:** en Clientes, botón **Ajustar puntos** en cada cliente. Puedes **sumar**, **quitar** o **dejar en** un número, con motivo, y ves cómo quedará antes de guardar.
+- Si con el ajuste se llena la tarjeta y el premio es crédito en tienda, se le abona el crédito en ese momento.
+- El **Historial** del cliente ahora tiene la columna **Dino Puntos**: los puntos de cada compra, los ajustes a mano (quién, cuándo y por qué) y el crédito que le dieron sus tarjetas llenas.
+
 ## 1.29.0 · 2026-11-20
 
 ## Novedades 1.29.0

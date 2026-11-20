@@ -1,7 +1,7 @@
 {
-  "version": "1.29.0",
-  "fecha": "2026-11-20T07:14:09+00:00",
-  "notas": "## Novedades 1.29.0\n\n- **Dino Puntos: eliges el premio.** En Ajustes → Dino Puntos ahora escoges qué recibe el cliente al llenar su tarjeta:\n  - **% de descuento** en su siguiente compra (como hasta ahora), o\n  - **Crédito en tienda**: al llenar la tarjeta se le abona el monto que pongas a su crédito en ese momento y empieza una tarjeta nueva.\n- Con crédito, si se cancela o se devuelve la compra que llenó la tarjeta, se le quita ese crédito (lo que le quede) y regresan sus puntos. Queda anotado en el historial de crédito y en la bitácora.\n- Si cambias a crédito, los clientes que ya tenían la tarjeta llena con el descuento reciben el crédito en su siguiente compra.\n- La página web, Mi cuenta, la tarjeta del cliente y el ticket muestran el premio que elijas.\n- Corrección: al devolver parte de una compra, los Dino Puntos de esa venta ahora se guardan bien.",
-  "instalador": "versiones/Instalar-DinoCards-1.29.0.exe",
-  "firma": "versiones/Instalar-DinoCards-1.29.0.exe.sig"
+  "version": "1.29.1",
+  "fecha": "2026-11-20T07:17:38+00:00",
+  "notas": "## Novedades 1.29.1\n\n- **Ajustar Dino Puntos a mano:** en Clientes, botón **Ajustar puntos** en cada cliente. Puedes **sumar**, **quitar** o **dejar en** un número, con motivo, y ves cómo quedará antes de guardar.\n- Si con el ajuste se llena la tarjeta y el premio es crédito en tienda, se le abona el crédito en ese momento.\n- El **Historial** del cliente ahora tiene la columna **Dino Puntos**: los puntos de cada compra, los ajustes a mano (quién, cuándo y por qué) y el crédito que le dieron sus tarjetas llenas.",
+  "instalador": "versiones/Instalar-DinoCards-1.29.1.exe",
+  "firma": "versiones/Instalar-DinoCards-1.29.1.exe.sig"
 }
