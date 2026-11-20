@@ -1,5 +1,11 @@
 # Novedades de Dino Cards
 
+## 1.26.2 · 2026-11-20
+
+Preventas en la página: botón "Cambiar método de pago".
+- Si el cliente apartó para pagar el anticipo con Mercado Pago y no pudo, desde Mi cuenta puede cambiar a pagarlo en la tienda (2 días). Se puede cambiar una vez.
+- En el punto de venta el apartado aparece con la etiqueta "Anticipo en tienda".
+
 ## 1.26.1 · 2026-11-20
 
 Ajustes a preventas en la página:
