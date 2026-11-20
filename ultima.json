@@ -1,7 +1,7 @@
 {
-  "version": "1.33.2",
-  "fecha": "2026-11-20T22:58:48+00:00",
-  "notas": "## Novedades 1.33.2\n\n- En modo oscuro, las fotos sin fondo de la página de **Preventas** y de \"También te puede gustar\" ya no salen sobre un cuadro blanco (igual que en Inicio y el Catálogo).",
-  "instalador": "versiones/Instalar-DinoCards-1.33.2.exe",
-  "firma": "versiones/Instalar-DinoCards-1.33.2.exe.sig"
+  "version": "1.34.0",
+  "fecha": "2026-11-20T23:31:51+00:00",
+  "notas": "**Subastas**\n\n- Nueva sección **Pedidos → Subastas** en el punto de venta: publica una pieza con precio inicial, incremento mínimo y hora de cierre. La pieza sale del inventario mientras está en subasta.\n- Nueva página **Subastas** en la tienda en línea. Solo pujan clientes con Mi cuenta; a quien superan le llega un correo.\n- Cada subasta cierra exactamente a su hora. El ganador recibe un correo y tiene 48 horas para pagar en línea (Mercado Pago, se registra solo) o en la tienda (**Cobrar en tienda**).\n- Si el ganador no paga, la pieza se le ofrece al siguiente lugar y ese cliente ya no puede pujar (el dueño puede desbloquearlo desde la ficha del cliente).\n- Si nadie puja, nadie paga o la cancelas, la pieza regresa al inventario.\n- Los términos y condiciones incluyen ahora la sección de subastas.",
+  "instalador": "versiones/Instalar-DinoCards-1.34.0.exe",
+  "firma": "versiones/Instalar-DinoCards-1.34.0.exe.sig"
 }

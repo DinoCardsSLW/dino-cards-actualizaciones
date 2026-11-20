@@ -1,5 +1,16 @@
 # Novedades de Dino Cards
 
+## 1.34.0 · 2026-11-20
+
+**Subastas**
+
+- Nueva sección **Pedidos → Subastas** en el punto de venta: publica una pieza con precio inicial, incremento mínimo y hora de cierre. La pieza sale del inventario mientras está en subasta.
+- Nueva página **Subastas** en la tienda en línea. Solo pujan clientes con Mi cuenta; a quien superan le llega un correo.
+- Cada subasta cierra exactamente a su hora. El ganador recibe un correo y tiene 48 horas para pagar en línea (Mercado Pago, se registra solo) o en la tienda (**Cobrar en tienda**).
+- Si el ganador no paga, la pieza se le ofrece al siguiente lugar y ese cliente ya no puede pujar (el dueño puede desbloquearlo desde la ficha del cliente).
+- Si nadie puja, nadie paga o la cancelas, la pieza regresa al inventario.
+- Los términos y condiciones incluyen ahora la sección de subastas.
+
 ## 1.33.2 · 2026-11-20
 
 ## Novedades 1.33.2
