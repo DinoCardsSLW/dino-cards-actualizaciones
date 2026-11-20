@@ -1,7 +1,7 @@
 {
-  "version": "1.29.1",
-  "fecha": "2026-11-20T07:17:38+00:00",
-  "notas": "## Novedades 1.29.1\n\n- **Ajustar Dino Puntos a mano:** en Clientes, botón **Ajustar puntos** en cada cliente. Puedes **sumar**, **quitar** o **dejar en** un número, con motivo, y ves cómo quedará antes de guardar.\n- Si con el ajuste se llena la tarjeta y el premio es crédito en tienda, se le abona el crédito en ese momento.\n- El **Historial** del cliente ahora tiene la columna **Dino Puntos**: los puntos de cada compra, los ajustes a mano (quién, cuándo y por qué) y el crédito que le dieron sus tarjetas llenas.",
-  "instalador": "versiones/Instalar-DinoCards-1.29.1.exe",
-  "firma": "versiones/Instalar-DinoCards-1.29.1.exe.sig"
+  "version": "1.29.2",
+  "fecha": "2026-11-20T21:38:33+00:00",
+  "notas": "## Novedades 1.29.2\n\n- **Corrección al entrar:** si el dueño cambiaba la contraseña de alguien mientras esa persona tenía abierta la ventana de \"Escribe tu contraseña\", la nueva no funcionaba hasta cerrar y volver a abrir la ventana. Ahora siempre se revisa contra la contraseña más reciente.",
+  "instalador": "versiones/Instalar-DinoCards-1.29.2.exe",
+  "firma": "versiones/Instalar-DinoCards-1.29.2.exe.sig"
 }

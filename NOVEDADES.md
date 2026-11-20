@@ -1,5 +1,11 @@
 # Novedades de Dino Cards
 
+## 1.29.2 · 2026-11-20
+
+## Novedades 1.29.2
+
+- **Corrección al entrar:** si el dueño cambiaba la contraseña de alguien mientras esa persona tenía abierta la ventana de "Escribe tu contraseña", la nueva no funcionaba hasta cerrar y volver a abrir la ventana. Ahora siempre se revisa contra la contraseña más reciente.
+
 ## 1.29.1 · 2026-11-20
 
 ## Novedades 1.29.1
