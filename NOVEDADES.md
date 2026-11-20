@@ -1,5 +1,9 @@
 # Novedades de Dino Cards
 
+## 1.22.1 · 2026-11-19
+
+Preventas: si el cliente no liquida a tiempo pierde su apartado y lo abonado. Al cancelar un pedido vencido se conserva lo abonado por omisión, y el comprobante y la página lo avisan.
+
 ## 1.22.0 · 2026-11-19
 
 Nuevo: carrito y pago en la tienda en línea (Mercado Pago o pagar al recoger, envío con Skydropx). Viene apagado: se enciende en Ajustes → Página web → Tienda en línea. Los pedidos llegan a la nueva sección Tienda en línea.
