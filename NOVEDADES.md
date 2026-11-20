@@ -1,5 +1,14 @@
 # Novedades de Dino Cards
 
+## 1.25.0 · 2026-11-19
+
+Mi cuenta en la página web (/tienda/cuenta):
+- El cliente entra con un código que le llega al correo que tiene registrado en la tienda (sin contraseña). Los códigos salen del Gmail conectado en Ajustes → Correo.
+- Ve su tarjeta Dino Puntos con código de barras, su nivel y progreso de la temporada, crédito en tienda, preventas (lo que lleva y lo que le falta), pedidos en línea y compras recientes.
+- Con su cuenta abierta puede usar su 10% de Dino Puntos al pagar en el carrito (mismas reglas que en la tienda). Si el pedido se cancela o vence, se le regresa.
+- Botón "Mi cuenta" en todas las páginas de la tienda.
+- Se enciende/apaga en Ajustes → Página web → Mi cuenta. Solo pueden entrar los clientes que tienen correo registrado.
+
 ## 1.24.0 · 2026-11-19
 
 Envíos de la tienda en línea más exactos:

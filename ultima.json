@@ -1,7 +1,7 @@
 {
-  "version": "1.24.0",
-  "fecha": "2026-11-20T00:42:40+00:00",
-  "notas": "Envíos de la tienda en línea más exactos:\n- El paquete ahora depende de lo que lleva el carrito: suma el peso de los productos y elige la caja más chica de Ajustes → Envíos donde quepan (si no caben en una, cotiza varias cajas).\n- Margen para embalaje: un monto fijo por envío y/o un porcentaje encima de lo que cobra la paquetería (Ajustes → Página web → Tienda en línea).\n- Peso y medidas por tipo de producto (carta suelta, sobre, booster box, ETB…) editables, y cada producto de sellado puede tener las suyas en su ficha.\n- En cada pedido ves cuánto cotizó la paquetería, tu margen y qué caja usar; las notas del envío dicen el paquete.",
-  "instalador": "versiones/Instalar-DinoCards-1.24.0.exe",
-  "firma": "versiones/Instalar-DinoCards-1.24.0.exe.sig"
+  "version": "1.25.0",
+  "fecha": "2026-11-20T01:02:05+00:00",
+  "notas": "Mi cuenta en la página web (/tienda/cuenta):\n- El cliente entra con un código que le llega al correo que tiene registrado en la tienda (sin contraseña). Los códigos salen del Gmail conectado en Ajustes → Correo.\n- Ve su tarjeta Dino Puntos con código de barras, su nivel y progreso de la temporada, crédito en tienda, preventas (lo que lleva y lo que le falta), pedidos en línea y compras recientes.\n- Con su cuenta abierta puede usar su 10% de Dino Puntos al pagar en el carrito (mismas reglas que en la tienda). Si el pedido se cancela o vence, se le regresa.\n- Botón \"Mi cuenta\" en todas las páginas de la tienda.\n- Se enciende/apaga en Ajustes → Página web → Mi cuenta. Solo pueden entrar los clientes que tienen correo registrado.",
+  "instalador": "versiones/Instalar-DinoCards-1.25.0.exe",
+  "firma": "versiones/Instalar-DinoCards-1.25.0.exe.sig"
 }
