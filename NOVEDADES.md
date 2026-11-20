@@ -1,5 +1,14 @@
 # Novedades de Dino Cards
 
+## 1.26.0 · 2026-11-19
+
+Preventas en la página:
+- En cada preventa hay una casilla nueva: "Se puede apartar en la página". Las marcadas muestran el botón "Apartar aquí"; las demás siguen por WhatsApp.
+- El cliente entra a Mi cuenta, elige cuántas piezas y paga el anticipo con Mercado Pago o lo lleva a la tienda (2 días). Se respetan cupo, máximo por cliente, acceso anticipado y anticipo menor de Plata/Oro.
+- Si no paga el anticipo a tiempo, el apartado se cancela solo y se libera el lugar.
+- Desde Mi cuenta el cliente abona o liquida con Mercado Pago; el abono se registra solo en su pedido (y en el corte, como Mercado Pago).
+- En el punto de venta: los apartados de la página llevan etiqueta, Inicio avisa los anticipos pendientes en tienda y Tienda en línea lista los pagos de preventa en línea.
+
 ## 1.25.3 · 2026-11-19
 
 Ajustes a Mi cuenta:

@@ -1,7 +1,7 @@
 {
-  "version": "1.25.3",
-  "fecha": "2026-11-20T05:42:20+00:00",
-  "notas": "Ajustes a Mi cuenta:\n- Si el cliente aún no tiene código de tarjeta (DC#####), se le asigna al entrar a Mi cuenta y su tarjeta ya muestra el código de barras.\n- El botón \"Mi cuenta\" se ve bien en modo oscuro.\n- Al autorizar Gmail, si no se marcó la casilla de enviar correo, el programa lo avisa.",
-  "instalador": "versiones/Instalar-DinoCards-1.25.3.exe",
-  "firma": "versiones/Instalar-DinoCards-1.25.3.exe.sig"
+  "version": "1.26.0",
+  "fecha": "2026-11-20T05:59:33+00:00",
+  "notas": "Preventas en la página:\n- En cada preventa hay una casilla nueva: \"Se puede apartar en la página\". Las marcadas muestran el botón \"Apartar aquí\"; las demás siguen por WhatsApp.\n- El cliente entra a Mi cuenta, elige cuántas piezas y paga el anticipo con Mercado Pago o lo lleva a la tienda (2 días). Se respetan cupo, máximo por cliente, acceso anticipado y anticipo menor de Plata/Oro.\n- Si no paga el anticipo a tiempo, el apartado se cancela solo y se libera el lugar.\n- Desde Mi cuenta el cliente abona o liquida con Mercado Pago; el abono se registra solo en su pedido (y en el corte, como Mercado Pago).\n- En el punto de venta: los apartados de la página llevan etiqueta, Inicio avisa los anticipos pendientes en tienda y Tienda en línea lista los pagos de preventa en línea.",
+  "instalador": "versiones/Instalar-DinoCards-1.26.0.exe",
+  "firma": "versiones/Instalar-DinoCards-1.26.0.exe.sig"
 }
