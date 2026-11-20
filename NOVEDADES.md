@@ -1,5 +1,12 @@
 # Novedades de Dino Cards
 
+## 1.26.1 · 2026-11-20
+
+Ajustes a preventas en la página:
+- Al apartar o abonar con Mercado Pago, la página avisa "Te estamos llevando a Mercado Pago…" con un botón "Ir a pagar" por si el navegador tarda en abrirlo.
+- Si el servidor tarda, la página ya no se queda congelada: avisa y sugiere revisar Tus preventas.
+- "queda 1 lugar" en lugar de "quedan 1 lugares".
+
 ## 1.26.0 · 2026-11-19
 
 Preventas en la página:

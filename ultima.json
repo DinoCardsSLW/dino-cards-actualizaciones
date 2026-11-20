@@ -1,7 +1,7 @@
 {
-  "version": "1.26.0",
-  "fecha": "2026-11-20T05:59:33+00:00",
-  "notas": "Preventas en la página:\n- En cada preventa hay una casilla nueva: \"Se puede apartar en la página\". Las marcadas muestran el botón \"Apartar aquí\"; las demás siguen por WhatsApp.\n- El cliente entra a Mi cuenta, elige cuántas piezas y paga el anticipo con Mercado Pago o lo lleva a la tienda (2 días). Se respetan cupo, máximo por cliente, acceso anticipado y anticipo menor de Plata/Oro.\n- Si no paga el anticipo a tiempo, el apartado se cancela solo y se libera el lugar.\n- Desde Mi cuenta el cliente abona o liquida con Mercado Pago; el abono se registra solo en su pedido (y en el corte, como Mercado Pago).\n- En el punto de venta: los apartados de la página llevan etiqueta, Inicio avisa los anticipos pendientes en tienda y Tienda en línea lista los pagos de preventa en línea.",
-  "instalador": "versiones/Instalar-DinoCards-1.26.0.exe",
-  "firma": "versiones/Instalar-DinoCards-1.26.0.exe.sig"
+  "version": "1.26.1",
+  "fecha": "2026-11-20T06:14:34+00:00",
+  "notas": "Ajustes a preventas en la página:\n- Al apartar o abonar con Mercado Pago, la página avisa \"Te estamos llevando a Mercado Pago…\" con un botón \"Ir a pagar\" por si el navegador tarda en abrirlo.\n- Si el servidor tarda, la página ya no se queda congelada: avisa y sugiere revisar Tus preventas.\n- \"queda 1 lugar\" en lugar de \"quedan 1 lugares\".",
+  "instalador": "versiones/Instalar-DinoCards-1.26.1.exe",
+  "firma": "versiones/Instalar-DinoCards-1.26.1.exe.sig"
 }
