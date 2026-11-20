@@ -1,5 +1,14 @@
 # Novedades de Dino Cards
 
+## 1.23.0 · 2026-11-19
+
+Menú lateral más compacto: ahora tiene 7 opciones.
+- Pedidos: ventas y pedidos, tienda en línea, preventas y envíos.
+- Clientes: clientes, torneos y correo.
+- Dinero: corte de caja, gastos, pagos de tarjeta y reportes.
+- Los avisos de pedidos en línea y correos sin leer se ven junto al grupo.
+- Si prefieres el menú de antes: Ajustes → Tienda → Menú lateral → "Menú completo (como antes)". Se guarda en cada computadora.
+
 ## 1.22.1 · 2026-11-19
 
 Preventas: si el cliente no liquida a tiempo pierde su apartado y lo abonado. Al cancelar un pedido vencido se conserva lo abonado por omisión, y el comprobante y la página lo avisan.
