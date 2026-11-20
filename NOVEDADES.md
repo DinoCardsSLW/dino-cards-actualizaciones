@@ -1,5 +1,11 @@
 # Novedades de Dino Cards
 
+## 1.33.2 · 2026-11-20
+
+## Novedades 1.33.2
+
+- En modo oscuro, las fotos sin fondo de la página de **Preventas** y de "También te puede gustar" ya no salen sobre un cuadro blanco (igual que en Inicio y el Catálogo).
+
 ## 1.33.1 · 2026-11-20
 
 ## Novedades 1.33.1

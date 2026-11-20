@@ -1,7 +1,7 @@
 {
-  "version": "1.33.1",
-  "fecha": "2026-11-20T22:55:14+00:00",
-  "notas": "## Novedades 1.33.1\n\n- Los **Términos y condiciones** ahora dicen la regla de las preventas: si no liquidas antes de la fecha límite, pierdes tu apartado y lo abonado (igual que en la página de Preventas y en el comprobante).",
-  "instalador": "versiones/Instalar-DinoCards-1.33.1.exe",
-  "firma": "versiones/Instalar-DinoCards-1.33.1.exe.sig"
+  "version": "1.33.2",
+  "fecha": "2026-11-20T22:58:48+00:00",
+  "notas": "## Novedades 1.33.2\n\n- En modo oscuro, las fotos sin fondo de la página de **Preventas** y de \"También te puede gustar\" ya no salen sobre un cuadro blanco (igual que en Inicio y el Catálogo).",
+  "instalador": "versiones/Instalar-DinoCards-1.33.2.exe",
+  "firma": "versiones/Instalar-DinoCards-1.33.2.exe.sig"
 }
