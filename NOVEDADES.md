@@ -1,5 +1,12 @@
 # Novedades de Dino Cards
 
+## 1.28.0 · 2026-11-20
+
+## Novedades 1.28.0
+
+- **Página "Torneos y eventos"** en la tienda en línea (pestaña *Torneos*): la semana completa de lunes a domingo, con los torneos de cada día, los que ya pasaron marcados, inscripción en línea y flechas para ver otras semanas.
+- **Semana de torneos** en el punto de venta (Torneos → *Semana de torneos*): una plantilla con tus torneos fijos para crear los de toda una semana de un jalón, sin repetir los que ya existen. Ahí mismo eliges qué dice la página los días sin torneo (Cerrado, Juego libre…).
+
 ## 1.27.1 · 2026-11-20
 
 Torneos: ahora eliges cuáles se pueden inscribir en la página.

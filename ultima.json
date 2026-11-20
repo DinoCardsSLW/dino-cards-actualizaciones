@@ -1,7 +1,7 @@
 {
-  "version": "1.27.1",
-  "fecha": "2026-11-20T06:35:43+00:00",
-  "notas": "Torneos: ahora eliges cuáles se pueden inscribir en la página.\n- Casilla \"Se puede inscribir en la página\" al crear o editar un torneo. Los torneos nuevos la traen marcada; los que ya existían, no (márcala en los que quieras).\n- Los torneos sin la casilla siguen mostrando \"Inscribirme\" por WhatsApp.",
-  "instalador": "versiones/Instalar-DinoCards-1.27.1.exe",
-  "firma": "versiones/Instalar-DinoCards-1.27.1.exe.sig"
+  "version": "1.28.0",
+  "fecha": "2026-11-20T06:48:32+00:00",
+  "notas": "## Novedades 1.28.0\n\n- **Página \"Torneos y eventos\"** en la tienda en línea (pestaña *Torneos*): la semana completa de lunes a domingo, con los torneos de cada día, los que ya pasaron marcados, inscripción en línea y flechas para ver otras semanas.\n- **Semana de torneos** en el punto de venta (Torneos → *Semana de torneos*): una plantilla con tus torneos fijos para crear los de toda una semana de un jalón, sin repetir los que ya existen. Ahí mismo eliges qué dice la página los días sin torneo (Cerrado, Juego libre…).",
+  "instalador": "versiones/Instalar-DinoCards-1.28.0.exe",
+  "firma": "versiones/Instalar-DinoCards-1.28.0.exe.sig"
 }
