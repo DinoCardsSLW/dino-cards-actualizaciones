@@ -1,7 +1,7 @@
 {
-  "version": "1.26.3",
-  "fecha": "2026-11-20T06:24:38+00:00",
-  "notas": "Preventas en la página:\n- \"Cambiar método de pago\" sale en todos los apartados con anticipo pendiente: de Mercado Pago a tienda, o de tienda a pagar en línea.\n- Corregido: al pagar en línea un anticipo menor a $100 pedía mínimo $100; ahora el mínimo es lo que falta del anticipo.",
-  "instalador": "versiones/Instalar-DinoCards-1.26.3.exe",
-  "firma": "versiones/Instalar-DinoCards-1.26.3.exe.sig"
+  "version": "1.27.0",
+  "fecha": "2026-11-20T06:32:08+00:00",
+  "notas": "Inscripción a torneos desde la página:\n- En la sección de torneos, el botón \"Inscribirme\" lleva a Mi cuenta. El jugador se inscribe con su cuenta (cuenta su asistencia y se aplica su descuento Plata/Oro).\n- Paga con Mercado Pago o en la tienda al llegar. Si paga en línea, el punto de venta registra la inscripción sola (venta, artículos incluidos y corte).\n- Si eligió pagar en tienda, su lugar se queda hasta que lo quiten en el punto de venta. Puede pagar en línea después o cancelar su inscripción mientras no haya pagado.\n- La inscripción gratis del mes (Oro) se aplica en la tienda.\n- En el punto de venta, los jugadores que se inscribieron en la página llevan la etiqueta \"Página\".",
+  "instalador": "versiones/Instalar-DinoCards-1.27.0.exe",
+  "firma": "versiones/Instalar-DinoCards-1.27.0.exe.sig"
 }

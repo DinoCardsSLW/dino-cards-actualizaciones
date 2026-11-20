@@ -1,5 +1,14 @@
 # Novedades de Dino Cards
 
+## 1.27.0 · 2026-11-20
+
+Inscripción a torneos desde la página:
+- En la sección de torneos, el botón "Inscribirme" lleva a Mi cuenta. El jugador se inscribe con su cuenta (cuenta su asistencia y se aplica su descuento Plata/Oro).
+- Paga con Mercado Pago o en la tienda al llegar. Si paga en línea, el punto de venta registra la inscripción sola (venta, artículos incluidos y corte).
+- Si eligió pagar en tienda, su lugar se queda hasta que lo quiten en el punto de venta. Puede pagar en línea después o cancelar su inscripción mientras no haya pagado.
+- La inscripción gratis del mes (Oro) se aplica en la tienda.
+- En el punto de venta, los jugadores que se inscribieron en la página llevan la etiqueta "Página".
+
 ## 1.26.3 · 2026-11-20
 
 Preventas en la página:
