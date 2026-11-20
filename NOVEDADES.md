@@ -1,5 +1,9 @@
 # Novedades de Dino Cards
 
+## 1.22.0 · 2026-11-19
+
+Nuevo: carrito y pago en la tienda en línea (Mercado Pago o pagar al recoger, envío con Skydropx). Viene apagado: se enciende en Ajustes → Página web → Tienda en línea. Los pedidos llegan a la nueva sección Tienda en línea.
+
 ## 1.21.0 · 2026-11-19
 
 Nuevo: Niveles de clientes (Bronce, Plata y Oro) por temporadas de 3 meses, según torneos y compras. Se configura y activa en Ajustes → Niveles de clientes. Con el programa activo, el nivel se ve en Venta, Clientes, el ticket y la tarjeta, y se aplican los beneficios en inscripciones, compra de cartas y preventas.
