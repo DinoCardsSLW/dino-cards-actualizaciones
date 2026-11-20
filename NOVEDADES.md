@@ -1,5 +1,11 @@
 # Novedades de Dino Cards
 
+## 1.27.1 · 2026-11-20
+
+Torneos: ahora eliges cuáles se pueden inscribir en la página.
+- Casilla "Se puede inscribir en la página" al crear o editar un torneo. Los torneos nuevos la traen marcada; los que ya existían, no (márcala en los que quieras).
+- Los torneos sin la casilla siguen mostrando "Inscribirme" por WhatsApp.
+
 ## 1.27.0 · 2026-11-20
 
 Inscripción a torneos desde la página:

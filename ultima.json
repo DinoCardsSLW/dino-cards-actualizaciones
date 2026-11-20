@@ -1,7 +1,7 @@
 {
-  "version": "1.27.0",
-  "fecha": "2026-11-20T06:32:08+00:00",
-  "notas": "Inscripción a torneos desde la página:\n- En la sección de torneos, el botón \"Inscribirme\" lleva a Mi cuenta. El jugador se inscribe con su cuenta (cuenta su asistencia y se aplica su descuento Plata/Oro).\n- Paga con Mercado Pago o en la tienda al llegar. Si paga en línea, el punto de venta registra la inscripción sola (venta, artículos incluidos y corte).\n- Si eligió pagar en tienda, su lugar se queda hasta que lo quiten en el punto de venta. Puede pagar en línea después o cancelar su inscripción mientras no haya pagado.\n- La inscripción gratis del mes (Oro) se aplica en la tienda.\n- En el punto de venta, los jugadores que se inscribieron en la página llevan la etiqueta \"Página\".",
-  "instalador": "versiones/Instalar-DinoCards-1.27.0.exe",
-  "firma": "versiones/Instalar-DinoCards-1.27.0.exe.sig"
+  "version": "1.27.1",
+  "fecha": "2026-11-20T06:35:43+00:00",
+  "notas": "Torneos: ahora eliges cuáles se pueden inscribir en la página.\n- Casilla \"Se puede inscribir en la página\" al crear o editar un torneo. Los torneos nuevos la traen marcada; los que ya existían, no (márcala en los que quieras).\n- Los torneos sin la casilla siguen mostrando \"Inscribirme\" por WhatsApp.",
+  "instalador": "versiones/Instalar-DinoCards-1.27.1.exe",
+  "firma": "versiones/Instalar-DinoCards-1.27.1.exe.sig"
 }
