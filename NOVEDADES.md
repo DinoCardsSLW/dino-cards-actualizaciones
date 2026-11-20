@@ -1,5 +1,10 @@
 # Novedades de Dino Cards
 
+## 1.25.1 · 2026-11-19
+
+Se quitó la sección "Correo" (bandeja de correos de proveedores) del menú, su contador y su aviso en Inicio.
+- La conexión de Gmail sigue en Ajustes → Correo: se usa para los códigos de Mi cuenta, el resumen diario y el aviso de llegada de preventas.
+
 ## 1.25.0 · 2026-11-19
 
 Mi cuenta en la página web (/tienda/cuenta):

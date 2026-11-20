@@ -1,7 +1,7 @@
 {
-  "version": "1.25.0",
-  "fecha": "2026-11-20T01:02:05+00:00",
-  "notas": "Mi cuenta en la página web (/tienda/cuenta):\n- El cliente entra con un código que le llega al correo que tiene registrado en la tienda (sin contraseña). Los códigos salen del Gmail conectado en Ajustes → Correo.\n- Ve su tarjeta Dino Puntos con código de barras, su nivel y progreso de la temporada, crédito en tienda, preventas (lo que lleva y lo que le falta), pedidos en línea y compras recientes.\n- Con su cuenta abierta puede usar su 10% de Dino Puntos al pagar en el carrito (mismas reglas que en la tienda). Si el pedido se cancela o vence, se le regresa.\n- Botón \"Mi cuenta\" en todas las páginas de la tienda.\n- Se enciende/apaga en Ajustes → Página web → Mi cuenta. Solo pueden entrar los clientes que tienen correo registrado.",
-  "instalador": "versiones/Instalar-DinoCards-1.25.0.exe",
-  "firma": "versiones/Instalar-DinoCards-1.25.0.exe.sig"
+  "version": "1.25.1",
+  "fecha": "2026-11-20T01:14:49+00:00",
+  "notas": "Se quitó la sección \"Correo\" (bandeja de correos de proveedores) del menú, su contador y su aviso en Inicio.\n- La conexión de Gmail sigue en Ajustes → Correo: se usa para los códigos de Mi cuenta, el resumen diario y el aviso de llegada de preventas.",
+  "instalador": "versiones/Instalar-DinoCards-1.25.1.exe",
+  "firma": "versiones/Instalar-DinoCards-1.25.1.exe.sig"
 }
