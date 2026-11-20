@@ -1,5 +1,13 @@
 # Novedades de Dino Cards
 
+## 1.30.0 · 2026-11-20
+
+## Novedades 1.30.0
+
+- **Aviso de privacidad y Términos y condiciones** en la página: `/tienda/privacidad` y `/tienda/terminos`, con ligas al pie de todas las páginas, en Mi cuenta y en el carrito.
+- En **Ajustes → Página web → Aviso de privacidad y términos** escribes el nombre del responsable (tú o tu razón social), el domicilio completo con código postal, el correo y el teléfono. Los textos toman los plazos que tengas configurados (apartado, recoger, Dino Puntos).
+- Reglas incluidas: cambios solo por producto dañado, defectuoso o equivocado (5 días hábiles); preventas canceladas por el cliente pasan a crédito en tienda; inscripciones a torneos canceladas antes de empezar pasan a crédito.
+
 ## 1.29.2 · 2026-11-20
 
 ## Novedades 1.29.2

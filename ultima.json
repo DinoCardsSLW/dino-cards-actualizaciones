@@ -1,7 +1,7 @@
 {
-  "version": "1.29.2",
-  "fecha": "2026-11-20T21:38:33+00:00",
-  "notas": "## Novedades 1.29.2\n\n- **Corrección al entrar:** si el dueño cambiaba la contraseña de alguien mientras esa persona tenía abierta la ventana de \"Escribe tu contraseña\", la nueva no funcionaba hasta cerrar y volver a abrir la ventana. Ahora siempre se revisa contra la contraseña más reciente.",
-  "instalador": "versiones/Instalar-DinoCards-1.29.2.exe",
-  "firma": "versiones/Instalar-DinoCards-1.29.2.exe.sig"
+  "version": "1.30.0",
+  "fecha": "2026-11-20T22:03:26+00:00",
+  "notas": "## Novedades 1.30.0\n\n- **Aviso de privacidad y Términos y condiciones** en la página: `/tienda/privacidad` y `/tienda/terminos`, con ligas al pie de todas las páginas, en Mi cuenta y en el carrito.\n- En **Ajustes → Página web → Aviso de privacidad y términos** escribes el nombre del responsable (tú o tu razón social), el domicilio completo con código postal, el correo y el teléfono. Los textos toman los plazos que tengas configurados (apartado, recoger, Dino Puntos).\n- Reglas incluidas: cambios solo por producto dañado, defectuoso o equivocado (5 días hábiles); preventas canceladas por el cliente pasan a crédito en tienda; inscripciones a torneos canceladas antes de empezar pasan a crédito.",
+  "instalador": "versiones/Instalar-DinoCards-1.30.0.exe",
+  "firma": "versiones/Instalar-DinoCards-1.30.0.exe.sig"
 }
