@@ -1,7 +1,7 @@
 {
-  "version": "1.32.0",
-  "fecha": "2026-11-20T22:47:40+00:00",
-  "notas": "## Novedades 1.32.0\n\n- **Avisar ofertas a clientes:** en **Inventario → Descuentos sugeridos → En oferta**, botón **📣 Avisar a clientes**.\n  - Eliges el juego y las ofertas a anunciar.\n  - Se avisa a los clientes que compraron ese juego en los últimos meses o lo tienen de juego favorito.\n  - **Solo a quienes aceptaron recibir promociones** en su ficha (correo o WhatsApp).\n  - Correo automático con el Gmail de la tienda y botón de WhatsApp por cliente, con el mensaje listo y editable.\n  - No se repite el correo a quien ya se avisó de ese juego en los últimos 7 días.",
-  "instalador": "versiones/Instalar-DinoCards-1.32.0.exe",
-  "firma": "versiones/Instalar-DinoCards-1.32.0.exe.sig"
+  "version": "1.33.0",
+  "fecha": "2026-11-20T22:54:38+00:00",
+  "notas": "## Novedades 1.33.0 (página web)\n\n- **Página de cada producto** (`/tienda/producto/…`): foto grande, precio y oferta, existencias, cantidad, **Agregar al carrito** y **Comprar ahora**, Dino Puntos que gana, descripción, compartir por WhatsApp y \"También te puede gustar\".\n  - Al compartir la liga por WhatsApp o Facebook se ve la foto, el nombre y el precio; Google también recibe el precio y si hay existencias.\n  - Las tarjetas de Inicio llevan a esta página y el catálogo tiene la liga \"Ver la página del producto\".\n- **Página de Preventas** (`/tienda/preventas`) con pestaña en el menú: todas las preventas abiertas con precio, anticipo, fecha límite, llegada estimada, filtro por juego, botón **Apartar** y las reglas de los apartados.",
+  "instalador": "versiones/Instalar-DinoCards-1.33.0.exe",
+  "firma": "versiones/Instalar-DinoCards-1.33.0.exe.sig"
 }

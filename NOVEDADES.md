@@ -1,5 +1,14 @@
 # Novedades de Dino Cards
 
+## 1.33.0 · 2026-11-20
+
+## Novedades 1.33.0 (página web)
+
+- **Página de cada producto** (`/tienda/producto/…`): foto grande, precio y oferta, existencias, cantidad, **Agregar al carrito** y **Comprar ahora**, Dino Puntos que gana, descripción, compartir por WhatsApp y "También te puede gustar".
+  - Al compartir la liga por WhatsApp o Facebook se ve la foto, el nombre y el precio; Google también recibe el precio y si hay existencias.
+  - Las tarjetas de Inicio llevan a esta página y el catálogo tiene la liga "Ver la página del producto".
+- **Página de Preventas** (`/tienda/preventas`) con pestaña en el menú: todas las preventas abiertas con precio, anticipo, fecha límite, llegada estimada, filtro por juego, botón **Apartar** y las reglas de los apartados.
+
 ## 1.32.0 · 2026-11-20
 
 ## Novedades 1.32.0
