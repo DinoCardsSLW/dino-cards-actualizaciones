@@ -1,7 +1,7 @@
 {
-  "version": "1.35.2",
-  "fecha": "2026-11-21T00:47:55+00:00",
-  "notas": "**Novedades**\n\n- Un producto dado de alta antes del 19 de noviembre que nunca había tenido existencias ni ventas (por ejemplo, uno creado para una remisión o preventa que apenas llega) ahora sí se marca como novedad cuando entra por primera vez.\n- Nueva casilla **\"Es novedad\"** al editar un producto sellado: puedes marcarlo como novedad a mano (cuenta los días de novedad desde hoy) o quitárselo. Si se lo quitas, otra llegada ya no lo vuelve a marcar.",
-  "instalador": "versiones/Instalar-DinoCards-1.35.2.exe",
-  "firma": "versiones/Instalar-DinoCards-1.35.2.exe.sig"
+  "version": "1.35.3",
+  "fecha": "2026-11-21T02:33:59+00:00",
+  "notas": "**Torneos: inscripción \"Ya pagó antes\"**\n\n- Al inscribir a un jugador (o al cobrarle después) hay una nueva forma de pago: **Ya pagó antes (ya está registrado)**. Sirve cuando la inscripción ya se cobró en otra venta, preventa o paquete.\n  - No entra dinero a la caja ni al corte; puedes anotar dónde quedó registrado el pago (opcional).\n  - Si el torneo incluye artículos, se entregan y descuentan al inscribirlo.\n  - En la lista de jugadores aparece **Pagado antes** con la nota, y cuenta en lo recaudado y la ganancia estimada del torneo.\n- Corrección: en los formularios ya no se muestran campos que deberían estar ocultos (por ejemplo, \"Efectivo recibido\" cuando el pago no es en efectivo).",
+  "instalador": "versiones/Instalar-DinoCards-1.35.3.exe",
+  "firma": "versiones/Instalar-DinoCards-1.35.3.exe.sig"
 }

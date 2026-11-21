@@ -1,5 +1,15 @@
 # Novedades de Dino Cards
 
+## 1.35.3 · 2026-11-20
+
+**Torneos: inscripción "Ya pagó antes"**
+
+- Al inscribir a un jugador (o al cobrarle después) hay una nueva forma de pago: **Ya pagó antes (ya está registrado)**. Sirve cuando la inscripción ya se cobró en otra venta, preventa o paquete.
+  - No entra dinero a la caja ni al corte; puedes anotar dónde quedó registrado el pago (opcional).
+  - Si el torneo incluye artículos, se entregan y descuentan al inscribirlo.
+  - En la lista de jugadores aparece **Pagado antes** con la nota, y cuenta en lo recaudado y la ganancia estimada del torneo.
+- Corrección: en los formularios ya no se muestran campos que deberían estar ocultos (por ejemplo, "Efectivo recibido" cuando el pago no es en efectivo).
+
 ## 1.35.2 · 2026-11-20
 
 **Novedades**
