@@ -1,5 +1,15 @@
 # Novedades de Dino Cards
 
+## 1.40.0 · 2026-11-21
+
+Página web: vista previa al compartir e Inicio renovado.
+
+- **Vista previa al compartir:** al mandar por WhatsApp o Facebook el enlace de un producto sale su foto, nombre, precio y si hay existencias; las demás páginas (Inicio, Sellado, Cartas sueltas, Preventas, Torneos, Subastas) también muestran título, descripción e imagen.
+- **Inicio:**
+  - Nuevo bloque **Ganadores de la semana** con el podio de los torneos recientes.
+  - Nuevo bloque **Bajaron de precio** con las cartas cuyo precio del día bajó (se ve el precio anterior y el % que bajó).
+  - **Dino Puntos** más visible: aviso arriba, junto a los botones principales, y la banda sube después de "Lo nuevo".
+
 ## 1.39.0 · 2026-11-21
 
 Clientes que dejaron de venir.

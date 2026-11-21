@@ -1,7 +1,7 @@
 {
-  "version": "1.39.0",
-  "fecha": "2026-11-21T08:02:25+00:00",
-  "notas": "Clientes que dejaron de venir.\n\n- Nueva sección **Clientes → Dejaron de venir**: clientes que compraron o jugaron torneos en el último año y llevan 30, 60 o 90 días o más sin volver, con su última visita, juego favorito, compras, torneos y lo que gastaron.\n- **WhatsApp** abre el chat con una invitación lista (al próximo torneo de su juego favorito, si hay). También **Correo** o **Ya lo contacté**; queda marcado como Contactado por 30 días.",
-  "instalador": "versiones/Instalar-DinoCards-1.39.0.exe",
-  "firma": "versiones/Instalar-DinoCards-1.39.0.exe.sig"
+  "version": "1.40.0",
+  "fecha": "2026-11-21T08:15:29+00:00",
+  "notas": "Página web: vista previa al compartir e Inicio renovado.\n\n- **Vista previa al compartir:** al mandar por WhatsApp o Facebook el enlace de un producto sale su foto, nombre, precio y si hay existencias; las demás páginas (Inicio, Sellado, Cartas sueltas, Preventas, Torneos, Subastas) también muestran título, descripción e imagen.\n- **Inicio:**\n  - Nuevo bloque **Ganadores de la semana** con el podio de los torneos recientes.\n  - Nuevo bloque **Bajaron de precio** con las cartas cuyo precio del día bajó (se ve el precio anterior y el % que bajó).\n  - **Dino Puntos** más visible: aviso arriba, junto a los botones principales, y la banda sube después de \"Lo nuevo\".",
+  "instalador": "versiones/Instalar-DinoCards-1.40.0.exe",
+  "firma": "versiones/Instalar-DinoCards-1.40.0.exe.sig"
 }
