@@ -1,5 +1,12 @@
 # Novedades de Dino Cards
 
+## 1.38.2 · 2026-11-21
+
+Menú lateral: Torneos aparte.
+
+- **Torneos** ahora tiene su propio lugar en el menú, debajo de Clientes (antes estaba dentro de Clientes).
+- Clientes queda con Clientes y Lista de deseos.
+
 ## 1.38.1 · 2026-11-21
 
 Corrección: quitar jugadores de un torneo.
