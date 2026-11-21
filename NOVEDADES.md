@@ -1,5 +1,13 @@
 # Novedades de Dino Cards
 
+## 1.37.1 · 2026-11-21
+
+Página web: páginas numeradas.
+
+- **Producto sellado** muestra 24 productos por página y **Cartas sueltas** 50 cartas por página, con botones de página (Anterior, 1, 2, 3…, Siguiente) y el texto "1–50 de 300".
+- La página en la que vas queda en la dirección: si recargas o compartes el enlace, abre en la misma página.
+- Al cambiar un filtro o el orden regresa a la página 1.
+
 ## 1.37.0 · 2026-11-20
 
 Copia diaria del servidor en tu computadora y lista de deseos de clientes.
