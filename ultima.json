@@ -1,7 +1,7 @@
 {
-  "version": "1.38.4",
-  "fecha": "2026-11-21T07:51:18+00:00",
-  "notas": "Corrección: en modo oscuro, los botones \"Ver tabla de posiciones\" y \"Ver la semana siguiente\" de la página de Torneos se veían apagados. Ya se ven claros.",
-  "instalador": "versiones/Instalar-DinoCards-1.38.4.exe",
-  "firma": "versiones/Instalar-DinoCards-1.38.4.exe.sig"
+  "version": "1.38.5",
+  "fecha": "2026-11-21T07:58:13+00:00",
+  "notas": "Clientes: Niveles y tarjetas para todos.\n\n- **Niveles de clientes** ahora está dentro de **Clientes** en el menú (ya no en Ajustes).\n- Nuevo botón **Tarjetas** en Clientes: crea de una vez la tarjeta Dino Puntos (código DC…) de todos los clientes que no la tienen, y **Descargar todas (.zip)** baja una imagen por cliente. Si dos clientes tenían el mismo código, al más nuevo se le da uno nuevo.",
+  "instalador": "versiones/Instalar-DinoCards-1.38.5.exe",
+  "firma": "versiones/Instalar-DinoCards-1.38.5.exe.sig"
 }

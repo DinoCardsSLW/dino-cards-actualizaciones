@@ -1,5 +1,12 @@
 # Novedades de Dino Cards
 
+## 1.38.5 · 2026-11-21
+
+Clientes: Niveles y tarjetas para todos.
+
+- **Niveles de clientes** ahora está dentro de **Clientes** en el menú (ya no en Ajustes).
+- Nuevo botón **Tarjetas** en Clientes: crea de una vez la tarjeta Dino Puntos (código DC…) de todos los clientes que no la tienen, y **Descargar todas (.zip)** baja una imagen por cliente. Si dos clientes tenían el mismo código, al más nuevo se le da uno nuevo.
+
 ## 1.38.4 · 2026-11-21
 
 Corrección: en modo oscuro, los botones "Ver tabla de posiciones" y "Ver la semana siguiente" de la página de Torneos se veían apagados. Ya se ven claros.
