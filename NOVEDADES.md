@@ -1,5 +1,12 @@
 # Novedades de Dino Cards
 
+## 1.39.0 · 2026-11-21
+
+Clientes que dejaron de venir.
+
+- Nueva sección **Clientes → Dejaron de venir**: clientes que compraron o jugaron torneos en el último año y llevan 30, 60 o 90 días o más sin volver, con su última visita, juego favorito, compras, torneos y lo que gastaron.
+- **WhatsApp** abre el chat con una invitación lista (al próximo torneo de su juego favorito, si hay). También **Correo** o **Ya lo contacté**; queda marcado como Contactado por 30 días.
+
 ## 1.38.5 · 2026-11-21
 
 Clientes: Niveles y tarjetas para todos.

@@ -1,7 +1,7 @@
 {
-  "version": "1.38.5",
-  "fecha": "2026-11-21T07:58:13+00:00",
-  "notas": "Clientes: Niveles y tarjetas para todos.\n\n- **Niveles de clientes** ahora está dentro de **Clientes** en el menú (ya no en Ajustes).\n- Nuevo botón **Tarjetas** en Clientes: crea de una vez la tarjeta Dino Puntos (código DC…) de todos los clientes que no la tienen, y **Descargar todas (.zip)** baja una imagen por cliente. Si dos clientes tenían el mismo código, al más nuevo se le da uno nuevo.",
-  "instalador": "versiones/Instalar-DinoCards-1.38.5.exe",
-  "firma": "versiones/Instalar-DinoCards-1.38.5.exe.sig"
+  "version": "1.39.0",
+  "fecha": "2026-11-21T08:02:25+00:00",
+  "notas": "Clientes que dejaron de venir.\n\n- Nueva sección **Clientes → Dejaron de venir**: clientes que compraron o jugaron torneos en el último año y llevan 30, 60 o 90 días o más sin volver, con su última visita, juego favorito, compras, torneos y lo que gastaron.\n- **WhatsApp** abre el chat con una invitación lista (al próximo torneo de su juego favorito, si hay). También **Correo** o **Ya lo contacté**; queda marcado como Contactado por 30 días.",
+  "instalador": "versiones/Instalar-DinoCards-1.39.0.exe",
+  "firma": "versiones/Instalar-DinoCards-1.39.0.exe.sig"
 }
