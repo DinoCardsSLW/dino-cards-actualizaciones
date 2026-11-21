@@ -1,5 +1,14 @@
 # Novedades de Dino Cards
 
+## 1.35.1 · 2026-11-20
+
+**Corrección: piezas de remisión que no entraban al inventario**
+
+- Si una remisión tenía un producto que después se eliminó (por ejemplo, un producto repetido), al recibirla sus piezas no se sumaban al inventario y no avisaba. Ahora:
+  - **Remisiones** muestra un aviso con las remisiones ya recibidas que tienen piezas que no entraron. Al abrirla, eliges a qué producto se suman y das **Sumar al inventario** (se hace una sola vez y se ajusta el costo).
+  - Al recibir una remisión con un producto eliminado, pide a qué producto entran las piezas (propone el más parecido).
+  - Ya no se puede eliminar un producto que viene en una remisión pendiente; si es un repetido, usa **Unir** para pasar la remisión al producto que se queda.
+
 ## 1.35.0 · 2026-11-20
 
 **Pile of loot**

@@ -1,7 +1,7 @@
 {
-  "version": "1.35.0",
-  "fecha": "2026-11-20T23:51:35+00:00",
-  "notas": "**Pile of loot**\n\n- Los clientes con Mi cuenta pueden guardar en su **pile** las cartas sueltas que compran en la página (\"Guardar en mi pile\" en el carrito, se pagan en línea) y las subastas que ganan y pagan en línea.\n- Desde **Mi cuenta → Tu pile** piden el envío de todo junto. Se cotiza como el carrito y es gratis si el pile alcanza el monto de envío gratis. También pueden avisar que pasan a recogerlo.\n- El plazo para guardar se configura en **Ajustes → Página web → Tienda en línea** (días desde la pieza más antigua y aviso por correo antes de vencer). Al vencer, las piezas quedan para recoger en tienda y el cliente todavía puede pagar su envío.\n- Nueva sección **Pedidos → Piles de clientes**: quién está guardando, quién debe recoger y los envíos en curso; desde ahí se entregan las piezas en tienda.\n- Los pedidos de la página que van al pile aparecen como \"Pagado · guardar en su pile\" hasta que marques \"Ya lo guardé en su pile\".\n- Al cobrar una subasta en tienda puedes marcar \"Guardar en su pile\".\n- Los términos y condiciones incluyen el pile en la sección de envíos.",
-  "instalador": "versiones/Instalar-DinoCards-1.35.0.exe",
-  "firma": "versiones/Instalar-DinoCards-1.35.0.exe.sig"
+  "version": "1.35.1",
+  "fecha": "2026-11-21T00:21:58+00:00",
+  "notas": "**Corrección: piezas de remisión que no entraban al inventario**\n\n- Si una remisión tenía un producto que después se eliminó (por ejemplo, un producto repetido), al recibirla sus piezas no se sumaban al inventario y no avisaba. Ahora:\n  - **Remisiones** muestra un aviso con las remisiones ya recibidas que tienen piezas que no entraron. Al abrirla, eliges a qué producto se suman y das **Sumar al inventario** (se hace una sola vez y se ajusta el costo).\n  - Al recibir una remisión con un producto eliminado, pide a qué producto entran las piezas (propone el más parecido).\n  - Ya no se puede eliminar un producto que viene en una remisión pendiente; si es un repetido, usa **Unir** para pasar la remisión al producto que se queda.",
+  "instalador": "versiones/Instalar-DinoCards-1.35.1.exe",
+  "firma": "versiones/Instalar-DinoCards-1.35.1.exe.sig"
 }
