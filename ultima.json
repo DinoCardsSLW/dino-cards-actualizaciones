@@ -1,7 +1,7 @@
 {
-  "version": "1.38.2",
-  "fecha": "2026-11-21T07:37:27+00:00",
-  "notas": "Menú lateral: Torneos aparte.\n\n- **Torneos** ahora tiene su propio lugar en el menú, debajo de Clientes (antes estaba dentro de Clientes).\n- Clientes queda con Clientes y Lista de deseos.",
-  "instalador": "versiones/Instalar-DinoCards-1.38.2.exe",
-  "firma": "versiones/Instalar-DinoCards-1.38.2.exe.sig"
+  "version": "1.38.3",
+  "fecha": "2026-11-21T07:48:25+00:00",
+  "notas": "Página web: tabla de posiciones de los torneos.\n\n- En un torneo terminado, el botón **Ver tabla de posiciones** abre una ventana con todos los jugadores, su lugar (los que no tienen lugar van al final) y los puntos de liga que ganaron.\n- El panel del torneo y Resultados recientes muestran el podio (1.º, 2.º y 3.º).",
+  "instalador": "versiones/Instalar-DinoCards-1.38.3.exe",
+  "firma": "versiones/Instalar-DinoCards-1.38.3.exe.sig"
 }

@@ -1,5 +1,12 @@
 # Novedades de Dino Cards
 
+## 1.38.3 · 2026-11-21
+
+Página web: tabla de posiciones de los torneos.
+
+- En un torneo terminado, el botón **Ver tabla de posiciones** abre una ventana con todos los jugadores, su lugar (los que no tienen lugar van al final) y los puntos de liga que ganaron.
+- El panel del torneo y Resultados recientes muestran el podio (1.º, 2.º y 3.º).
+
 ## 1.38.2 · 2026-11-21
 
 Menú lateral: Torneos aparte.
