@@ -1,5 +1,9 @@
 # Novedades de Dino Cards
 
+## 1.38.4 · 2026-11-21
+
+Corrección: en modo oscuro, los botones "Ver tabla de posiciones" y "Ver la semana siguiente" de la página de Torneos se veían apagados. Ya se ven claros.
+
 ## 1.38.3 · 2026-11-21
 
 Página web: tabla de posiciones de los torneos.

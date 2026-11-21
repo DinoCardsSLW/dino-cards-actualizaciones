@@ -1,7 +1,7 @@
 {
-  "version": "1.38.3",
-  "fecha": "2026-11-21T07:48:25+00:00",
-  "notas": "Página web: tabla de posiciones de los torneos.\n\n- En un torneo terminado, el botón **Ver tabla de posiciones** abre una ventana con todos los jugadores, su lugar (los que no tienen lugar van al final) y los puntos de liga que ganaron.\n- El panel del torneo y Resultados recientes muestran el podio (1.º, 2.º y 3.º).",
-  "instalador": "versiones/Instalar-DinoCards-1.38.3.exe",
-  "firma": "versiones/Instalar-DinoCards-1.38.3.exe.sig"
+  "version": "1.38.4",
+  "fecha": "2026-11-21T07:51:18+00:00",
+  "notas": "Corrección: en modo oscuro, los botones \"Ver tabla de posiciones\" y \"Ver la semana siguiente\" de la página de Torneos se veían apagados. Ya se ven claros.",
+  "instalador": "versiones/Instalar-DinoCards-1.38.4.exe",
+  "firma": "versiones/Instalar-DinoCards-1.38.4.exe.sig"
 }
