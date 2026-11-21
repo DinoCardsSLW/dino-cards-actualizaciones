@@ -1,5 +1,12 @@
 # Novedades de Dino Cards
 
+## 1.41.0 · 2026-11-21
+
+Página web: carta en grande y mejores sugerencias.
+
+- **Cartas sueltas:** al tocar la foto de una carta se abre en grande, con su precio, condición, existencia y los botones para agregarla o ver su ficha.
+- **"También te puede gustar"** en la ficha de producto: ahora sugiere primero lo del mismo set, luego la misma categoría y precios parecidos, e incluye producto sellado del mismo juego cuando ves una carta (y al revés).
+
 ## 1.40.0 · 2026-11-21
 
 Página web: vista previa al compartir e Inicio renovado.
