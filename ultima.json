@@ -1,7 +1,7 @@
 {
-  "version": "1.36.0",
-  "fecha": "2026-11-21T04:36:29+00:00",
-  "notas": "Página web: nuevas páginas de Cartas sueltas y Producto sellado.\n\n- **Cartas sueltas** (nueva página): tabla con filtros por juego, condición, idioma, rareza, set, solo foil y \"bajaron de precio\". Muestra la fecha de la última actualización de precios, el dólar del día y si el precio de la carta bajó o subió en los últimos 7 días. Incluye \"Pedir carta\" por WhatsApp y la guía de condición.\n- **Producto sellado**: filtros a un lado (tipo de producto, disponibilidad y rango de precio) y nuevo orden \"Más vendidos\" (ventas de los últimos 90 días; no se publican cantidades).\n- El menú de la página ahora tiene \"Sellado\" y \"Cartas sueltas\".\n- El encabezado de la página ya no se parte en dos renglones en pantallas de 1280 px, y en el celular el menú se desliza de lado.\n- Manual actualizado.",
-  "instalador": "versiones/Instalar-DinoCards-1.36.0.exe",
-  "firma": "versiones/Instalar-DinoCards-1.36.0.exe.sig"
+  "version": "1.37.0",
+  "fecha": "2026-11-21T05:27:48+00:00",
+  "notas": "Copia diaria del servidor en tu computadora y lista de deseos de clientes.\n\n- **Copia diaria del servidor** (Ajustes → Respaldos e importar, en el programa de Windows conectado al servidor): una vez al día baja un respaldo completo (datos y fotos) a esta computadora y guarda las últimas 30. Puedes elegir también la carpeta de Google Drive para que la copia se suba sola a la nube. Botón \"Hacer copia ahora\".\n- **Lista de deseos** (Clientes → Lista de deseos): anota lo que buscan tus clientes; cuando llega algo que coincide aparece en \"Llegaron\" para avisarles por WhatsApp o correo.\n- **En la página:** \"Avísame cuando llegue\" en productos agotados y \"Pedir carta\" en Cartas sueltas guardan el pedido en la lista del cliente (Mi cuenta). Si pidió un producto agotado, le llega un correo automático cuando vuelve a haber.\n- Manual actualizado.",
+  "instalador": "versiones/Instalar-DinoCards-1.37.0.exe",
+  "firma": "versiones/Instalar-DinoCards-1.37.0.exe.sig"
 }

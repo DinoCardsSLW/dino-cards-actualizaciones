@@ -1,5 +1,14 @@
 # Novedades de Dino Cards
 
+## 1.37.0 · 2026-11-20
+
+Copia diaria del servidor en tu computadora y lista de deseos de clientes.
+
+- **Copia diaria del servidor** (Ajustes → Respaldos e importar, en el programa de Windows conectado al servidor): una vez al día baja un respaldo completo (datos y fotos) a esta computadora y guarda las últimas 30. Puedes elegir también la carpeta de Google Drive para que la copia se suba sola a la nube. Botón "Hacer copia ahora".
+- **Lista de deseos** (Clientes → Lista de deseos): anota lo que buscan tus clientes; cuando llega algo que coincide aparece en "Llegaron" para avisarles por WhatsApp o correo.
+- **En la página:** "Avísame cuando llegue" en productos agotados y "Pedir carta" en Cartas sueltas guardan el pedido en la lista del cliente (Mi cuenta). Si pidió un producto agotado, le llega un correo automático cuando vuelve a haber.
+- Manual actualizado.
+
 ## 1.36.0 · 2026-11-20
 
 Página web: nuevas páginas de Cartas sueltas y Producto sellado.
