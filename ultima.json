@@ -1,7 +1,7 @@
 {
-  "version": "1.35.1",
-  "fecha": "2026-11-21T00:21:58+00:00",
-  "notas": "**Corrección: piezas de remisión que no entraban al inventario**\n\n- Si una remisión tenía un producto que después se eliminó (por ejemplo, un producto repetido), al recibirla sus piezas no se sumaban al inventario y no avisaba. Ahora:\n  - **Remisiones** muestra un aviso con las remisiones ya recibidas que tienen piezas que no entraron. Al abrirla, eliges a qué producto se suman y das **Sumar al inventario** (se hace una sola vez y se ajusta el costo).\n  - Al recibir una remisión con un producto eliminado, pide a qué producto entran las piezas (propone el más parecido).\n  - Ya no se puede eliminar un producto que viene en una remisión pendiente; si es un repetido, usa **Unir** para pasar la remisión al producto que se queda.",
-  "instalador": "versiones/Instalar-DinoCards-1.35.1.exe",
-  "firma": "versiones/Instalar-DinoCards-1.35.1.exe.sig"
+  "version": "1.35.2",
+  "fecha": "2026-11-21T00:47:55+00:00",
+  "notas": "**Novedades**\n\n- Un producto dado de alta antes del 19 de noviembre que nunca había tenido existencias ni ventas (por ejemplo, uno creado para una remisión o preventa que apenas llega) ahora sí se marca como novedad cuando entra por primera vez.\n- Nueva casilla **\"Es novedad\"** al editar un producto sellado: puedes marcarlo como novedad a mano (cuenta los días de novedad desde hoy) o quitárselo. Si se lo quitas, otra llegada ya no lo vuelve a marcar.",
+  "instalador": "versiones/Instalar-DinoCards-1.35.2.exe",
+  "firma": "versiones/Instalar-DinoCards-1.35.2.exe.sig"
 }

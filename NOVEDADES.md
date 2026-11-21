@@ -1,5 +1,12 @@
 # Novedades de Dino Cards
 
+## 1.35.2 · 2026-11-20
+
+**Novedades**
+
+- Un producto dado de alta antes del 19 de noviembre que nunca había tenido existencias ni ventas (por ejemplo, uno creado para una remisión o preventa que apenas llega) ahora sí se marca como novedad cuando entra por primera vez.
+- Nueva casilla **"Es novedad"** al editar un producto sellado: puedes marcarlo como novedad a mano (cuenta los días de novedad desde hoy) o quitárselo. Si se lo quitas, otra llegada ya no lo vuelve a marcar.
+
 ## 1.35.1 · 2026-11-20
 
 **Corrección: piezas de remisión que no entraban al inventario**
