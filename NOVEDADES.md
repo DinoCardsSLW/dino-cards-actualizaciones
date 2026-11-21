@@ -1,5 +1,14 @@
 # Novedades de Dino Cards
 
+## 1.42.0 · 2026-11-21
+
+Página web: página por juego, buscador, carrito lateral y barra en el celular.
+
+- **Página de cada juego** (por ejemplo /tienda/juego/pokemon): lo nuevo, preventas, torneos, ganadores, ofertas y cartas de ese juego en un solo lugar. "Compra por juego" en Inicio ahora lleva ahí.
+- **Buscador con sugerencias:** lupa en el encabezado de todas las páginas; mientras escribes aparecen productos, preventas y torneos con foto y precio.
+- **Carrito lateral:** al agregar algo se abre un panel con lo que llevas, cantidades, subtotal, lo que falta para el envío gratis y los botones Pagar y Seguir comprando.
+- **Barra en el celular:** Inicio, Buscar, Carrito y Mi cuenta siempre a la mano abajo de la pantalla.
+
 ## 1.41.1 · 2026-11-21
 
 Página web: se quita "Bajaron de precio" del Inicio.
