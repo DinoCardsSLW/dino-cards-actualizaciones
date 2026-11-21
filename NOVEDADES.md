@@ -1,5 +1,11 @@
 # Novedades de Dino Cards
 
+## 1.38.1 · 2026-11-21
+
+Corrección: quitar jugadores de un torneo.
+
+- El botón **Quitar** de un jugador en el torneo no lo quitaba. Ya funciona: sin pago se quita al confirmar; si ya pagó, te pregunta qué pasa con su pago, como antes.
+
 ## 1.38.0 · 2026-11-21
 
 Página web: resultados de los torneos.
