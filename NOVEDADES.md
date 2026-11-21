@@ -1,5 +1,14 @@
 # Novedades de Dino Cards
 
+## 1.38.0 · 2026-11-21
+
+Página web: resultados de los torneos.
+
+- Al abrir un torneo que ya terminó en **Torneos y eventos**, se ven sus resultados (1.er, 2.º, 3.er lugar… hasta 8) y cuántos jugaron.
+- En la lista de la semana, el torneo terminado muestra al ganador con 🏆.
+- Nueva sección **Resultados recientes** con los torneos de los últimos 60 días.
+- Salen los lugares que registras en el punto de venta al cerrar el torneo. Los nombres se publican cortos ("María G."), como en la liga.
+
 ## 1.37.1 · 2026-11-21
 
 Página web: páginas numeradas.

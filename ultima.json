@@ -1,7 +1,7 @@
 {
-  "version": "1.37.1",
-  "fecha": "2026-11-21T07:21:35+00:00",
-  "notas": "Página web: páginas numeradas.\n\n- **Producto sellado** muestra 24 productos por página y **Cartas sueltas** 50 cartas por página, con botones de página (Anterior, 1, 2, 3…, Siguiente) y el texto \"1–50 de 300\".\n- La página en la que vas queda en la dirección: si recargas o compartes el enlace, abre en la misma página.\n- Al cambiar un filtro o el orden regresa a la página 1.",
-  "instalador": "versiones/Instalar-DinoCards-1.37.1.exe",
-  "firma": "versiones/Instalar-DinoCards-1.37.1.exe.sig"
+  "version": "1.38.0",
+  "fecha": "2026-11-21T07:30:06+00:00",
+  "notas": "Página web: resultados de los torneos.\n\n- Al abrir un torneo que ya terminó en **Torneos y eventos**, se ven sus resultados (1.er, 2.º, 3.er lugar… hasta 8) y cuántos jugaron.\n- En la lista de la semana, el torneo terminado muestra al ganador con 🏆.\n- Nueva sección **Resultados recientes** con los torneos de los últimos 60 días.\n- Salen los lugares que registras en el punto de venta al cerrar el torneo. Los nombres se publican cortos (\"María G.\"), como en la liga.",
+  "instalador": "versiones/Instalar-DinoCards-1.38.0.exe",
+  "firma": "versiones/Instalar-DinoCards-1.38.0.exe.sig"
 }
