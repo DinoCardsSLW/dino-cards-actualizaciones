@@ -1,7 +1,7 @@
 {
-  "version": "1.41.0",
-  "fecha": "2026-11-21T22:24:03+00:00",
-  "notas": "Página web: carta en grande y mejores sugerencias.\n\n- **Cartas sueltas:** al tocar la foto de una carta se abre en grande, con su precio, condición, existencia y los botones para agregarla o ver su ficha.\n- **\"También te puede gustar\"** en la ficha de producto: ahora sugiere primero lo del mismo set, luego la misma categoría y precios parecidos, e incluye producto sellado del mismo juego cuando ves una carta (y al revés).",
-  "instalador": "versiones/Instalar-DinoCards-1.41.0.exe",
-  "firma": "versiones/Instalar-DinoCards-1.41.0.exe.sig"
+  "version": "1.41.1",
+  "fecha": "2026-11-21T22:26:36+00:00",
+  "notas": "Página web: se quita \"Bajaron de precio\" del Inicio.\n\n- El Inicio ya no muestra el bloque \"Bajaron de precio\" ni la etiqueta de cuánto bajó una carta.\n- En Cartas sueltas sigue el filtro \"Bajaron de precio\" para quien lo busque.",
+  "instalador": "versiones/Instalar-DinoCards-1.41.1.exe",
+  "firma": "versiones/Instalar-DinoCards-1.41.1.exe.sig"
 }

@@ -1,5 +1,12 @@
 # Novedades de Dino Cards
 
+## 1.41.1 · 2026-11-21
+
+Página web: se quita "Bajaron de precio" del Inicio.
+
+- El Inicio ya no muestra el bloque "Bajaron de precio" ni la etiqueta de cuánto bajó una carta.
+- En Cartas sueltas sigue el filtro "Bajaron de precio" para quien lo busque.
+
 ## 1.41.0 · 2026-11-21
 
 Página web: carta en grande y mejores sugerencias.
