@@ -1,5 +1,13 @@
 # Novedades de Dino Cards
 
+## 1.35.4 · 2026-11-20
+
+**Manual de usuario actualizado (versión 1.35)**
+
+- El manual que se abre desde el menú Inicio de Windows ya describe todo lo nuevo: menú compacto, servidor, autorizaciones, Dino Puntos con premio en crédito y ajuste manual, niveles de clientes, semana de torneos, liga, premiación, "Ya pagó antes", aviso de ofertas, remisiones con producto eliminado y novedades.
+- Nueva sección **15. Tienda en línea**: qué ve el cliente, cómo se configura, pedidos de la página, Mi cuenta, preventas y torneos en línea, subastas, pile of loot y textos legales.
+- Preguntas frecuentes y glosario al día.
+
 ## 1.35.3 · 2026-11-20
 
 **Torneos: inscripción "Ya pagó antes"**

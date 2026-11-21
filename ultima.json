@@ -1,7 +1,7 @@
 {
-  "version": "1.35.3",
-  "fecha": "2026-11-21T02:33:59+00:00",
-  "notas": "**Torneos: inscripción \"Ya pagó antes\"**\n\n- Al inscribir a un jugador (o al cobrarle después) hay una nueva forma de pago: **Ya pagó antes (ya está registrado)**. Sirve cuando la inscripción ya se cobró en otra venta, preventa o paquete.\n  - No entra dinero a la caja ni al corte; puedes anotar dónde quedó registrado el pago (opcional).\n  - Si el torneo incluye artículos, se entregan y descuentan al inscribirlo.\n  - En la lista de jugadores aparece **Pagado antes** con la nota, y cuenta en lo recaudado y la ganancia estimada del torneo.\n- Corrección: en los formularios ya no se muestran campos que deberían estar ocultos (por ejemplo, \"Efectivo recibido\" cuando el pago no es en efectivo).",
-  "instalador": "versiones/Instalar-DinoCards-1.35.3.exe",
-  "firma": "versiones/Instalar-DinoCards-1.35.3.exe.sig"
+  "version": "1.35.4",
+  "fecha": "2026-11-21T04:03:01+00:00",
+  "notas": "**Manual de usuario actualizado (versión 1.35)**\n\n- El manual que se abre desde el menú Inicio de Windows ya describe todo lo nuevo: menú compacto, servidor, autorizaciones, Dino Puntos con premio en crédito y ajuste manual, niveles de clientes, semana de torneos, liga, premiación, \"Ya pagó antes\", aviso de ofertas, remisiones con producto eliminado y novedades.\n- Nueva sección **15. Tienda en línea**: qué ve el cliente, cómo se configura, pedidos de la página, Mi cuenta, preventas y torneos en línea, subastas, pile of loot y textos legales.\n- Preguntas frecuentes y glosario al día.",
+  "instalador": "versiones/Instalar-DinoCards-1.35.4.exe",
+  "firma": "versiones/Instalar-DinoCards-1.35.4.exe.sig"
 }
