@@ -1,5 +1,15 @@
 # Novedades de Dino Cards
 
+## 1.36.0 · 2026-11-20
+
+Página web: nuevas páginas de Cartas sueltas y Producto sellado.
+
+- **Cartas sueltas** (nueva página): tabla con filtros por juego, condición, idioma, rareza, set, solo foil y "bajaron de precio". Muestra la fecha de la última actualización de precios, el dólar del día y si el precio de la carta bajó o subió en los últimos 7 días. Incluye "Pedir carta" por WhatsApp y la guía de condición.
+- **Producto sellado**: filtros a un lado (tipo de producto, disponibilidad y rango de precio) y nuevo orden "Más vendidos" (ventas de los últimos 90 días; no se publican cantidades).
+- El menú de la página ahora tiene "Sellado" y "Cartas sueltas".
+- El encabezado de la página ya no se parte en dos renglones en pantallas de 1280 px, y en el celular el menú se desliza de lado.
+- Manual actualizado.
+
 ## 1.35.4 · 2026-11-20
 
 **Manual de usuario actualizado (versión 1.35)**

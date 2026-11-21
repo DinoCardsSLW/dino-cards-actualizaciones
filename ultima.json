@@ -1,7 +1,7 @@
 {
-  "version": "1.35.4",
-  "fecha": "2026-11-21T04:03:01+00:00",
-  "notas": "**Manual de usuario actualizado (versión 1.35)**\n\n- El manual que se abre desde el menú Inicio de Windows ya describe todo lo nuevo: menú compacto, servidor, autorizaciones, Dino Puntos con premio en crédito y ajuste manual, niveles de clientes, semana de torneos, liga, premiación, \"Ya pagó antes\", aviso de ofertas, remisiones con producto eliminado y novedades.\n- Nueva sección **15. Tienda en línea**: qué ve el cliente, cómo se configura, pedidos de la página, Mi cuenta, preventas y torneos en línea, subastas, pile of loot y textos legales.\n- Preguntas frecuentes y glosario al día.",
-  "instalador": "versiones/Instalar-DinoCards-1.35.4.exe",
-  "firma": "versiones/Instalar-DinoCards-1.35.4.exe.sig"
+  "version": "1.36.0",
+  "fecha": "2026-11-21T04:36:29+00:00",
+  "notas": "Página web: nuevas páginas de Cartas sueltas y Producto sellado.\n\n- **Cartas sueltas** (nueva página): tabla con filtros por juego, condición, idioma, rareza, set, solo foil y \"bajaron de precio\". Muestra la fecha de la última actualización de precios, el dólar del día y si el precio de la carta bajó o subió en los últimos 7 días. Incluye \"Pedir carta\" por WhatsApp y la guía de condición.\n- **Producto sellado**: filtros a un lado (tipo de producto, disponibilidad y rango de precio) y nuevo orden \"Más vendidos\" (ventas de los últimos 90 días; no se publican cantidades).\n- El menú de la página ahora tiene \"Sellado\" y \"Cartas sueltas\".\n- El encabezado de la página ya no se parte en dos renglones en pantallas de 1280 px, y en el celular el menú se desliza de lado.\n- Manual actualizado.",
+  "instalador": "versiones/Instalar-DinoCards-1.36.0.exe",
+  "firma": "versiones/Instalar-DinoCards-1.36.0.exe.sig"
 }
