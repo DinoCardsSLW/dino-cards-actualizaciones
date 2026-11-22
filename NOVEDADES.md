@@ -1,5 +1,12 @@
 # Novedades de Dino Cards
 
+## 1.44.0 · 2026-11-21
+
+Página web: Calendario de lanzamientos y Vende tus cartas.
+
+- **Calendario de lanzamientos** (/tienda/lanzamientos): preventas y lo que acaba de llegar, mes por mes, con precio, anticipo y si aún se puede apartar; filtro por juego. Enlazado desde Preventas, el Inicio y el pie de página.
+- **Vende tus cartas** (/tienda/vender): el cliente arma su lista de cartas (juego, set, condición y cantidad), elige efectivo, crédito o intercambio, y te la manda por WhatsApp lista para cotizar.
+
 ## 1.43.0 · 2026-11-21
 
 Página web: Preguntas frecuentes y formas de pago en el pie.

@@ -1,7 +1,7 @@
 {
-  "version": "1.43.0",
-  "fecha": "2026-11-22T00:54:48+00:00",
-  "notas": "Página web: Preguntas frecuentes y formas de pago en el pie.\n\n- Nueva página **Preguntas frecuentes** (/tienda/ayuda): comprar y pagar, envíos y recoger, pile, preventas, condición de las cartas, Dino Puntos, Mi cuenta, torneos, cambios y privacidad. Usa tus ajustes (envío gratis, días para recoger, Dino Puntos), así que se mantiene al día sola.\n- El **pie de todas las páginas** muestra las formas de pago y entrega (Mercado Pago, pagar al recoger, recoger gratis, envíos) y el enlace a Preguntas frecuentes.",
-  "instalador": "versiones/Instalar-DinoCards-1.43.0.exe",
-  "firma": "versiones/Instalar-DinoCards-1.43.0.exe.sig"
+  "version": "1.44.0",
+  "fecha": "2026-11-22T01:00:48+00:00",
+  "notas": "Página web: Calendario de lanzamientos y Vende tus cartas.\n\n- **Calendario de lanzamientos** (/tienda/lanzamientos): preventas y lo que acaba de llegar, mes por mes, con precio, anticipo y si aún se puede apartar; filtro por juego. Enlazado desde Preventas, el Inicio y el pie de página.\n- **Vende tus cartas** (/tienda/vender): el cliente arma su lista de cartas (juego, set, condición y cantidad), elige efectivo, crédito o intercambio, y te la manda por WhatsApp lista para cotizar.",
+  "instalador": "versiones/Instalar-DinoCards-1.44.0.exe",
+  "firma": "versiones/Instalar-DinoCards-1.44.0.exe.sig"
 }
