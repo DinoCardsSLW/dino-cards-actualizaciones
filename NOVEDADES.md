@@ -1,5 +1,9 @@
 # Novedades de Dino Cards
 
+## 1.50.2 · 2026-11-22
+
+- Página web: el **Calendario de lanzamientos** ya solo muestra preventas: las que vienen y las que ya llegaron en el último mes (con enlace al producto para comprarlo). Antes aparecía cualquier producto que había llegado a la tienda.
+
 ## 1.50.1 · 2026-11-22
 
 - **Subastas: por ahora se pagan solo en la tienda o por transferencia.** La página de Subastas muestra un aviso, Mi cuenta ya no ofrece pagar en línea (con un botón para pedir por WhatsApp los datos de la transferencia) y el correo al ganador lo explica. Se puede volver a aceptar Mercado Pago marcando **Aceptar pago en línea** en la pantalla de Subastas.
