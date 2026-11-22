@@ -1,5 +1,10 @@
 # Novedades de Dino Cards
 
+## 1.50.0 · 2026-11-22
+
+- **Correos automáticos a los clientes** de la tienda en línea: cuando aparta, cuando recibimos su pago, cuando su paquete va en camino (con la guía y el botón para rastrearlo) y cuando se le devuelve dinero o se cancela su pedido. Se encienden o apagan en Ajustes → Página web → Correos a los clientes, con un botón para mandarte un ejemplo.
+- **Corrección importante:** si llegaba un pedido de la página (o un cambio de otra computadora) justo cuando la caja guardaba algo, esa computadora podía no verlo hasta reiniciar. Ya se ve siempre.
+
 ## 1.49.0 · 2026-11-22
 
 - **Devolución parcial por Mercado Pago:** en los pedidos en línea pagados, **Devolver algunas piezas** (o la Devolución de su venta) le regresa en automático solo esas piezas o el envío por Mercado Pago. Las piezas vuelven al inventario y el cliente lo ve en su pedido.
