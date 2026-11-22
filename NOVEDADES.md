@@ -1,5 +1,11 @@
 # Novedades de Dino Cards
 
+## 1.46.2 · 2026-11-21
+
+Página web: ajuste a la política de devoluciones.
+
+- Se quita de Términos y de Preguntas frecuentes el apartado de cancelar una compra en línea por cambio de opinión.
+
 ## 1.46.1 · 2026-11-21
 
 Página web: política de cambios, devoluciones y cancelaciones.
