@@ -31,7 +31,7 @@ if ! caddy validate --config "$CF" --adapter caddyfile >/dev/null 2>&1; then cp 
 systemctl reload caddy
 echo "Esperando el certificado seguro (hasta 2 minutos)…"
 for i in $(seq 1 24); do
-  if curl -fsS --max-time 5 -o /dev/null "https://www.$DOM/tienda"; then echo "✔ Listo: https://www.$DOM/tienda ya funciona con candado."; exit 0; fi
+  if curl -fsS --max-time 5 -o /dev/null "https://www.$DOM/tienda" 2>/dev/null; then echo "✔ Listo: https://www.$DOM/tienda ya funciona con candado."; exit 0; fi
   sleep 5
 done
 echo "Caddy sigue pidiendo el certificado. Revisa en unos minutos https://www.$DOM/tienda o mira:  journalctl -u caddy --no-pager | tail -20"

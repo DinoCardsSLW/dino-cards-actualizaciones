@@ -146,6 +146,9 @@ IP=$(curl -fsS --max-time 5 http://169.254.169.254/metadata/v1/interfaces/public
 [ -n "$IP" ] || IP=$(curl -fsS --max-time 8 https://api.ipify.org)
 echo "IP: $IP"
 
+# si ya se conectó el dominio de la tienda (dominio.sh), se conserva su bloque
+DOMBLK=""
+[ -f /etc/caddy/Caddyfile ] && DOMBLK=$(sed -n '/^# dominio-inicio/,/^# dominio-fin/p' /etc/caddy/Caddyfile)
 cat > /etc/caddy/Caddyfile <<EOF
 # Dino Cards: conexión segura por IP (certificado de Let's Encrypt de 6 días, se renueva solo)
 https://$IP {
@@ -161,6 +164,7 @@ http://$IP {
 	redir https://$IP{uri} permanent
 }
 EOF
+[ -n "$DOMBLK" ] && printf '%s\n' "$DOMBLK" >> /etc/caddy/Caddyfile
 caddy validate --config /etc/caddy/Caddyfile --adapter caddyfile >/dev/null
 systemctl enable caddy >/dev/null 2>&1
 systemctl restart caddy
