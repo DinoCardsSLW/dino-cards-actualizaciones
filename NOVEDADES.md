@@ -1,5 +1,9 @@
 # Novedades de Dino Cards
 
+## 1.50.3 · 2026-11-22
+
+- Página web: las preventas a las que **ya se les terminó el periodo para apartar** ahora dicen **"Apartado cerrado"** (con la fecha y cuándo llega), sin botón de apartar, y van al final de la lista. Ya no salen en "Preventas abiertas" del Inicio ni en la página de cada juego. Las que todavía no abren dicen desde cuándo se pueden apartar.
+
 ## 1.50.2 · 2026-11-22
 
 - Página web: el **Calendario de lanzamientos** ya solo muestra preventas: las que vienen y las que ya llegaron en el último mes (con enlace al producto para comprarlo). Antes aparecía cualquier producto que había llegado a la tienda.
