@@ -1,5 +1,9 @@
 # Novedades de Dino Cards
 
+## 1.46.3 · 2026-11-21
+
+- Página web: en "Próximos torneos" el recuadro del día ahora aparece centrado junto a sus torneos.
+
 ## 1.46.2 · 2026-11-21
 
 Página web: ajuste a la política de devoluciones.

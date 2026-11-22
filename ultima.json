@@ -1,7 +1,7 @@
 {
-  "version": "1.46.2",
-  "fecha": "2026-11-22T01:39:51+00:00",
-  "notas": "Página web: ajuste a la política de devoluciones.\n\n- Se quita de Términos y de Preguntas frecuentes el apartado de cancelar una compra en línea por cambio de opinión.",
-  "instalador": "versiones/Instalar-DinoCards-1.46.2.exe",
-  "firma": "versiones/Instalar-DinoCards-1.46.2.exe.sig"
+  "version": "1.46.3",
+  "fecha": "2026-11-22T02:07:15+00:00",
+  "notas": "- Página web: en \"Próximos torneos\" el recuadro del día ahora aparece centrado junto a sus torneos.",
+  "instalador": "versiones/Instalar-DinoCards-1.46.3.exe",
+  "firma": "versiones/Instalar-DinoCards-1.46.3.exe.sig"
 }
