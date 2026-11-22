@@ -1,5 +1,9 @@
 # Novedades de Dino Cards
 
+## 1.50.5 · 2026-11-22
+
+- Página web: la cantidad de piezas **ya tampoco viaja en los datos** que baja la página (antes alguien que supiera revisar el código podía verla). Solo se sabe si queda 1, quedan 2, hay o está agotado. Si un cliente pide más piezas de las que hay, al hacer su pedido le dice cuántas quedan.
+
 ## 1.50.4 · 2026-11-22
 
 - Página web: ya **no se muestra cuántas piezas hay** de cada producto o carta; solo dice "En existencia" o "Disponible". Cuando quedan **1 o 2** aparece **"Última pieza"** o **"Últimas 2"**, para crear urgencia.
