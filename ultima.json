@@ -1,7 +1,7 @@
 {
-  "version": "1.44.0",
-  "fecha": "2026-11-22T01:00:48+00:00",
-  "notas": "Página web: Calendario de lanzamientos y Vende tus cartas.\n\n- **Calendario de lanzamientos** (/tienda/lanzamientos): preventas y lo que acaba de llegar, mes por mes, con precio, anticipo y si aún se puede apartar; filtro por juego. Enlazado desde Preventas, el Inicio y el pie de página.\n- **Vende tus cartas** (/tienda/vender): el cliente arma su lista de cartas (juego, set, condición y cantidad), elige efectivo, crédito o intercambio, y te la manda por WhatsApp lista para cotizar.",
-  "instalador": "versiones/Instalar-DinoCards-1.44.0.exe",
-  "firma": "versiones/Instalar-DinoCards-1.44.0.exe.sig"
+  "version": "1.45.0",
+  "fecha": "2026-11-22T01:14:30+00:00",
+  "notas": "Favoritos y más fotos por producto.\n\n- **Favoritos en la página:** corazón ♡ en cada producto y carta; lo guardado aparece en **Mis favoritos** (con el contador en el encabezado). Si el cliente entra a Mi cuenta, sus favoritos se guardan en su cuenta.\n- **Más fotos:** en la ficha del producto del punto de venta puedes agregar hasta 5 fotos más (reverso, contenido de la caja, detalles). En la página se ven en miniatura y al tocarlas cambia la foto grande.\n- **\"Qué incluye\":** nuevo campo para producto sellado (uno por renglón); en la página sale como lista.",
+  "instalador": "versiones/Instalar-DinoCards-1.45.0.exe",
+  "firma": "versiones/Instalar-DinoCards-1.45.0.exe.sig"
 }

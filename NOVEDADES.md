@@ -1,5 +1,13 @@
 # Novedades de Dino Cards
 
+## 1.45.0 · 2026-11-21
+
+Favoritos y más fotos por producto.
+
+- **Favoritos en la página:** corazón ♡ en cada producto y carta; lo guardado aparece en **Mis favoritos** (con el contador en el encabezado). Si el cliente entra a Mi cuenta, sus favoritos se guardan en su cuenta.
+- **Más fotos:** en la ficha del producto del punto de venta puedes agregar hasta 5 fotos más (reverso, contenido de la caja, detalles). En la página se ven en miniatura y al tocarlas cambia la foto grande.
+- **"Qué incluye":** nuevo campo para producto sellado (uno por renglón); en la página sale como lista.
+
 ## 1.44.0 · 2026-11-21
 
 Página web: Calendario de lanzamientos y Vende tus cartas.
