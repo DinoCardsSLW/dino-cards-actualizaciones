@@ -1,7 +1,7 @@
 {
-  "version": "1.46.3",
-  "fecha": "2026-11-22T02:07:15+00:00",
-  "notas": "- Página web: en \"Próximos torneos\" el recuadro del día ahora aparece centrado junto a sus torneos.",
-  "instalador": "versiones/Instalar-DinoCards-1.46.3.exe",
-  "firma": "versiones/Instalar-DinoCards-1.46.3.exe.sig"
+  "version": "1.47.0",
+  "fecha": "2026-11-22T03:11:27+00:00",
+  "notas": "- Página web: los anuncios del Inicio ahora rotan solos cada 6 segundos, con flechas, puntitos y deslizando con el dedo en el celular.\n- Nuevo en Ajustes → Página web → Anuncios: **Solo la imagen (banner)**, para subir un diseño de Canva a todo lo ancho (1600 × 500 px).\n- Página web: ícono del dino al agregar la tienda a la pantalla de inicio del celular.\n- Página web: ruta de navegación más clara en cada producto (Inicio › Sellado › Juego › producto), también para Google.\n- Página web: recuadros grises con forma de producto mientras carga la página.\n- Página web: etiquetas iguales en todos los productos: Oferta −X %, Nuevo, Últimas piezas y Agotado.\n- Página web: el encabezado se acomoda solo para no partirse en dos renglones.",
+  "instalador": "versiones/Instalar-DinoCards-1.47.0.exe",
+  "firma": "versiones/Instalar-DinoCards-1.47.0.exe.sig"
 }

@@ -1,5 +1,15 @@
 # Novedades de Dino Cards
 
+## 1.47.0 · 2026-11-21
+
+- Página web: los anuncios del Inicio ahora rotan solos cada 6 segundos, con flechas, puntitos y deslizando con el dedo en el celular.
+- Nuevo en Ajustes → Página web → Anuncios: **Solo la imagen (banner)**, para subir un diseño de Canva a todo lo ancho (1600 × 500 px).
+- Página web: ícono del dino al agregar la tienda a la pantalla de inicio del celular.
+- Página web: ruta de navegación más clara en cada producto (Inicio › Sellado › Juego › producto), también para Google.
+- Página web: recuadros grises con forma de producto mientras carga la página.
+- Página web: etiquetas iguales en todos los productos: Oferta −X %, Nuevo, Últimas piezas y Agotado.
+- Página web: el encabezado se acomoda solo para no partirse en dos renglones.
+
 ## 1.46.3 · 2026-11-21
 
 - Página web: en "Próximos torneos" el recuadro del día ahora aparece centrado junto a sus torneos.
