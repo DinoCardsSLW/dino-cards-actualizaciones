@@ -1,7 +1,7 @@
 {
-  "version": "1.50.0",
-  "fecha": "2026-11-22T18:13:55+00:00",
-  "notas": "- **Correos automáticos a los clientes** de la tienda en línea: cuando aparta, cuando recibimos su pago, cuando su paquete va en camino (con la guía y el botón para rastrearlo) y cuando se le devuelve dinero o se cancela su pedido. Se encienden o apagan en Ajustes → Página web → Correos a los clientes, con un botón para mandarte un ejemplo.\n- **Corrección importante:** si llegaba un pedido de la página (o un cambio de otra computadora) justo cuando la caja guardaba algo, esa computadora podía no verlo hasta reiniciar. Ya se ve siempre.",
-  "instalador": "versiones/Instalar-DinoCards-1.50.0.exe",
-  "firma": "versiones/Instalar-DinoCards-1.50.0.exe.sig"
+  "version": "1.50.1",
+  "fecha": "2026-11-22T19:19:57+00:00",
+  "notas": "- **Subastas: por ahora se pagan solo en la tienda o por transferencia.** La página de Subastas muestra un aviso, Mi cuenta ya no ofrece pagar en línea (con un botón para pedir por WhatsApp los datos de la transferencia) y el correo al ganador lo explica. Se puede volver a aceptar Mercado Pago marcando **Aceptar pago en línea** en la pantalla de Subastas.",
+  "instalador": "versiones/Instalar-DinoCards-1.50.1.exe",
+  "firma": "versiones/Instalar-DinoCards-1.50.1.exe.sig"
 }

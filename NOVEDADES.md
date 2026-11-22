@@ -1,5 +1,9 @@
 # Novedades de Dino Cards
 
+## 1.50.1 · 2026-11-22
+
+- **Subastas: por ahora se pagan solo en la tienda o por transferencia.** La página de Subastas muestra un aviso, Mi cuenta ya no ofrece pagar en línea (con un botón para pedir por WhatsApp los datos de la transferencia) y el correo al ganador lo explica. Se puede volver a aceptar Mercado Pago marcando **Aceptar pago en línea** en la pantalla de Subastas.
+
 ## 1.50.0 · 2026-11-22
 
 - **Correos automáticos a los clientes** de la tienda en línea: cuando aparta, cuando recibimos su pago, cuando su paquete va en camino (con la guía y el botón para rastrearlo) y cuando se le devuelve dinero o se cancela su pedido. Se encienden o apagan en Ajustes → Página web → Correos a los clientes, con un botón para mandarte un ejemplo.
