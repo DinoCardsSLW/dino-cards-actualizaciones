@@ -1,5 +1,15 @@
 # Novedades de Dino Cards
 
+## 1.46.0 · 2026-11-21
+
+Preparación para el lanzamiento con www.dinocards.com.mx.
+
+- **Ajustes → Página web → Lanzamiento de la página:** dominio de la tienda y la casilla "La página ya está lanzada" (quita el aviso de pruebas y deja que Google muestre la tienda).
+- Cuando el dominio apunte al servidor, **www.dinocards.com.mx abre la tienda** (las computadoras de la tienda siguen entrando como siempre).
+- **Enlaces viejos de Shopify** (/products, /collections, /pages, /cart…) llevan a la página nueva.
+- **Google:** mapa del sitio con todos los productos y juegos, robots.txt y dirección oficial en cada página (solo al lanzar).
+- Página de **"no encontrado"** con buscador.
+
 ## 1.45.0 · 2026-11-21
 
 Favoritos y más fotos por producto.
