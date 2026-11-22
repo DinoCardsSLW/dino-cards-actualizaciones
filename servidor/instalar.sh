@@ -77,7 +77,23 @@ echo; echo "  Clave nueva del servidor:  $C"; echo "  Guárdala en un lugar segu
 EOF
 cat > /usr/local/bin/dinocards-actualizar <<'EOF'
 #!/bin/bash
-curl -fsSL https://raw.githubusercontent.com/DinoCardsSLW/dino-cards-actualizaciones/main/servidor/instalar.sh | bash
+curl -fsSL "https://raw.githubusercontent.com/DinoCardsSLW/dino-cards-actualizaciones/main/servidor/instalar.sh?t=$(date +%s)" | bash
+EOF
+# dominio de la tienda: se guarda aparte (/etc/caddy/dinocards-dominio) y este comando lo vuelve a poner
+# en Caddy si falta; lo usan la instalación y la revisión de cada 15 minutos (1.47.1)
+cat > /usr/local/bin/dinocards-dominio <<'EOF'
+#!/bin/bash
+CF=/etc/caddy/Caddyfile; F=/etc/caddy/dinocards-dominio
+[ -f "$F" ] && [ -f "$CF" ] || exit 0
+DOM=$(tr -cd 'a-z0-9.-' < "$F")
+[ -n "$DOM" ] || exit 0
+grep -q '^# dominio-inicio' "$CF" && grep -q "^www\.$DOM {" "$CF" && exit 0
+cp "$CF" "$CF.antes-dominio"
+sed -i '/^# dominio-inicio/,/^# dominio-fin/d' "$CF"
+printf '# dominio-inicio\nwww.%s {\n\tencode zstd gzip\n\treverse_proxy 127.0.0.1:47652\n}\n%s {\n\tredir https://www.%s{uri} permanent\n}\n# dominio-fin\n' "$DOM" "$DOM" "$DOM" >> "$CF"
+if ! caddy validate --config "$CF" --adapter caddyfile >/dev/null 2>&1; then cp "$CF.antes-dominio" "$CF"; echo "No pude volver a poner el dominio $DOM (configuración no válida)."; exit 1; fi
+systemctl reload caddy 2>/dev/null || systemctl restart caddy
+echo "Dominio www.$DOM conectado otra vez."
 EOF
 # actualización automática: cada 15 min revisa si hay versión nueva; la instala solo si viene
 # firmada por Dino Cards y cuando no hay ventas en curso (5 min sin guardar) o de 2 a 5 de la mañana.
@@ -87,6 +103,7 @@ set -uo pipefail
 BASE="https://raw.githubusercontent.com/DinoCardsSLW/dino-cards-actualizaciones/main/servidor"
 BIN=/usr/local/bin/dinocards-servidor
 TMP=$(mktemp -d); trap 'rm -rf "$TMP"' EXIT
+/usr/local/bin/dinocards-dominio || true
 curl -fsS --max-time 30 "$BASE/dinocards-servidor.sha256" -o "$TMP/sha" || exit 0
 NUEVO=$(cut -d' ' -f1 "$TMP/sha")
 ACTUAL=$(sha256sum "$BIN" | cut -d' ' -f1)
@@ -130,7 +147,7 @@ RandomizedDelaySec=60
 [Install]
 WantedBy=timers.target
 EOF
-chmod 755 /usr/local/bin/dinocards-clave /usr/local/bin/dinocards-actualizar /usr/local/bin/dinocards-auto-actualizar
+chmod 755 /usr/local/bin/dinocards-clave /usr/local/bin/dinocards-actualizar /usr/local/bin/dinocards-auto-actualizar /usr/local/bin/dinocards-dominio
 
 CLAVE=""
 if [ ! -f "$DATOS/servidor.json" ]; then
@@ -146,9 +163,11 @@ IP=$(curl -fsS --max-time 5 http://169.254.169.254/metadata/v1/interfaces/public
 [ -n "$IP" ] || IP=$(curl -fsS --max-time 8 https://api.ipify.org)
 echo "IP: $IP"
 
-# si ya se conectó el dominio de la tienda (dominio.sh), se conserva su bloque
-DOMBLK=""
-[ -f /etc/caddy/Caddyfile ] && DOMBLK=$(sed -n '/^# dominio-inicio/,/^# dominio-fin/p' /etc/caddy/Caddyfile)
+# si ya se conectó el dominio de la tienda (dominio.sh), se recuerda para volver a ponerlo
+if [ ! -s /etc/caddy/dinocards-dominio ] && [ -f /etc/caddy/Caddyfile ]; then
+  D=$(sed -n 's/^www\.\([a-z0-9.-]*\) {$/\1/p' /etc/caddy/Caddyfile | head -1)
+  if [ -n "$D" ]; then echo "$D" > /etc/caddy/dinocards-dominio; fi
+fi
 cat > /etc/caddy/Caddyfile <<EOF
 # Dino Cards: conexión segura por IP (certificado de Let's Encrypt de 6 días, se renueva solo)
 https://$IP {
@@ -164,10 +183,10 @@ http://$IP {
 	redir https://$IP{uri} permanent
 }
 EOF
-[ -n "$DOMBLK" ] && printf '%s\n' "$DOMBLK" >> /etc/caddy/Caddyfile
 caddy validate --config /etc/caddy/Caddyfile --adapter caddyfile >/dev/null
 systemctl enable caddy >/dev/null 2>&1
 systemctl restart caddy
+/usr/local/bin/dinocards-dominio || echo "Aviso: no se pudo volver a conectar el dominio; corre dominio.sh."
 
 paso "Firewall (solo consola, http y https)"
 ufw allow OpenSSH >/dev/null

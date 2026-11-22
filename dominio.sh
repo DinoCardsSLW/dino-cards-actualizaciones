@@ -29,6 +29,7 @@ $DOM {
 CAD
 if ! caddy validate --config "$CF" --adapter caddyfile >/dev/null 2>&1; then cp "$CF.antes-dominio" "$CF"; echo "La configuración no es válida; dejé todo como estaba."; exit 1; fi
 systemctl reload caddy
+echo "$DOM" > /etc/caddy/dinocards-dominio  # se recuerda: las actualizaciones lo vuelven a poner solas
 echo "Esperando el certificado seguro (hasta 2 minutos)…"
 for i in $(seq 1 24); do
   if curl -fsS --max-time 5 -o /dev/null "https://www.$DOM/tienda" 2>/dev/null; then echo "✔ Listo: https://www.$DOM/tienda ya funciona con candado."; exit 0; fi
