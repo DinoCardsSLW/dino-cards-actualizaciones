@@ -1,5 +1,11 @@
 # Novedades de Dino Cards
 
+## 1.48.0 · 2026-11-21
+
+- Pedidos → Tienda en línea: nuevo botón **Cancelar y devolver el dinero** en los pedidos pagados con Mercado Pago. Mercado Pago le devuelve todo al cliente, se cancela la venta (las piezas regresan al inventario, se ajustan sus Dino Puntos y se cancela el envío si no tiene guía) y el cliente lo ve en la página de su pedido.
+- Si Mercado Pago no tiene saldo para devolver, avisa y no cancela nada.
+- Página web: el dominio se vuelve a conectar solo si una actualización del servidor lo quita.
+
 ## 1.47.0 · 2026-11-21
 
 - Página web: los anuncios del Inicio ahora rotan solos cada 6 segundos, con flechas, puntitos y deslizando con el dedo en el celular.

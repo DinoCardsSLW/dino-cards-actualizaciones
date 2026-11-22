@@ -1,7 +1,7 @@
 {
-  "version": "1.47.0",
-  "fecha": "2026-11-22T03:11:27+00:00",
-  "notas": "- Página web: los anuncios del Inicio ahora rotan solos cada 6 segundos, con flechas, puntitos y deslizando con el dedo en el celular.\n- Nuevo en Ajustes → Página web → Anuncios: **Solo la imagen (banner)**, para subir un diseño de Canva a todo lo ancho (1600 × 500 px).\n- Página web: ícono del dino al agregar la tienda a la pantalla de inicio del celular.\n- Página web: ruta de navegación más clara en cada producto (Inicio › Sellado › Juego › producto), también para Google.\n- Página web: recuadros grises con forma de producto mientras carga la página.\n- Página web: etiquetas iguales en todos los productos: Oferta −X %, Nuevo, Últimas piezas y Agotado.\n- Página web: el encabezado se acomoda solo para no partirse en dos renglones.",
-  "instalador": "versiones/Instalar-DinoCards-1.47.0.exe",
-  "firma": "versiones/Instalar-DinoCards-1.47.0.exe.sig"
+  "version": "1.48.0",
+  "fecha": "2026-11-22T03:48:25+00:00",
+  "notas": "- Pedidos → Tienda en línea: nuevo botón **Cancelar y devolver el dinero** en los pedidos pagados con Mercado Pago. Mercado Pago le devuelve todo al cliente, se cancela la venta (las piezas regresan al inventario, se ajustan sus Dino Puntos y se cancela el envío si no tiene guía) y el cliente lo ve en la página de su pedido.\n- Si Mercado Pago no tiene saldo para devolver, avisa y no cancela nada.\n- Página web: el dominio se vuelve a conectar solo si una actualización del servidor lo quita.",
+  "instalador": "versiones/Instalar-DinoCards-1.48.0.exe",
+  "firma": "versiones/Instalar-DinoCards-1.48.0.exe.sig"
 }
