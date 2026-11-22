@@ -1,5 +1,9 @@
 # Novedades de Dino Cards
 
+## 1.50.4 · 2026-11-22
+
+- Página web: ya **no se muestra cuántas piezas hay** de cada producto o carta; solo dice "En existencia" o "Disponible". Cuando quedan **1 o 2** aparece **"Última pieza"** o **"Últimas 2"**, para crear urgencia.
+
 ## 1.50.3 · 2026-11-22
 
 - Página web: las preventas a las que **ya se les terminó el periodo para apartar** ahora dicen **"Apartado cerrado"** (con la fecha y cuándo llega), sin botón de apartar, y van al final de la lista. Ya no salen en "Preventas abiertas" del Inicio ni en la página de cada juego. Las que todavía no abren dicen desde cuándo se pueden apartar.
