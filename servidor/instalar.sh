@@ -84,6 +84,7 @@ EOF
 cat > /usr/local/bin/dinocards-dominio <<'EOF'
 #!/bin/bash
 CF=/etc/caddy/Caddyfile; F=/etc/caddy/dinocards-dominio
+exec 9>/run/dinocards-dominio.lock; flock -w 60 9 || exit 0
 [ -f "$F" ] && [ -f "$CF" ] || exit 0
 DOM=$(tr -cd 'a-z0-9.-' < "$F")
 [ -n "$DOM" ] || exit 0
@@ -147,6 +148,36 @@ RandomizedDelaySec=60
 [Install]
 WantedBy=timers.target
 EOF
+# el dominio se revisa en cuanto cambia la configuración de Caddy, y además cada minuto (1.47.1)
+cat > /etc/systemd/system/dinocards-dominio.service <<'EOF'
+[Unit]
+Description=Dino Cards · mantener conectado el dominio de la tienda
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/bin/dinocards-dominio
+EOF
+cat > /etc/systemd/system/dinocards-dominio.path <<'EOF'
+[Unit]
+Description=Dino Cards · vigilar la configuración de Caddy
+
+[Path]
+PathChanged=/etc/caddy/Caddyfile
+
+[Install]
+WantedBy=multi-user.target
+EOF
+cat > /etc/systemd/system/dinocards-dominio.timer <<'EOF'
+[Unit]
+Description=Dino Cards · revisar el dominio cada minuto
+
+[Timer]
+OnBootSec=1min
+OnUnitActiveSec=1min
+
+[Install]
+WantedBy=timers.target
+EOF
 chmod 755 /usr/local/bin/dinocards-clave /usr/local/bin/dinocards-actualizar /usr/local/bin/dinocards-auto-actualizar /usr/local/bin/dinocards-dominio
 
 CLAVE=""
@@ -156,6 +187,7 @@ fi
 systemctl daemon-reload
 systemctl enable dinocards >/dev/null 2>&1
 systemctl enable --now dinocards-actualizar.timer >/dev/null 2>&1
+systemctl enable --now dinocards-dominio.path dinocards-dominio.timer >/dev/null 2>&1
 systemctl restart dinocards
 
 paso "Dirección pública"
