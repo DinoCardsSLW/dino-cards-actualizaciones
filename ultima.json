@@ -1,7 +1,7 @@
 {
-  "version": "1.42.0",
-  "fecha": "2026-11-21T22:35:02+00:00",
-  "notas": "Página web: página por juego, buscador, carrito lateral y barra en el celular.\n\n- **Página de cada juego** (por ejemplo /tienda/juego/pokemon): lo nuevo, preventas, torneos, ganadores, ofertas y cartas de ese juego en un solo lugar. \"Compra por juego\" en Inicio ahora lleva ahí.\n- **Buscador con sugerencias:** lupa en el encabezado de todas las páginas; mientras escribes aparecen productos, preventas y torneos con foto y precio.\n- **Carrito lateral:** al agregar algo se abre un panel con lo que llevas, cantidades, subtotal, lo que falta para el envío gratis y los botones Pagar y Seguir comprando.\n- **Barra en el celular:** Inicio, Buscar, Carrito y Mi cuenta siempre a la mano abajo de la pantalla.",
-  "instalador": "versiones/Instalar-DinoCards-1.42.0.exe",
-  "firma": "versiones/Instalar-DinoCards-1.42.0.exe.sig"
+  "version": "1.42.1",
+  "fecha": "2026-11-22T00:42:10+00:00",
+  "notas": "Página web: logos en la página de cada juego.\n\n- La página de cada juego muestra el mismo logo que \"Compra por juego\" en el Inicio (el que subiste o el que ya trae la tienda: Pokémon, Yu-Gi-Oh!, One Piece, Lorcana, Magic y Riftbound). También sale al compartir el enlace.",
+  "instalador": "versiones/Instalar-DinoCards-1.42.1.exe",
+  "firma": "versiones/Instalar-DinoCards-1.42.1.exe.sig"
 }

@@ -1,5 +1,11 @@
 # Novedades de Dino Cards
 
+## 1.42.1 · 2026-11-21
+
+Página web: logos en la página de cada juego.
+
+- La página de cada juego muestra el mismo logo que "Compra por juego" en el Inicio (el que subiste o el que ya trae la tienda: Pokémon, Yu-Gi-Oh!, One Piece, Lorcana, Magic y Riftbound). También sale al compartir el enlace.
+
 ## 1.42.0 · 2026-11-21
 
 Página web: página por juego, buscador, carrito lateral y barra en el celular.
