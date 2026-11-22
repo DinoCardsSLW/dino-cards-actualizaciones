@@ -1,7 +1,7 @@
 {
-  "version": "1.46.0",
-  "fecha": "2026-11-22T01:28:50+00:00",
-  "notas": "Preparación para el lanzamiento con www.dinocards.com.mx.\n\n- **Ajustes → Página web → Lanzamiento de la página:** dominio de la tienda y la casilla \"La página ya está lanzada\" (quita el aviso de pruebas y deja que Google muestre la tienda).\n- Cuando el dominio apunte al servidor, **www.dinocards.com.mx abre la tienda** (las computadoras de la tienda siguen entrando como siempre).\n- **Enlaces viejos de Shopify** (/products, /collections, /pages, /cart…) llevan a la página nueva.\n- **Google:** mapa del sitio con todos los productos y juegos, robots.txt y dirección oficial en cada página (solo al lanzar).\n- Página de **\"no encontrado\"** con buscador.",
-  "instalador": "versiones/Instalar-DinoCards-1.46.0.exe",
-  "firma": "versiones/Instalar-DinoCards-1.46.0.exe.sig"
+  "version": "1.46.1",
+  "fecha": "2026-11-22T01:35:41+00:00",
+  "notas": "Página web: política de cambios, devoluciones y cancelaciones.\n\n- Términos y condiciones: producto dañado o equivocado, cancelación de compras en línea dentro de 5 días hábiles (art. 56 de la LFPC), producto sellado abierto, compras en tienda, reembolsos y crédito en tienda.\n- Preguntas frecuentes: la respuesta de cambios y devoluciones ahora lo explica directo.",
+  "instalador": "versiones/Instalar-DinoCards-1.46.1.exe",
+  "firma": "versiones/Instalar-DinoCards-1.46.1.exe.sig"
 }

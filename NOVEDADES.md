@@ -1,5 +1,12 @@
 # Novedades de Dino Cards
 
+## 1.46.1 · 2026-11-21
+
+Página web: política de cambios, devoluciones y cancelaciones.
+
+- Términos y condiciones: producto dañado o equivocado, cancelación de compras en línea dentro de 5 días hábiles (art. 56 de la LFPC), producto sellado abierto, compras en tienda, reembolsos y crédito en tienda.
+- Preguntas frecuentes: la respuesta de cambios y devoluciones ahora lo explica directo.
+
 ## 1.46.0 · 2026-11-21
 
 Preparación para el lanzamiento con www.dinocards.com.mx.
