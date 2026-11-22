@@ -1,7 +1,7 @@
 {
-  "version": "1.42.1",
-  "fecha": "2026-11-22T00:42:10+00:00",
-  "notas": "Página web: logos en la página de cada juego.\n\n- La página de cada juego muestra el mismo logo que \"Compra por juego\" en el Inicio (el que subiste o el que ya trae la tienda: Pokémon, Yu-Gi-Oh!, One Piece, Lorcana, Magic y Riftbound). También sale al compartir el enlace.",
-  "instalador": "versiones/Instalar-DinoCards-1.42.1.exe",
-  "firma": "versiones/Instalar-DinoCards-1.42.1.exe.sig"
+  "version": "1.43.0",
+  "fecha": "2026-11-22T00:54:48+00:00",
+  "notas": "Página web: Preguntas frecuentes y formas de pago en el pie.\n\n- Nueva página **Preguntas frecuentes** (/tienda/ayuda): comprar y pagar, envíos y recoger, pile, preventas, condición de las cartas, Dino Puntos, Mi cuenta, torneos, cambios y privacidad. Usa tus ajustes (envío gratis, días para recoger, Dino Puntos), así que se mantiene al día sola.\n- El **pie de todas las páginas** muestra las formas de pago y entrega (Mercado Pago, pagar al recoger, recoger gratis, envíos) y el enlace a Preguntas frecuentes.",
+  "instalador": "versiones/Instalar-DinoCards-1.43.0.exe",
+  "firma": "versiones/Instalar-DinoCards-1.43.0.exe.sig"
 }

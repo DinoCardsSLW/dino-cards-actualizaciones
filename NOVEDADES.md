@@ -1,5 +1,12 @@
 # Novedades de Dino Cards
 
+## 1.43.0 · 2026-11-21
+
+Página web: Preguntas frecuentes y formas de pago en el pie.
+
+- Nueva página **Preguntas frecuentes** (/tienda/ayuda): comprar y pagar, envíos y recoger, pile, preventas, condición de las cartas, Dino Puntos, Mi cuenta, torneos, cambios y privacidad. Usa tus ajustes (envío gratis, días para recoger, Dino Puntos), así que se mantiene al día sola.
+- El **pie de todas las páginas** muestra las formas de pago y entrega (Mercado Pago, pagar al recoger, recoger gratis, envíos) y el enlace a Preguntas frecuentes.
+
 ## 1.42.1 · 2026-11-21
 
 Página web: logos en la página de cada juego.
