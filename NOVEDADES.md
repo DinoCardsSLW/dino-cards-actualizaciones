@@ -1,5 +1,10 @@
 # Novedades de Dino Cards
 
+## 1.51.0 · 2026-11-23
+
+- **Bandera del idioma en la página:** las fotos de los productos ahora muestran una pastilla con la bandera y el idioma (EN, ES o JP), según el campo Idioma del producto. Sale en el inicio, juegos, catálogo, cartas sueltas, página del producto, favoritos, preventas y subastas.
+- **Idioma en las preventas:** el formulario de preventa tiene ahora el campo Idioma, para que también lleven su bandera en la página.
+
 ## 1.50.6 · 2026-11-22
 
 - Torneos → Semana de torneos: en modo oscuro, al abrir **Artículos y premios** el recuadro salía blanco y no se leía nada. Ya se ve bien en los dos modos.

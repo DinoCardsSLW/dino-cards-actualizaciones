@@ -1,7 +1,7 @@
 {
-  "version": "1.50.6",
-  "fecha": "2026-11-23T04:04:37+00:00",
-  "notas": "- Torneos → Semana de torneos: en modo oscuro, al abrir **Artículos y premios** el recuadro salía blanco y no se leía nada. Ya se ve bien en los dos modos.\n- También se corrigieron dos colores que no existían en el modo oscuro (barras de Visitas a la página y el estado \"Pagada\" de Subastas).",
-  "instalador": "versiones/Instalar-DinoCards-1.50.6.exe",
-  "firma": "versiones/Instalar-DinoCards-1.50.6.exe.sig"
+  "version": "1.51.0",
+  "fecha": "2026-11-23T23:37:46+00:00",
+  "notas": "- **Bandera del idioma en la página:** las fotos de los productos ahora muestran una pastilla con la bandera y el idioma (EN, ES o JP), según el campo Idioma del producto. Sale en el inicio, juegos, catálogo, cartas sueltas, página del producto, favoritos, preventas y subastas.\n- **Idioma en las preventas:** el formulario de preventa tiene ahora el campo Idioma, para que también lleven su bandera en la página.",
+  "instalador": "versiones/Instalar-DinoCards-1.51.0.exe",
+  "firma": "versiones/Instalar-DinoCards-1.51.0.exe.sig"
 }
