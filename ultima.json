@@ -1,7 +1,7 @@
 {
-  "version": "1.50.5",
-  "fecha": "2026-11-22T21:51:45+00:00",
-  "notas": "- Página web: la cantidad de piezas **ya tampoco viaja en los datos** que baja la página (antes alguien que supiera revisar el código podía verla). Solo se sabe si queda 1, quedan 2, hay o está agotado. Si un cliente pide más piezas de las que hay, al hacer su pedido le dice cuántas quedan.",
-  "instalador": "versiones/Instalar-DinoCards-1.50.5.exe",
-  "firma": "versiones/Instalar-DinoCards-1.50.5.exe.sig"
+  "version": "1.50.6",
+  "fecha": "2026-11-23T04:04:37+00:00",
+  "notas": "- Torneos → Semana de torneos: en modo oscuro, al abrir **Artículos y premios** el recuadro salía blanco y no se leía nada. Ya se ve bien en los dos modos.\n- También se corrigieron dos colores que no existían en el modo oscuro (barras de Visitas a la página y el estado \"Pagada\" de Subastas).",
+  "instalador": "versiones/Instalar-DinoCards-1.50.6.exe",
+  "firma": "versiones/Instalar-DinoCards-1.50.6.exe.sig"
 }

@@ -1,5 +1,10 @@
 # Novedades de Dino Cards
 
+## 1.50.6 · 2026-11-22
+
+- Torneos → Semana de torneos: en modo oscuro, al abrir **Artículos y premios** el recuadro salía blanco y no se leía nada. Ya se ve bien en los dos modos.
+- También se corrigieron dos colores que no existían en el modo oscuro (barras de Visitas a la página y el estado "Pagada" de Subastas).
+
 ## 1.50.5 · 2026-11-22
 
 - Página web: la cantidad de piezas **ya tampoco viaja en los datos** que baja la página (antes alguien que supiera revisar el código podía verla). Solo se sabe si queda 1, quedan 2, hay o está agotado. Si un cliente pide más piezas de las que hay, al hacer su pedido le dice cuántas quedan.
