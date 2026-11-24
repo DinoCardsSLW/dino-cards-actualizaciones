@@ -1,5 +1,9 @@
 # Novedades de Dino Cards
 
+## 1.52.0 · 2026-11-23
+
+- **Subastas por tandas:** la página de Subastas agrupa las subastas que publicaste el mismo día y cierran a la misma hora. Cada tanda tiene su encabezado (cuándo se publicó, cuándo cierra y cuánto falta), la que cierra primero va arriba, las nuevas llevan la etiqueta "Nueva" y hay accesos rápidos arriba. Las que ya cerraron van al final, plegadas. Así puedes subir una tanda nueva aunque la anterior siga abierta.
+
 ## 1.51.0 · 2026-11-23
 
 - **Bandera del idioma en la página:** las fotos de los productos ahora muestran una pastilla con la bandera y el idioma (EN, ES o JP), según el campo Idioma del producto. Sale en el inicio, juegos, catálogo, cartas sueltas, página del producto, favoritos, preventas y subastas.

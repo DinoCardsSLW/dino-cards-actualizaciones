@@ -1,7 +1,7 @@
 {
-  "version": "1.51.0",
-  "fecha": "2026-11-23T23:37:46+00:00",
-  "notas": "- **Bandera del idioma en la página:** las fotos de los productos ahora muestran una pastilla con la bandera y el idioma (EN, ES o JP), según el campo Idioma del producto. Sale en el inicio, juegos, catálogo, cartas sueltas, página del producto, favoritos, preventas y subastas.\n- **Idioma en las preventas:** el formulario de preventa tiene ahora el campo Idioma, para que también lleven su bandera en la página.",
-  "instalador": "versiones/Instalar-DinoCards-1.51.0.exe",
-  "firma": "versiones/Instalar-DinoCards-1.51.0.exe.sig"
+  "version": "1.52.0",
+  "fecha": "2026-11-24T02:00:09+00:00",
+  "notas": "- **Subastas por tandas:** la página de Subastas agrupa las subastas que publicaste el mismo día y cierran a la misma hora. Cada tanda tiene su encabezado (cuándo se publicó, cuándo cierra y cuánto falta), la que cierra primero va arriba, las nuevas llevan la etiqueta \"Nueva\" y hay accesos rápidos arriba. Las que ya cerraron van al final, plegadas. Así puedes subir una tanda nueva aunque la anterior siga abierta.",
+  "instalador": "versiones/Instalar-DinoCards-1.52.0.exe",
+  "firma": "versiones/Instalar-DinoCards-1.52.0.exe.sig"
 }
