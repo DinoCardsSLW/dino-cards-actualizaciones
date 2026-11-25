@@ -1,5 +1,12 @@
 # Novedades de Dino Cards
 
+## 1.53.0 · 2026-11-25
+
+- **Preventa ligada a su producto:** en la preventa hay un campo nuevo, "Producto en inventario". Cuando entran piezas de ese producto (por remisión o entrada de proveedor), la preventa se marca como recibida sola y se abre el aviso a los clientes. Al recibir una remisión también se proponen las preventas que se parecen por nombre.
+- **Piezas apartadas:** las piezas de los pedidos de preventa sin entregar ya no se venden por error: en Inventario se ve "1 apartada", en Venta solo se venden las disponibles y la página web tampoco las ofrece.
+- **Al entregar un pedido de preventa** se descuenta la pieza del inventario.
+- **Aviso en Preventas** de las que ya llegaron sin producto ligado, para ligarlas.
+
 ## 1.52.0 · 2026-11-23
 
 - **Subastas por tandas:** la página de Subastas agrupa las subastas que publicaste el mismo día y cierran a la misma hora. Cada tanda tiene su encabezado (cuándo se publicó, cuándo cierra y cuánto falta), la que cierra primero va arriba, las nuevas llevan la etiqueta "Nueva" y hay accesos rápidos arriba. Las que ya cerraron van al final, plegadas. Así puedes subir una tanda nueva aunque la anterior siga abierta.
