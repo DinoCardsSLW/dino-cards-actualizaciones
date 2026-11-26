@@ -1,5 +1,9 @@
 # Novedades de Dino Cards
 
+## 1.54.0 · 2026-11-25
+
+- **Subastas por juego:** en la página de Subastas salen botones por juego (Todos, Pokémon, Yu-Gi-Oh!, One Piece…) para ver solo las de uno, sin perder la agrupación por tanda. La página recuerda el último juego elegido y se puede compartir el enlace de un juego, por ejemplo /tienda/subastas?juego=yugioh.
+
 ## 1.53.0 · 2026-11-25
 
 - **Preventa ligada a su producto:** en la preventa hay un campo nuevo, "Producto en inventario". Cuando entran piezas de ese producto (por remisión o entrada de proveedor), la preventa se marca como recibida sola y se abre el aviso a los clientes. Al recibir una remisión también se proponen las preventas que se parecen por nombre.
