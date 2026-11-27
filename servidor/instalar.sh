@@ -38,8 +38,8 @@ paso "Programa de Dino Cards"
 id dinocards >/dev/null 2>&1 || useradd --system --home "$DATOS" --shell /usr/sbin/nologin dinocards
 mkdir -p "$DATOS" && chown dinocards:dinocards "$DATOS" && chmod 700 "$DATOS"
 TMP=$(mktemp -d)
-curl -fsSL "$BASE/dinocards-servidor" -o "$TMP/dinocards-servidor"
-curl -fsSL "$BASE/dinocards-servidor.sha256" -o "$TMP/sha"
+curl -fsSL "$BASE/dinocards-servidor?t=$(date +%s)" -o "$TMP/dinocards-servidor"
+curl -fsSL "$BASE/dinocards-servidor.sha256?t=$(date +%s)" -o "$TMP/sha"
 (cd "$TMP" && echo "$(cut -d' ' -f1 sha)  dinocards-servidor" | sha256sum -c --quiet -) || { echo "El archivo descargado no coincide. Vuelve a intentar."; exit 1; }
 install -m 755 "$TMP/dinocards-servidor" /usr/local/bin/dinocards-servidor
 rm -rf "$TMP"
@@ -105,15 +105,15 @@ BASE="https://raw.githubusercontent.com/DinoCardsSLW/dino-cards-actualizaciones/
 BIN=/usr/local/bin/dinocards-servidor
 TMP=$(mktemp -d); trap 'rm -rf "$TMP"' EXIT
 /usr/local/bin/dinocards-dominio || true
-curl -fsS --max-time 30 "$BASE/dinocards-servidor.sha256" -o "$TMP/sha" || exit 0
+curl -fsS --max-time 30 "$BASE/dinocards-servidor.sha256?t=$(date +%s)" -o "$TMP/sha" || exit 0
 NUEVO=$(cut -d' ' -f1 "$TMP/sha")
 ACTUAL=$(sha256sum "$BIN" | cut -d' ' -f1)
 [ -n "$NUEVO" ] && [ "$NUEVO" != "$ACTUAL" ] || exit 0
 H=$((10#$(date +%H)))
 IN=$(curl -fsS --max-time 5 http://127.0.0.1:47652/api/salud | grep -o '"inactivo":[0-9]*' | cut -d: -f2)
 if [ "${IN:-9999}" -lt 300 ] && ! [ "$H" -ge 2 -a "$H" -lt 5 ]; then echo "Hay una versión nueva; hay movimiento en la tienda, se instala más tarde."; exit 0; fi
-curl -fsS --max-time 300 "$BASE/dinocards-servidor" -o "$TMP/bin" || exit 0
-curl -fsS --max-time 30 "$BASE/dinocards-servidor.sig" -o "$TMP/sig" || exit 0
+curl -fsS --max-time 300 "$BASE/dinocards-servidor?t=$(date +%s)" -o "$TMP/bin" || exit 0
+curl -fsS --max-time 30 "$BASE/dinocards-servidor.sig?t=$(date +%s)" -o "$TMP/sig" || exit 0
 echo "$NUEVO  $TMP/bin" | sha256sum -c --quiet - || { echo "Descarga incompleta; se intenta más tarde."; exit 0; }
 if ! "$BIN" --verificar "$TMP/bin" "$TMP/sig" >/dev/null; then echo "FIRMA INVÁLIDA: la versión descargada no se instala."; exit 1; fi
 chmod 755 "$TMP/bin"
