@@ -1,5 +1,9 @@
 # Novedades de Dino Cards
 
+## 1.57.0 · 2026-11-26
+
+- **Avisos de preventas:** los avisos de ventas (ventana emergente en la computadora y Telegram en el celular) ahora también avisan cada apartado de preventa —de la página o de la tienda, con su anticipo— y cada abono a una preventa. Antes solo se avisaban las ventas.
+
 ## 1.56.0 · 2026-11-26
 
 - **Página de cada preventa en la tienda en línea:** cada preventa tiene su propia página con foto grande, cuenta regresiva para el cierre del apartado, lugares restantes cuando quedan pocos, el anticipo según el nivel del cliente, desglose del pago, línea de tiempo de fechas, botones para apartar y compartir, y otras preventas del mismo juego. Al compartir la liga por WhatsApp sale con su foto y precio. Las tarjetas del inicio, la lista de Preventas y el calendario llevan a esta página.
