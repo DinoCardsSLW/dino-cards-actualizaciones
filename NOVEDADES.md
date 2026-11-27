@@ -1,5 +1,13 @@
 # Novedades de Dino Cards
 
+## 1.59.2 · 2026-11-26
+
+**Pile of loot con transferencia**
+
+- Las cartas que el cliente guarda en su pile ahora también se pueden pagar por transferencia. Entran a su pile cuando confirmas el pago en Tienda en línea.
+- El envío del pile ("Pedir el envío de todo" en Mi cuenta) también se puede pagar por transferencia.
+- Al elegir "Guardar en mi pile", ya no aparece "Pagar al recoger en tienda"; en su lugar, un aviso explica que las cartas del pile se pagan al momento.
+
 ## 1.59.1 · 2026-11-26
 
 **CLABE oculta en Ajustes**

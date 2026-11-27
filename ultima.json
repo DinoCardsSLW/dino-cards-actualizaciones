@@ -1,7 +1,7 @@
 {
-  "version": "1.59.1",
-  "fecha": "2026-11-27T04:48:25+00:00",
-  "notas": "**CLABE oculta en Ajustes**\n\n- En Ajustes → Página web → Tienda en línea, la CLABE de la transferencia ahora solo muestra sus últimos 4 dígitos.\n- Para cambiarla, presiona Cambiar y escribe la nueva. Si guardas sin tocarla, se queda la misma.",
-  "instalador": "versiones/Instalar-DinoCards-1.59.1.exe",
-  "firma": "versiones/Instalar-DinoCards-1.59.1.exe.sig"
+  "version": "1.59.2",
+  "fecha": "2026-11-27T05:07:12+00:00",
+  "notas": "**Pile of loot con transferencia**\n\n- Las cartas que el cliente guarda en su pile ahora también se pueden pagar por transferencia. Entran a su pile cuando confirmas el pago en Tienda en línea.\n- El envío del pile (\"Pedir el envío de todo\" en Mi cuenta) también se puede pagar por transferencia.\n- Al elegir \"Guardar en mi pile\", ya no aparece \"Pagar al recoger en tienda\"; en su lugar, un aviso explica que las cartas del pile se pagan al momento.",
+  "instalador": "versiones/Instalar-DinoCards-1.59.2.exe",
+  "firma": "versiones/Instalar-DinoCards-1.59.2.exe.sig"
 }
