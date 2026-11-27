@@ -1,5 +1,13 @@
 # Novedades de Dino Cards
 
+## 1.59.3 · 2026-11-26
+
+**Nueva ventana para confirmar el pago por transferencia**
+
+- La ventana de "¿Confirmas tu pedido?" en la página se rediseñó: un resumen claro (productos, entrega, plazo) con el total a transferir destacado y botones grandes.
+- Se ve bien en modo claro, en modo oscuro y en celular, y se cierra con la X o tocando fuera.
+- Es la misma ventana para pedidos, el pile, apartados y abonos de preventa, y subastas.
+
 ## 1.59.2 · 2026-11-26
 
 **Pile of loot con transferencia**
