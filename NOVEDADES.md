@@ -1,5 +1,12 @@
 # Novedades de Dino Cards
 
+## 1.59.1 · 2026-11-26
+
+**CLABE oculta en Ajustes**
+
+- En Ajustes → Página web → Tienda en línea, la CLABE de la transferencia ahora solo muestra sus últimos 4 dígitos.
+- Para cambiarla, presiona Cambiar y escribe la nueva. Si guardas sin tocarla, se queda la misma.
+
 ## 1.59.0 · 2026-11-26
 
 **Pago por transferencia en la página**

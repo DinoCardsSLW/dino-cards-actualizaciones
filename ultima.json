@@ -1,7 +1,7 @@
 {
-  "version": "1.59.0",
-  "fecha": "2026-11-27T04:44:43+00:00",
-  "notas": "**Pago por transferencia en la página**\n\n- Los clientes ahora pueden pagar por transferencia bancaria sus pedidos de la página, los anticipos y abonos de preventa, y las subastas.\n- Tus datos bancarios solo se muestran después de que el cliente confirma que pagará por transferencia, en la página privada de su pedido, en su correo y en Mi cuenta. Nunca aparecen en el carrito ni en páginas públicas.\n- El cliente sube la foto de su comprobante y en Tienda en línea aparece \"Transferencias por confirmar\", con aviso en la computadora. Revisas tu banco y presionas Confirmar pago: el pedido se registra como venta pagada por transferencia y el anticipo o abono se suma a su apartado.\n- Con \"No llegó\" le avisas al cliente por correo para que revise y vuelva a subir su comprobante.\n- Si no paga en el plazo (24 horas por defecto), el pedido se cancela solo y las piezas regresan al inventario.\n- Se enciende en Ajustes → Página web → Tienda en línea, con banco, titular, CLABE y horas para pagar.",
-  "instalador": "versiones/Instalar-DinoCards-1.59.0.exe",
-  "firma": "versiones/Instalar-DinoCards-1.59.0.exe.sig"
+  "version": "1.59.1",
+  "fecha": "2026-11-27T04:48:25+00:00",
+  "notas": "**CLABE oculta en Ajustes**\n\n- En Ajustes → Página web → Tienda en línea, la CLABE de la transferencia ahora solo muestra sus últimos 4 dígitos.\n- Para cambiarla, presiona Cambiar y escribe la nueva. Si guardas sin tocarla, se queda la misma.",
+  "instalador": "versiones/Instalar-DinoCards-1.59.1.exe",
+  "firma": "versiones/Instalar-DinoCards-1.59.1.exe.sig"
 }
