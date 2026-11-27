@@ -1,5 +1,16 @@
 # Novedades de Dino Cards
 
+## 1.59.0 · 2026-11-26
+
+**Pago por transferencia en la página**
+
+- Los clientes ahora pueden pagar por transferencia bancaria sus pedidos de la página, los anticipos y abonos de preventa, y las subastas.
+- Tus datos bancarios solo se muestran después de que el cliente confirma que pagará por transferencia, en la página privada de su pedido, en su correo y en Mi cuenta. Nunca aparecen en el carrito ni en páginas públicas.
+- El cliente sube la foto de su comprobante y en Tienda en línea aparece "Transferencias por confirmar", con aviso en la computadora. Revisas tu banco y presionas Confirmar pago: el pedido se registra como venta pagada por transferencia y el anticipo o abono se suma a su apartado.
+- Con "No llegó" le avisas al cliente por correo para que revise y vuelva a subir su comprobante.
+- Si no paga en el plazo (24 horas por defecto), el pedido se cancela solo y las piezas regresan al inventario.
+- Se enciende en Ajustes → Página web → Tienda en línea, con banco, titular, CLABE y horas para pagar.
+
 ## 1.58.0 · 2026-11-26
 
 **Números de pedido cortos**
