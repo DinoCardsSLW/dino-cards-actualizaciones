@@ -1,5 +1,13 @@
 # Novedades de Dino Cards
 
+## 1.59.7 · 2026-11-26
+
+**Clic en la notificación de Windows**
+
+- Al dar clic en una notificación de Dino Cards (ventas, apartados, abonos o comprobantes de transferencia), la ventana del programa pasa al frente, aunque esté minimizada.
+- Si es un comprobante de transferencia, te lleva directo a Tienda en línea.
+- El aviso de la esquina ya no se quita mientras no estés en el programa: te espera hasta que regreses, para que puedas ver el ticket o revisar el comprobante.
+
 ## 1.59.6 · 2026-11-26
 
 **Aviso de comprobante de transferencia**

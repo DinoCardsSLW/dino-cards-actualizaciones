@@ -1,7 +1,7 @@
 {
-  "version": "1.59.6",
-  "fecha": "2026-11-27T05:47:39+00:00",
-  "notas": "**Aviso de comprobante de transferencia**\n\n- Cuando un cliente sube su comprobante de transferencia, ahora sale la ventana de aviso en la esquina, igual que con las ventas: dice quién es, el monto y si es un pedido o un anticipo o abono de preventa.\n- El botón \"Revisar\" te lleva a Tienda en línea para confirmar el pago. Si la ventana del programa no está al frente, también llega la notificación de Windows.",
-  "instalador": "versiones/Instalar-DinoCards-1.59.6.exe",
-  "firma": "versiones/Instalar-DinoCards-1.59.6.exe.sig"
+  "version": "1.59.7",
+  "fecha": "2026-11-27T05:54:42+00:00",
+  "notas": "**Clic en la notificación de Windows**\n\n- Al dar clic en una notificación de Dino Cards (ventas, apartados, abonos o comprobantes de transferencia), la ventana del programa pasa al frente, aunque esté minimizada.\n- Si es un comprobante de transferencia, te lleva directo a Tienda en línea.\n- El aviso de la esquina ya no se quita mientras no estés en el programa: te espera hasta que regreses, para que puedas ver el ticket o revisar el comprobante.",
+  "instalador": "versiones/Instalar-DinoCards-1.59.7.exe",
+  "firma": "versiones/Instalar-DinoCards-1.59.7.exe.sig"
 }
