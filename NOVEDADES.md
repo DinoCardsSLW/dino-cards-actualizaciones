@@ -1,5 +1,10 @@
 # Novedades de Dino Cards
 
+## 1.55.0 · 2026-11-26
+
+- **Avisos de ventas en la computadora:** a los usuarios que lo tengan activado (Ajustes → Usuarios y permisos; el Dueño ya lo trae) les sale una ventana emergente con sonido por cada venta nueva de cualquier caja o de la página, con botón para ver el ticket. Si el punto de venta está minimizado, también sale la notificación de Windows.
+- **Avisos de ventas al celular por Telegram:** en Ajustes → Página web → "Avisos de ventas al celular" se configura un bot de Telegram y se vinculan los celulares que deben recibir un mensaje por cada venta. Los manda el servidor, aunque no haya computadoras prendidas.
+
 ## 1.54.0 · 2026-11-25
 
 - **Subastas por juego:** en la página de Subastas salen botones por juego (Todos, Pokémon, Yu-Gi-Oh!, One Piece…) para ver solo las de uno, sin perder la agrupación por tanda. La página recuerda el último juego elegido y se puede compartir el enlace de un juego, por ejemplo /tienda/subastas?juego=yugioh.
