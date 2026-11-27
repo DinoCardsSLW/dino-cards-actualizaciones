@@ -1,5 +1,16 @@
 # Novedades de Dino Cards
 
+## 1.58.0 · 2026-11-26
+
+**Números de pedido cortos**
+
+- Cada venta, pedido de la página y apartado de preventa ahora tiene un número corto y consecutivo que sigue después de Shopify: #8813, #8814, #8815…
+- Las ventas y apartados que ya estaban registrados se renumeraron en orden de fecha.
+- El número aparece en el ticket, en Pedidos, en Tienda en línea, en Envíos, en los correos a clientes, en su página de pedido y en los avisos al celular.
+- Cuando se cobra o entrega un pedido de la página o un apartado de preventa, la venta conserva el mismo número del pedido.
+- Las ventas importadas de Shopify conservan su número y las de TikTok su TT-.
+- El folio largo de antes se queda guardado y el buscador lo sigue encontrando.
+
 ## 1.57.0 · 2026-11-26
 
 - **Avisos de preventas:** los avisos de ventas (ventana emergente en la computadora y Telegram en el celular) ahora también avisan cada apartado de preventa —de la página o de la tienda, con su anticipo— y cada abono a una preventa. Antes solo se avisaban las ventas.
