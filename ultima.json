@@ -1,7 +1,7 @@
 {
-  "version": "1.59.3",
-  "fecha": "2026-11-27T05:16:25+00:00",
-  "notas": "**Nueva ventana para confirmar el pago por transferencia**\n\n- La ventana de \"¿Confirmas tu pedido?\" en la página se rediseñó: un resumen claro (productos, entrega, plazo) con el total a transferir destacado y botones grandes.\n- Se ve bien en modo claro, en modo oscuro y en celular, y se cierra con la X o tocando fuera.\n- Es la misma ventana para pedidos, el pile, apartados y abonos de preventa, y subastas.",
-  "instalador": "versiones/Instalar-DinoCards-1.59.3.exe",
-  "firma": "versiones/Instalar-DinoCards-1.59.3.exe.sig"
+  "version": "1.59.4",
+  "fecha": "2026-11-27T05:22:46+00:00",
+  "notas": "**Botones más visibles en la página del pedido**\n\n- Los botones \"Copiar\" de los datos para transferir (CLABE, monto y concepto) ahora se ven como botones, con ícono, en modo claro y oscuro, y se ponen en verde al copiar.\n- \"Seguir comprando\" ahora es un botón con borde que sí se ve en modo oscuro.",
+  "instalador": "versiones/Instalar-DinoCards-1.59.4.exe",
+  "firma": "versiones/Instalar-DinoCards-1.59.4.exe.sig"
 }

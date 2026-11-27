@@ -1,5 +1,12 @@
 # Novedades de Dino Cards
 
+## 1.59.4 · 2026-11-26
+
+**Botones más visibles en la página del pedido**
+
+- Los botones "Copiar" de los datos para transferir (CLABE, monto y concepto) ahora se ven como botones, con ícono, en modo claro y oscuro, y se ponen en verde al copiar.
+- "Seguir comprando" ahora es un botón con borde que sí se ve en modo oscuro.
+
 ## 1.59.3 · 2026-11-26
 
 **Nueva ventana para confirmar el pago por transferencia**
