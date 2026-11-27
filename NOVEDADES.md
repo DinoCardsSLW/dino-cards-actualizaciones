@@ -1,5 +1,11 @@
 # Novedades de Dino Cards
 
+## 1.59.5 · 2026-11-26
+
+**Botones más claros en modo oscuro**
+
+- "Seguir comprando" y los botones "Copiar" de la página del pedido ahora tienen fondo y borde más claros en modo oscuro, para que se vean como botones.
+
 ## 1.59.4 · 2026-11-26
 
 **Botones más visibles en la página del pedido**

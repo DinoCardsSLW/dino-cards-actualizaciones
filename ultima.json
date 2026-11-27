@@ -1,7 +1,7 @@
 {
-  "version": "1.59.4",
-  "fecha": "2026-11-27T05:22:46+00:00",
-  "notas": "**Botones más visibles en la página del pedido**\n\n- Los botones \"Copiar\" de los datos para transferir (CLABE, monto y concepto) ahora se ven como botones, con ícono, en modo claro y oscuro, y se ponen en verde al copiar.\n- \"Seguir comprando\" ahora es un botón con borde que sí se ve en modo oscuro.",
-  "instalador": "versiones/Instalar-DinoCards-1.59.4.exe",
-  "firma": "versiones/Instalar-DinoCards-1.59.4.exe.sig"
+  "version": "1.59.5",
+  "fecha": "2026-11-27T05:26:34+00:00",
+  "notas": "**Botones más claros en modo oscuro**\n\n- \"Seguir comprando\" y los botones \"Copiar\" de la página del pedido ahora tienen fondo y borde más claros en modo oscuro, para que se vean como botones.",
+  "instalador": "versiones/Instalar-DinoCards-1.59.5.exe",
+  "firma": "versiones/Instalar-DinoCards-1.59.5.exe.sig"
 }
