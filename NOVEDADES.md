@@ -1,5 +1,12 @@
 # Novedades de Dino Cards
 
+## 1.59.6 · 2026-11-26
+
+**Aviso de comprobante de transferencia**
+
+- Cuando un cliente sube su comprobante de transferencia, ahora sale la ventana de aviso en la esquina, igual que con las ventas: dice quién es, el monto y si es un pedido o un anticipo o abono de preventa.
+- El botón "Revisar" te lleva a Tienda en línea para confirmar el pago. Si la ventana del programa no está al frente, también llega la notificación de Windows.
+
 ## 1.59.5 · 2026-11-26
 
 **Botones más claros en modo oscuro**

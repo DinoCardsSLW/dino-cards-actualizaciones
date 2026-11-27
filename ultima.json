@@ -1,7 +1,7 @@
 {
-  "version": "1.59.5",
-  "fecha": "2026-11-27T05:26:34+00:00",
-  "notas": "**Botones más claros en modo oscuro**\n\n- \"Seguir comprando\" y los botones \"Copiar\" de la página del pedido ahora tienen fondo y borde más claros en modo oscuro, para que se vean como botones.",
-  "instalador": "versiones/Instalar-DinoCards-1.59.5.exe",
-  "firma": "versiones/Instalar-DinoCards-1.59.5.exe.sig"
+  "version": "1.59.6",
+  "fecha": "2026-11-27T05:47:39+00:00",
+  "notas": "**Aviso de comprobante de transferencia**\n\n- Cuando un cliente sube su comprobante de transferencia, ahora sale la ventana de aviso en la esquina, igual que con las ventas: dice quién es, el monto y si es un pedido o un anticipo o abono de preventa.\n- El botón \"Revisar\" te lleva a Tienda en línea para confirmar el pago. Si la ventana del programa no está al frente, también llega la notificación de Windows.",
+  "instalador": "versiones/Instalar-DinoCards-1.59.6.exe",
+  "firma": "versiones/Instalar-DinoCards-1.59.6.exe.sig"
 }
