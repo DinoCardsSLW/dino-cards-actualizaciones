@@ -1,7 +1,7 @@
 {
-  "version": "1.59.7",
-  "fecha": "2026-11-27T05:54:42+00:00",
-  "notas": "**Clic en la notificación de Windows**\n\n- Al dar clic en una notificación de Dino Cards (ventas, apartados, abonos o comprobantes de transferencia), la ventana del programa pasa al frente, aunque esté minimizada.\n- Si es un comprobante de transferencia, te lleva directo a Tienda en línea.\n- El aviso de la esquina ya no se quita mientras no estés en el programa: te espera hasta que regreses, para que puedas ver el ticket o revisar el comprobante.",
-  "instalador": "versiones/Instalar-DinoCards-1.59.7.exe",
-  "firma": "versiones/Instalar-DinoCards-1.59.7.exe.sig"
+  "version": "1.60.0",
+  "fecha": "2026-11-27T06:06:17+00:00",
+  "notas": "**Subastas: pagar varias juntas**\n\n- En Subastas → Por pagar, las subastas del mismo ganador se agrupan con su total y el botón \"Cobrar todas\": un solo cobro, una sola venta y un solo ticket. Puedes quitar las que no se lleve.\n- En Mi cuenta, el cliente con 2 o más subastas por pagar puede pagarlas todas juntas: por transferencia (un solo pago, con su número de tarjeta como concepto) o en línea con Mercado Pago, si lo tienes encendido.\n- Cada subasta conserva su propia fecha límite.\n- En la página de Subastas, el acceso rápido dice \"De ayer\" en lugar de \"Del Ayer\".",
+  "instalador": "versiones/Instalar-DinoCards-1.60.0.exe",
+  "firma": "versiones/Instalar-DinoCards-1.60.0.exe.sig"
 }

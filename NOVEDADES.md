@@ -1,5 +1,14 @@
 # Novedades de Dino Cards
 
+## 1.60.0 · 2026-11-27
+
+**Subastas: pagar varias juntas**
+
+- En Subastas → Por pagar, las subastas del mismo ganador se agrupan con su total y el botón "Cobrar todas": un solo cobro, una sola venta y un solo ticket. Puedes quitar las que no se lleve.
+- En Mi cuenta, el cliente con 2 o más subastas por pagar puede pagarlas todas juntas: por transferencia (un solo pago, con su número de tarjeta como concepto) o en línea con Mercado Pago, si lo tienes encendido.
+- Cada subasta conserva su propia fecha límite.
+- En la página de Subastas, el acceso rápido dice "De ayer" en lugar de "Del Ayer".
+
 ## 1.59.7 · 2026-11-26
 
 **Clic en la notificación de Windows**
