@@ -1,5 +1,9 @@
 # Novedades de Dino Cards
 
+## 1.56.0 · 2026-11-26
+
+- **Página de cada preventa en la tienda en línea:** cada preventa tiene su propia página con foto grande, cuenta regresiva para el cierre del apartado, lugares restantes cuando quedan pocos, el anticipo según el nivel del cliente, desglose del pago, línea de tiempo de fechas, botones para apartar y compartir, y otras preventas del mismo juego. Al compartir la liga por WhatsApp sale con su foto y precio. Las tarjetas del inicio, la lista de Preventas y el calendario llevan a esta página.
+
 ## 1.55.0 · 2026-11-26
 
 - **Avisos de ventas en la computadora:** a los usuarios que lo tengan activado (Ajustes → Usuarios y permisos; el Dueño ya lo trae) les sale una ventana emergente con sonido por cada venta nueva de cualquier caja o de la página, con botón para ver el ticket. Si el punto de venta está minimizado, también sale la notificación de Windows.
